@@ -2,6 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
+      - Hack for Public Good 2021/Look Back.md
       - Hack for Public Good 2021/Helpgovsg.md
       - Hack for Public Good 2021/Handsy.md
       - Hack for Public Good 2021/Govsearch.md
