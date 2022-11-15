@@ -2,6 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
+      - Hack for Public Good 2021/ChopChopDoc.md
       - Hack for Public Good 2021/Checkfirst.md
       - Hack for Public Good 2021/Anything Mapper.md
       - Hack for Public Good 2021/.keep
