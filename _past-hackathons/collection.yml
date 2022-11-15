@@ -2,7 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
-      - 2021/Anything Mapper.md
-      - 2021/.keep
+      - Hack for Public Good 2021/Anything Mapper.md
+      - Hack for Public Good 2021/.keep
       - 2022/.keep
       - 2022/subfolder-page.md
