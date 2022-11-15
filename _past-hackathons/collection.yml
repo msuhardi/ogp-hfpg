@@ -2,6 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
+      - Hack for Public Good 2021/Transparency.md
       - Hack for Public Good 2021/SanBaiQian.md
       - Hack for Public Good 2021/Queue.md
       - Hack for Public Good 2021/Personalised Forms.md
