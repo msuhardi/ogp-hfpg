@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - 2021.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - 2022/.keep
+      - 2022/subfolder-page.md
