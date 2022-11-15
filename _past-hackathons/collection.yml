@@ -2,7 +2,7 @@ collections:
   past-hackathons:
     output: true
     order:
-      - 2021/2021 Projects.md
+      - 2021/Checkfirst.md
       - 2021/.keep
       - 2022/.keep
       - 2022/subfolder-page.md
