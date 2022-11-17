@@ -17,7 +17,7 @@ sections:
         - title: theme and problem statements
           description: Key Highlight description
           url: ""
-        - title: Past projects
+        - title: Past Hackathons
           description: Key Highlight description
           url: ""
   - infobar:
