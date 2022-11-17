@@ -12,8 +12,8 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: About HFPG
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /about-hfpg/whatishfpg/
         - title: theme and problem statements
           description: Key Highlight description
           url: ""
