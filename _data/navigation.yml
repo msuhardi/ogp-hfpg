@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About HFPG
+    collection: about-hfpg
+  - title: Past Hackathons
+    collection: past-hackathons
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Past Hackathons
-    collection: past-hackathons
