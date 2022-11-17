@@ -8,14 +8,13 @@ notification: ""
 sections:
   - hero:
       title: Hack for Public Good 2023
-      subtitle: Tagline here
       background: /images/hero-banner.png
       key_highlights:
         - title: About HFPG
           description: ""
           url: /about-hfpg/whatishfpg/
         - title: theme and problem statements
-          description: Key Highlight description
+          description: ""
           url: ""
         - title: Past Hackathons
           description: ""
