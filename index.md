@@ -18,8 +18,8 @@ sections:
           description: Key Highlight description
           url: ""
         - title: Past Hackathons
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infobar:
       title: What is Hack for Public Good?
       description: Hack for Public Good is an annual fixture of OGP’s way of work to
