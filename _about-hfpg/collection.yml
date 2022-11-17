@@ -1,4 +1,5 @@
 collections:
   about-hfpg:
     output: true
-    order: []
+    order:
+      - How it works.md
