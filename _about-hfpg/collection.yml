@@ -2,5 +2,5 @@ collections:
   about-hfpg:
     output: true
     order:
-      - How HFPG works.md
       - What is HFPG.md
+      - How HFPG works.md
