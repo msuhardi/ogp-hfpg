@@ -15,7 +15,7 @@ sections:
           url: /about-hfpg/whatishfpg/
         - title: theme and problem statements
           description: ""
-          url: ""
+          url: /themes-problem-statements/
         - title: Past Hackathons
           description: ""
           url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
