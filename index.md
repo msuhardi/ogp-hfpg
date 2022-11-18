@@ -24,7 +24,7 @@ sections:
       description: Hack for Public Good is an annual fixture of OGP’s way of work to
         keep us identifying and working on building tech to deliver public good.
       button: ABOUT HFPG
-      url: /faq/
+      url: /about-hfpg/whatishfpg/
   - infobar:
       title: Theme title
       subtitle: Theme and problem statements
