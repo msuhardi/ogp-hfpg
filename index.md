@@ -30,7 +30,7 @@ sections:
       subtitle: Theme and problem statements
       description: About this year's theme
       button: Find out more
-      url: open.gov.sg
+      url: /themes-problem-statements/
   - infopic:
       title: Notable past projects
       description: Infopic description
