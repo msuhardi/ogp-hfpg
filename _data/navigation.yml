@@ -2,9 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About HFPG
     collection: about-hfpg
-  - title: Past Hackathons
-    collection: past-hackathons
   - title: Themes and problem statements
     url: /themes-problem-statements/
+  - title: 2023 Prototypes
+    collection: 2023-prototypes
+  - title: Past Hackathons
+    collection: past-hackathons
   - title: Newsroom
     url: /newsroom
