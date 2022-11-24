@@ -1,5 +1,5 @@
 collections:
-  past-hackathons:
+  past-projects:
     output: true
     order:
       - Hack for Public Good 2022/.keep
