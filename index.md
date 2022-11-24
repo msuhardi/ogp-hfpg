@@ -33,9 +33,15 @@ sections:
       alt: Image alt text
   - infopic:
       title: Hackathon Schedule
-      subtitle: Schedule and events
-      description: Seed, Build Launch
+      description: Seed, Build, Launch
       button: Find out more
       url: /2023-prototypes/seed/
+      alt: Image alt text
+  - infopic:
+      title: Submit your problem statements
+      description: "Join us to build a better Singapore! Submit your problem
+        statements to us through the link below. "
+      button: SUbmit
+      url: open.gov.sg
       alt: Image alt text
 ---
