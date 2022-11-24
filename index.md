@@ -34,8 +34,8 @@ sections:
   - infopic:
       title: Hackathon Schedule
       subtitle: Schedule and events
-      description: About the schedule
+      description: Seed, Build Launch
       button: Find out more
-      url: open.gov.sg
+      url: /2023-prototypes/seed/
       alt: Image alt text
 ---
