@@ -13,24 +13,18 @@ sections:
         - title: "About "
           description: ""
           url: /about-hfpg/whatishfpg/
-        - title: Past Hackathons
-          description: ""
-          url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
         - title: Hack for public good 2023
           description: ""
           url: ""
+        - title: Past Hackathons
+          description: ""
+          url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infobar:
       title: What is Hack for Public Good?
       description: Hack for Public Good is an annual fixture of OGP’s way of work to
         keep us identifying and working on building tech to deliver public good.
       button: ABOUT HFPG
       url: /about-hfpg/whatishfpg/
-  - infobar:
-      title: Theme title
-      subtitle: Theme and problem statements
-      description: About this year's theme
-      button: Find out more
-      url: /themes-problem-statements/
   - infopic:
       title: Notable past projects
       description: Infopic description
