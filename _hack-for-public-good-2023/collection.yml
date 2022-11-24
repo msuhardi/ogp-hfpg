@@ -2,6 +2,6 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
-      - Launch.md
-      - Build.md
       - Seed.md
+      - Build.md
+      - Launch.md
