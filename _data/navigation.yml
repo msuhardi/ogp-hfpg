@@ -2,10 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     collection: about
-  - title: Themes and problem statements
-    url: /themes-problem-statements/
   - title: Hack For Public Good 2023
     collection: hack-for-public-good-2023
+  - title: Beta
+    collection: beta
   - title: Past Projects
     collection: past-projects
   - title: Newsroom
