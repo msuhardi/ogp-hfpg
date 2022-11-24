@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hack for Public Good 2023
-      background: /images/hero-banner.png
+      background: /images/banner.png
       key_highlights:
         - title: "About "
           description: ""
@@ -31,6 +30,7 @@ sections:
         through Hack for Public Good, a month-long event held annually.
       button: Button Text
       alt: Image alt text
+      image: /images/header (320 × 200px) (1720 × 1050px) (810 × 490px).gif
   - infopic:
       title: Hackathon Schedule
       description: Seed, Build, Launch
