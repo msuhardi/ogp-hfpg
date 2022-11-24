@@ -16,7 +16,7 @@ sections:
         - title: Hack for public good 2023
           description: ""
           url: ""
-        - title: Past Hackathons
+        - title: Past Projects
           description: ""
           url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infobar:
