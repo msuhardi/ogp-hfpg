@@ -2,4 +2,5 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - Build.md
       - Seed.md
