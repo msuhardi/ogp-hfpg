@@ -1,5 +1,5 @@
 collections:
-  2023-prototypes:
+  hack-for-public-good-2023:
     output: true
     order:
       - Prototype name.md
