@@ -27,7 +27,8 @@ sections:
       url: /about-hfpg/whatishfpg/
   - infopic:
       title: Notable past projects
-      description: Infopic description
+      description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
+        through Hack for Public Good, a month-long event held annually.
       button: Button Text
       alt: Image alt text
       subtitle: Live projects
