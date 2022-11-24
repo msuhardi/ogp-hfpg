@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - What is HFPG.md
+      - Hack for Public Good.md
       - How HFPG works.md
