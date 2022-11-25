@@ -28,9 +28,10 @@ sections:
       title: Past Projects
       description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
         through Hack for Public Good, a month-long event held annually.
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       image: /images/header (320 × 200px) (1720 × 1050px) (810 × 490px).gif
+      url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infopic:
       title: Hackathon Schedule
       description: Seed, Build, Launch
