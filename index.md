@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: "About "
           description: ""
-          url: /about-hfpg/whatishfpg/
+          url: /about-hfpg/hfpg/
         - title: Hack for public good 2023
           description: ""
           url: /2023-prototypes/seed/
