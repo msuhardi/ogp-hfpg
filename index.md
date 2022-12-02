@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/HFPGBanner3.png
       key_highlights:
-        - title: ""
+        - title: Seed
           description: ""
           url: /about-hfpg/hfpg/
-        - title: ""
+        - title: Build
           description: ""
           url: /2023-prototypes/seed/
-        - title: ""
+        - title: Launch
           description: ""
           url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infobar:
@@ -39,10 +39,9 @@ sections:
       url: /2023-prototypes/seed/
       alt: Image alt text
   - infopic:
-      title: Submit your problem statements
-      description: "Join us to build a better Singapore! Submit your problem
-        statements to us through the link below. "
-      button: SUbmit
-      url: open.gov.sg
+      title: Ground-up feedback
+      description: Share with us some of the problems that you experience in Singapore.
+      button: Submit
+      url: form.gov.sg/637cb43cd48fc50011646422
       alt: Image alt text
 ---
