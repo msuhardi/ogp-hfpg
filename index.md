@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Microsite Banner.png
+      background: /images/HFPGbanner.png
       key_highlights:
         - title: "About "
           description: ""
