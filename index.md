@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner4.png
+      background: /images/Microsite Banner.png
       key_highlights:
         - title: "About "
           description: ""
@@ -46,5 +46,3 @@ sections:
       url: open.gov.sg
       alt: Image alt text
 ---
-
-
