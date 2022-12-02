@@ -2,7 +2,7 @@
 layout: homepage
 title: Hack for Public Good
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/H4PG 2023 Logo.png
 permalink: /
 notification: ""
 sections:
@@ -46,4 +46,5 @@ sections:
       url: open.gov.sg
       alt: Image alt text
 ---
+
 
