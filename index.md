@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HFPGbanner.png
+      background: /images/HFPGBanner2.png
       key_highlights:
         - title: "About "
           description: ""
