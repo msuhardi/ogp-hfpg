@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/HFPGBanner3.png
       key_highlights:
-        - title: "About "
+        - title: ""
           description: ""
           url: /about-hfpg/hfpg/
-        - title: Hack for public good 2023
+        - title: ""
           description: ""
           url: /2023-prototypes/seed/
-        - title: Past Projects
+        - title: ""
           description: ""
           url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
   - infobar:
