@@ -28,4 +28,5 @@ sections:
       button: Submit
       url: https://go.gov.sg/ogp-citizens
       alt: Image alt text
+      image: /images/citizenfeedback.png
 ---
