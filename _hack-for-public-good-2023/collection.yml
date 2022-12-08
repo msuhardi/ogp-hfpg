@@ -1,5 +1,4 @@
 collections:
   hack-for-public-good-2023:
     output: true
-    order:
-      - Upcoming.md
+    order: []
