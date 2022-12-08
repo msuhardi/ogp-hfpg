@@ -26,6 +26,6 @@ sections:
       title: Citizen feedback
       description: Share with us some of the problems that you experience in Singapore.
       button: Submit
-      url: form.gov.sg/637cb43cd48fc50011646422
+      url: https://go.gov.sg/ogp-citizens
       alt: Image alt text
 ---
