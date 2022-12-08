@@ -2,8 +2,8 @@ logo: /images/Blue_2023_H4PG_Logo.svg
 links:
   - title: About
     collection: about
-  - title: Hack For Public Good 2023
-    collection: hack-for-public-good-2023
+  - title: Hack for Public Good 2023
+    url: /permalink
   - title: Beta
     collection: beta
   - title: Past Projects
