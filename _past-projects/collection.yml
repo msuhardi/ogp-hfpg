@@ -1,0 +1,42 @@
+collections:
+  past-projects:
+    output: true
+    order:
+      - Hack for Public Good 2022/.keep
+      - Hack for Public Good 2022/About HFPG 2022.md
+      - Hack for Public Good 2022/CalSG.md
+      - Hack for Public Good 2022/CloudCity.md
+      - Hack for Public Good 2022/Data Buddy.md
+      - Hack for Public Good 2022/DiscoverSG.md
+      - Hack for Public Good 2022/DocuLens.md
+      - Hack for Public Good 2022/Isomer Launch.md
+      - Hack for Public Good 2022/Meet?Meet.md
+      - Hack for Public Good 2022/Memo.md
+      - Hack for Public Good 2022/OGP Design System.md
+      - Hack for Public Good 2022/OGP Engage.md
+      - Hack for Public Good 2022/OneUnified System Starter Pack.md
+      - Hack for Public Good 2022/Ownself Go.md
+      - Hack for Public Good 2022/QuizSG.md
+      - Hack for Public Good 2022/ResolveSG.md
+      - Hack for Public Good 2022/Spotlight.md
+      - Hack for Public Good 2022/UnboringSG.md
+      - Hack for Public Good 2022/whosyourkaki.md
+      - Hack for Public Good 2022/WhoThis.md
+      - Hack for Public Good 2021/.keep
+      - Hack for Public Good 2021/About HFPG 2021.md
+      - Hack for Public Good 2021/Typesafe.md
+      - Hack for Public Good 2021/Transparency.md
+      - Hack for Public Good 2021/SanBaiQian.md
+      - Hack for Public Good 2021/Queue.md
+      - Hack for Public Good 2021/Personalised Forms.md
+      - Hack for Public Good 2021/Payments.md
+      - Hack for Public Good 2021/Look Back.md
+      - Hack for Public Good 2021/Helpgovsg.md
+      - Hack for Public Good 2021/Handsy.md
+      - Hack for Public Good 2021/Govsearch.md
+      - Hack for Public Good 2021/Diffindo.md
+      - Hack for Public Good 2021/Dash.md
+      - Hack for Public Good 2021/Commongovsg.md
+      - Hack for Public Good 2021/ChopChopDoc.md
+      - Hack for Public Good 2021/Checkfirst.md
+      - Hack for Public Good 2021/Anything Mapper.md

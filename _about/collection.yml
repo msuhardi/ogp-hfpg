@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - Hack for Public Good.md
+      - How HFPG works.md

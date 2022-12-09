@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/HFPG23.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about
+  - title: Hack for Public Good 2023
+    url: /2023/
+  - title: Beta
+    collection: beta
+  - title: Past Projects
+    collection: past-projects
+  - title: Newsroom
+    url: /newsroom
