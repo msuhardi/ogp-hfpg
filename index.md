@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HFPGBanner3.png
+      background: /images/HFPGbanner.jpg
   - infobar:
       title: What is Hack for Public Good?
       description: Hack for Public Good is an annual fixture of OGP’s way of work to
