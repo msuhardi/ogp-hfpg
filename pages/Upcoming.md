@@ -23,5 +23,3 @@ Phase 3: Launch (6 - 9 February)
 In the final week of HFPG, teams prepare for Demo Day on 9 February 2023. Demo Day is an opportunity for teams to present their prototypes to senior government officials and the public. Demo Day will be an opportunity for teams to persuade decision makers to further resource prototypes with traction. This ensures that some of these prototypes can become full-fledged products that deliver public good impact.
 
 Demo Day will be livestreamed to the public. Stay tuned for more details.
-
-**
