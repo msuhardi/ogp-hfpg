@@ -2,4 +2,4 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
-      - Upcoming.md
+      - Hack for Public Good 2023.md
