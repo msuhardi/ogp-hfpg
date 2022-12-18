@@ -3,11 +3,9 @@ title: Upcoming
 permalink: /2023/
 description: ""
 ---
-**
-
 [Open Government Products](https://open.gov.sg)’ (OGP) Hack for Public Good (HFPG) 2023 will take place from 3 January - 9 February. Our team will work with other government agencies to seed public good problems, build prototypes, and launch products. 
 
-(Read [here](https://hack.gov.sg/about-hfpg/hfpg/) to find out more about H4PG)
+(Read [here](https://hack.gov.sg/about-hfpg/hfpg/) to find out more about HFPG)
 
 Phase 1: Seed (3 - 6 January)
 -----------------------------
