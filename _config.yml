@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: Changing how the Singapore government builds tech
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1xio9axyc2r3w.amplifyapp.com
 prod: https://master.d1xio9axyc2r3w.amplifyapp.com
 shareicon: /images/H4PG 2023 Logo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
