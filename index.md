@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Hack for Public Good
-description: Brief site description here
+description: Changing how the Singapore government builds tech
 image: /images/H4PG 2023 Logo.png
 permalink: /
 notification: ""
@@ -30,3 +30,4 @@ sections:
       alt: Image alt text
       image: /images/citizenfeedback.png
 ---
+
