@@ -13,7 +13,7 @@ sections:
       description: Hack for Public Good is an annual fixture of OGP’s way of work to
         keep us identifying and working on building tech to deliver public good.
       button: ABOUT HFPG
-      url: /about-hfpg/whatishfpg/
+      url: /about-hfpg/hfpg/
   - infopic:
       title: Past Projects
       description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
@@ -30,4 +30,3 @@ sections:
       alt: Image alt text
       image: /images/citizenfeedback.png
 ---
-
