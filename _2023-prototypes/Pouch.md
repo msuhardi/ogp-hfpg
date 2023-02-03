@@ -4,7 +4,7 @@ permalink: /2023-prototypes/pouch/
 description: ""
 ---
 ### Problem
-Text
+Public officers often need to share large files with vendors, but use CDs and thumb drives.
 
 ### Solution
-Text
+A file-sharing platform, which lets public officers securely share files with external parties.
