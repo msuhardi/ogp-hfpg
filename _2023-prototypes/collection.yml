@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Golden Path.md
       - AttendGov.md
       - Badges.md
       - Build Your Own Singaporean.md
@@ -11,3 +10,4 @@ collections:
       - Digital Inclusion.md
       - EngageSG.md
       - Filtable.md
+      - Golden Path.md
