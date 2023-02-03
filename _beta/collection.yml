@@ -2,8 +2,8 @@ collections:
   beta:
     output: true
     order:
+      - T&Cs.md
+      - Privacy statement.md
+      - Prototypes/.keep
       - Prototypes/Stage presentations.md
       - Prototypes/Exhibition Booths.md
-      - Prototypes/.keep
-      - Privacy statement.md
-      - T&Cs.md
