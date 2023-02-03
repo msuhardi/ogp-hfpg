@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - EngageSG.md
       - Filtable.md
       - Golden Path.md
       - IsoVault.md
