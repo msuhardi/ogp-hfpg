@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Exhibition Booths/.keep
-      - Exhibition Booths/Digital Inclusion.md
       - Exhibition Booths/Stage presentations.md
       - Exhibition Booths/Exhibition Booths.md
       - T&Cs.md
