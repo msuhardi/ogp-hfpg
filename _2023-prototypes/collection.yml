@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - CheckPoint.md
       - CertSG.md
       - CalSG.md
       - Backyard Heritage.md
