@@ -4,7 +4,7 @@ permalink: /2023-prototypes/sort-of-logical-notifier/
 description: ""
 ---
 ### Problem
-Text
+Manually tracking large CSV files, filtering recipients based on certain conditions, and reaching out to them is tedious.
 
 ### Solution
-Text
+LogicalNotifier allows users to select a certain logic for their CSV files (or also connect to Vault), and automatically ping recipients based on these conditions.
