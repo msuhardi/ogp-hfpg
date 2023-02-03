@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - ProcureGuide.md
       - Pouch.md
       - OfficeSG.md
       - AttendGov.md
