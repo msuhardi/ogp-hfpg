@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - Where's Wally.md
       - String for Teachers.md
       - SmartGov.md
       - Sort of Logical Notifier.md
