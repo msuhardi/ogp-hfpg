@@ -1,5 +1,5 @@
 collections:
-  beta:
+  prototypes:
     output: true
     order:
       - T&Cs.md
