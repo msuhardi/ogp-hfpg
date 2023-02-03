@@ -1,4 +1,5 @@
 collections:
   beta:
     output: true
-    order: []
+    order:
+      - T&Cs.md
