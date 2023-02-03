@@ -2,6 +2,7 @@ collections:
   beta:
     output: true
     order:
+      - Demo Day.md
       - Prototypes/.keep
       - Prototypes/Stage presentations.md
       - Prototypes/Exhibition Booths.md
