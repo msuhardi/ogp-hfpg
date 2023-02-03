@@ -4,7 +4,7 @@ permalink: /2023-prototypes/certsg/
 description: ""
 ---
 ### Problem
-text
+Doctors and professionals in many other fields require training and certifications for continued practice, but there is no centralised platform to manage multiple required certificates, their respective training programs, and assessments.
 
 ### Solution
-text
+CertSG will help administrators seamlessly manage certificates for thousands of healthcare staff, so that doctors and other staff can continue serving a long line of patients without interruption.
