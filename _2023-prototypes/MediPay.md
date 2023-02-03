@@ -4,7 +4,7 @@ permalink: /2023-prototypes/medipay/
 description: ""
 ---
 ### Problem
-text
+There is a lack of cost transparency for healthcare services at GP clinics, resulting in patients being overcharged, or avoiding critical preventative care services.
 
 ### Solution
-text
+MediPay helps patients pay as little as possible, and promotes cost transparency by giving patients perfect information tailored to them (e.g. Govt subsidies, insurance coverage, MediSave payable, out of pocket cost).
