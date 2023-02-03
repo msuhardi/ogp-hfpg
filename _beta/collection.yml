@@ -2,5 +2,6 @@ collections:
   beta:
     output: true
     order:
+      - Prototypes.md
       - Privacy statement.md
       - T&Cs.md
