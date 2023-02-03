@@ -2,6 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Build Your Own Singaporean.md
       - AttendGov.md
       - Badges.md
+      - Build Your Own Singaporean.md
