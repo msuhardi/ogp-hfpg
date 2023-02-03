@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Exhibition Booths/.keep
-      - Exhibition Booths/EngageSG.md
       - Exhibition Booths/Digital Inclusion.md
       - Exhibition Booths/CheckWho V2.md
       - Exhibition Booths/Claims Bot.md
