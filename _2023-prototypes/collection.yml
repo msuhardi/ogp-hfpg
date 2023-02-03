@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - CalSG.md
       - Backyard Heritage.md
       - Armoury.md
       - AttendGov.md
