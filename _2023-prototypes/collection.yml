@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - IsoVault.md
       - AttendGov.md
       - Badges.md
       - Build Your Own Singaporean.md
@@ -12,3 +11,4 @@ collections:
       - EngageSG.md
       - Filtable.md
       - Golden Path.md
+      - IsoVault.md
