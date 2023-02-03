@@ -2,5 +2,5 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Badges.md
       - AttendGov.md
+      - Badges.md
