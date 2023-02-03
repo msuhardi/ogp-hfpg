@@ -2,8 +2,8 @@ collections:
   beta:
     output: true
     order:
-      - Exhibition Booths/.keep
-      - Exhibition Booths/Stage presentations.md
-      - Exhibition Booths/Exhibition Booths.md
+      - Prototypes/.keep
+      - Prototypes/Stage presentations.md
+      - Prototypes/Exhibition Booths.md
       - T&Cs.md
       - Privacy statement.md
