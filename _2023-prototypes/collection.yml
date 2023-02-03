@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - Plague.md
       - Paws Together.md
       - Pair.md
       - MediPay.md
