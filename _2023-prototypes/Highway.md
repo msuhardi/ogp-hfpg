@@ -4,7 +4,7 @@ permalink: /2023-prototypes/highway/
 description: ""
 ---
 ### Problem
-text
+It is inefficient for public officers to collect documents from the public at scale.
 
 ### Solution
-text
+Agencies can request for docs from MOPs/vendors via a secure link, which are then organised by individual/case upon retrieval.
