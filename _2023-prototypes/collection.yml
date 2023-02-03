@@ -2,16 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - WizGov.md
-      - Where's Wally.md
-      - String for Teachers.md
-      - SmartGov.md
-      - Sort of Logical Notifier.md
-      - Signify.md
-      - Queue.md
-      - ProcureGuide.md
-      - Pouch.md
-      - OfficeSG.md
       - AttendGov.md
       - Badges.md
       - Build Your Own Singaporean.md
@@ -22,3 +12,13 @@ collections:
       - Filtable.md
       - Golden Path.md
       - IsoVault.md
+      - OfficeSG.md
+      - Pouch.md
+      - ProcureGuide.md
+      - Queue.md
+      - Signify.md
+      - Sort of Logical Notifier.md
+      - SmartGov.md
+      - String for Teachers.md
+      - Where's Wally.md
+      - WizGov.md
