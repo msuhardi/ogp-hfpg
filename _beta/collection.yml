@@ -2,6 +2,7 @@ collections:
   beta:
     output: true
     order:
+      - Exhibition Booths/.keep
       - T&Cs.md
       - Privacy statement.md
       - Prototypes/.keep
