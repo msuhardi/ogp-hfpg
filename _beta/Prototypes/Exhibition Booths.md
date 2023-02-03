@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Prototypes
 ---
 ### Exhibition booths
-* [AttendGov](https://hack.gov.sg/2023-prototypes/AttendGov/)
+* [AttendGov](/2023-prototypes/AttendGov/)
 * [Badges](https://hack.gov.sg/2023-prototypes/Badges/)
 * [Build Your Own Singaporean](https://hack.gov.sg/2023-prototypes/build-your-own-singaporean/)
 * [Claimsbot](https://hack.gov.sg/2023-prototypes/claims-bot/)
