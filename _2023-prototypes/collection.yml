@@ -2,13 +2,13 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Digital Inclusion.md
+      - AttendGov.md
+      - Badges.md
+      - Build Your Own Singaporean.md
       - CheckWho V2.md
       - Claims Bot.md
+      - Digital Inclusion.md
       - EngageSG.md
-      - Build Your Own Singaporean.md
-      - Badges.md
-      - AttendGov.md
       - Filtable.md
       - Golden Path.md
       - IsoVault.md
