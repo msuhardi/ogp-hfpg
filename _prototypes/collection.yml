@@ -4,6 +4,6 @@ collections:
     order:
       - T&Cs.md
       - Privacy statement.md
-      - Prototypes/.keep
-      - Prototypes/Stage presentations.md
-      - Prototypes/Exhibition Booths.md
+      - Exhibition Booths/.keep
+      - Exhibition Booths/Stage presentations.md
+      - Exhibition Booths/Exhibition Booths.md
