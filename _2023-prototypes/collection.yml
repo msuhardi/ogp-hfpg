@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - Signify.md
       - Queue.md
       - ProcureGuide.md
       - Pouch.md
