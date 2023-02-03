@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - SafeGuard.md
       - Plumber.md
       - Plague.md
       - Paws Together.md
