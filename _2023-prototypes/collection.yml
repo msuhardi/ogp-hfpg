@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - AttendGov.md
       - Badges.md
       - Build Your Own Singaporean.md
       - Claims Bot.md
