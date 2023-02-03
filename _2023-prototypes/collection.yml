@@ -2,6 +2,7 @@ collections:
   2023-prototypes:
     output: true
     order:
+      - CheckWho V2.md
       - Claims Bot.md
       - EngageSG.md
       - Build Your Own Singaporean.md
