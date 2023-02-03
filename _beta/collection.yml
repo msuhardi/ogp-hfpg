@@ -1,5 +1,5 @@
 collections:
-  prototypes:
+  beta:
     output: true
     order:
       - Exhibition Booths/.keep
