@@ -1,5 +1,5 @@
 collections:
-  "2023":
+  2023-prototypes:
     output: true
     order:
       - Digital Inclusion.md
