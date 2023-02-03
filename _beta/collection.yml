@@ -2,4 +2,5 @@ collections:
   beta:
     output: true
     order:
+      - Privacy statement.md
       - T&Cs.md
