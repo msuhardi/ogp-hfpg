@@ -2,6 +2,7 @@ collections:
   prototypes:
     output: true
     order:
+      - Stage presentations/.keep
       - T&Cs.md
       - Privacy statement.md
       - Exhibition Booths/.keep
