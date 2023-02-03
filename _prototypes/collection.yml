@@ -2,8 +2,7 @@ collections:
   prototypes:
     output: true
     order:
-      - T&Cs.md
-      - Privacy statement.md
+      - Exhibition Booths/.keep
       - Exhibition Booths/EngageSG.md
       - Exhibition Booths/Digital Inclusion.md
       - Exhibition Booths/CheckWho V2.md
@@ -11,6 +10,7 @@ collections:
       - Exhibition Booths/Build Your Own Singaporean.md
       - Exhibition Booths/Badges.md
       - Exhibition Booths/AttendGov.md
-      - Exhibition Booths/.keep
       - Exhibition Booths/Stage presentations.md
       - Exhibition Booths/Exhibition Booths.md
+      - T&Cs.md
+      - Privacy statement.md
