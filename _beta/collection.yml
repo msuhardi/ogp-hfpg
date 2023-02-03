@@ -1,4 +1,10 @@
 collections:
   beta:
     output: true
-    order: []
+    order:
+      - Demo Day.md
+      - Prototypes/.keep
+      - Prototypes/Stage presentations.md
+      - Prototypes/Exhibition Booths.md
+      - T&Cs.md
+      - Privacy statement.md
