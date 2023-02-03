@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Claims Bot.md
       - CheckWho V2.md
       - Digital Inclusion.md
       - EngageSG.md
