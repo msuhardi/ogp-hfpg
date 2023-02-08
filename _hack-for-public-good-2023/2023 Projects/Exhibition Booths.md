@@ -10,7 +10,7 @@ third_nav_title: 2023 Projects
 * [Build Your Own Singaporean](https://hack.gov.sg/2023-prototypes/build-your-own-singaporean/)
 * [Claimsbot](/2023-prototypes/claims-bot/)
 * [CheckWho v2](/2023-prototypes/checkwho-v2/)
-* [Digital Inclusion](/2023-prototypes/digital-inclusion/)
+* [ElderTech](/2023-prototypes/eldertech/)
 * [EngageSG](/2023-prototypes/engagesg/)
 * [Filtable](/2023-prototypes/filtable/)
 * [Golden Path](/2023-prototypes/golden-path/)
