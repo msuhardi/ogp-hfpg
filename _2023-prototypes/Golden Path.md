@@ -10,3 +10,5 @@ Our current annual security audits carried out by GovTech CyberSec Group are exp
 Golden Path lets engineering teams behind government systems add their code bases to the platform for automated vulnerability scanning. 
 
 The system does static scans and augmented audits (with auditors performing checks when completely necessary), to reduce time spent on each security audit, and offer continuous auditing where possible.
+
+[Find out more](https://docs.google.com/presentation/d/1jyb5EgXOdPpe-JGuRk24YY2U_1Ypk2iv/edit)
