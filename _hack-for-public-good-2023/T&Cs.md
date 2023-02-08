@@ -3,7 +3,6 @@ title: T&Cs
 permalink: /2023/HFPGTC/
 description: ""
 ---
-
 ### **1. General**
 
 
@@ -382,6 +381,7 @@ These Terms of Use are dated 2 February 2022
 * Sortof Logical Notifier
 * String
 * PinPoint
+* WizGov
 
   
 
