@@ -1,5 +1,4 @@
 collections:
   beta:
     output: true
-    order:
-      - Prototypes/.keep
+    order: []
