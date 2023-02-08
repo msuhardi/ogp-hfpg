@@ -365,7 +365,6 @@ These Terms of Use are dated 2 February 2022
 * IsoVault
 * MediPay
 * OfficeSG
-* OGP Smart Gov
 * OGP Widgets
 * Pair
 * Paws Together
@@ -377,6 +376,7 @@ These Terms of Use are dated 2 February 2022
 * Queue
 * SafeGuard
 * Signify
+* SmartGov
 * sortingcap
 * Sortof Logical Notifier
 * String
