@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - GovLogin.md
       - Armoury.md
       - AttendGov.md
       - Backyard Heritage.md
@@ -18,6 +17,7 @@ collections:
       - Filtable.md
       - FreeStuffSG.md
       - Golden Path.md
+      - GovLogin.md
       - Highway.md
       - IsoVault.md
       - MediPay.md
