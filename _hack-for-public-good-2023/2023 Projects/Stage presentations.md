@@ -11,7 +11,7 @@ third_nav_title: 2023 Projects
 * [CalSG](/2023-prototypes/CalSG/)
 * [CertSG](/2023-prototypes/certsg/)
 * [CheckPoint](/2023-prototypes/checkpoint/)
-* [FreeStuffSG](/2023-prototypes/freestuffsg/)
+* [FreestuffSG](/2023-prototypes/freestuffsg/)
 * [Highway](/2023-prototypes/highway/)
 * [MediPay](/2023-prototypes/medipay/)
 * [Pair](/2023-prototypes/pair/)
