@@ -23,6 +23,6 @@ third_nav_title: 2023 Projects
 * [Signify](/2023-prototypes/signify/)
 * [Sort-of Logical Notifier](/2023-prototypes/sort-of-logical-notifier/)
 * [SmartGov](/2023-prototypes/smartgov/)
-* [String for Teachers](/2023-prototypes/string-for-teachers/)
+* [String](/2023-prototypes/string/)
 * [PinPoint](/2023-prototypes/pinpoint/)
 * [WizGov](/2023-prototypes/wizgov/)
