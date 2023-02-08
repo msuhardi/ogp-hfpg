@@ -3,7 +3,6 @@ title: Privacy statement
 permalink: /2023/HFPGprivacy/
 description: ""
 ---
-
 ## **Government Agency Privacy Statement**
 
 This Government Agency Privacy Statement (“Privacy Statement”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”).
@@ -100,7 +99,6 @@ This version of the Privacy Statement is dated \[2/2/2023\].
 * IsoVault
 * MediPay
 * OfficeSG
-* OGP Smart Gov
 * OGP Widgets
 * Pair
 * Paws Together
@@ -112,9 +110,11 @@ This version of the Privacy Statement is dated \[2/2/2023\].
 * Queue
 * SafeGuard
 * Signify
+* SmartGov
 * sortingcap
 * Sortof Logical Notifier
 * String
 * PinPoint
+* WizGov
 
 Please note that notwithstanding anything to the contrary, the data which is drawn from MyInfo is stored on your mobile device and not with GovTech.**
