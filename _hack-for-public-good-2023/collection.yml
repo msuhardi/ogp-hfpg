@@ -2,9 +2,9 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - 2023 Projects/.keep
       - 2023 Projects/Exhibition Booths.md
       - 2023 Projects/Stage presentations.md
-      - 2023 Projects/.keep
+      - Demo Day.md
       - Privacy statement.md
       - T&Cs.md
-      - Demo Day.md
