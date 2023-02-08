@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Prototypes/.keep
-      - T&Cs.md
       - Privacy statement.md
