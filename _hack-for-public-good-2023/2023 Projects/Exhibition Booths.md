@@ -18,7 +18,7 @@ third_nav_title: 2023 Projects
 * [IsoVault](/2023-prototypes/isovault/)
 * [OfficeSG](/2023-prototypes/officesg/)
 * [Pouch](/2023-prototypes/pouch/)
-* [Procurement](/2023-prototypes/procurement/)
+* [ProcureGuide](/2023-prototypes/procureguide/)
 * [Queue](/2023-prototypes/queue/)
 * [Signify](/2023-prototypes/signify/)
 * [Sort-of Logical Notifier](/2023-prototypes/sort-of-logical-notifier/)
