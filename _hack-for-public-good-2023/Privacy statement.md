@@ -3,7 +3,6 @@ title: Privacy statement
 permalink: /beta/HFPGprivacy/
 description: ""
 ---
-
 ## **Government Agency Privacy Statement**
 
 This Government Agency Privacy Statement (“Privacy Statement”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”).
@@ -88,14 +87,16 @@ This version of the Privacy Statement is dated \[2/2/2023\].
 * CheckPoint
 * CheckWho V2
 * Citizen Engagement Directory
+* Claims Bot
 * CrackDown
+* ElderTech
 * Filtable
 * Folk
 * FreeStuffSG
 * Golden Path
+* GovLogin
 * Highway
 * IsoVault
-* Joshuabot V2
 * MediPay
 * OfficeSG
 * OGP Smart Gov
@@ -106,13 +107,13 @@ This version of the Privacy Statement is dated \[2/2/2023\].
 * Plague
 * Plumber
 * Pouch
-* Procurement
+* ProcureGuide
 * Queue
 * SafeGuard
 * Signify
-* sortinghat
+* sortingcap
 * Sortof Logical Notifier
-* String for Teachers
-* Where's Wally
+* String
+* PinPoint
 
 Please note that notwithstanding anything to the contrary, the data which is drawn from MyInfo is stored on your mobile device and not with GovTech.**
