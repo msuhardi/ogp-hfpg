@@ -4,8 +4,6 @@ permalink: /beta/Prototypes/stage/
 description: ""
 third_nav_title: 2023 Projects
 ---
-
-
 ## Stage presentations
 
 * [Armoury](/2023-prototypes/armoury/)
@@ -13,7 +11,7 @@ third_nav_title: 2023 Projects
 * [CalSG](/2023-prototypes/CalSG/)
 * [CertSG](/2023-prototypes/certsg/)
 * [CheckPoint](/2023-prototypes/checkpoint/)
-* [FreestuffSG](/2023-prototypes/freestuffsg/)
+* [FreeStuffSG](/2023-prototypes/freestuffsg/)
 * [Highway](/2023-prototypes/highway/)
 * [MediPay](/2023-prototypes/medipay/)
 * [Pair](/2023-prototypes/pair/)
@@ -21,4 +19,4 @@ third_nav_title: 2023 Projects
 * [Plague](/2023-prototypes/plague/)
 * [Plumber](/2023-prototypes/plumber/)
 * [SafeGuard](/2023-prototypes/safeguard/)
-* [sortinghat](/2023-prototypes/sortinghat/)
+* [sortingcap](/2023-prototypes/sortingcap/)
