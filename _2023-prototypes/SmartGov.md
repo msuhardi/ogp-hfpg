@@ -8,3 +8,5 @@ Many government officers are tasked with answering citizens’ questions, which 
 
 ### Solution
 An AI-powered Government Question Answering System that can understand and respond to natural language questions from citizens about government services, policies, and procedures.
+
+[Find out more](https://docs.google.com/presentation/d/10ZzOllhFRkstsA4MGErAURW3Uv_VZlYqycFlHycQYPQ)

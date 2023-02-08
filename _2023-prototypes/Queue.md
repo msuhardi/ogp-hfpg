@@ -10,3 +10,5 @@ Patients are forced to be present to register and queue at GPs/PHIs; clinics are
 (For patients) Join queues from anywhere, and track their queue position real time until it's their turn.  
   
 (For clinics) Fully-managed queue management, with optional TV display for waiting areas.
+
+[Find out more](https://docs.google.com/presentation/d/1sf2noJkbEiiEpEiggQ4-pxY8NlPGEOjTc4JJYaSvjYc/edit?usp=sharing)

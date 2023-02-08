@@ -1,4 +1,10 @@
 collections:
   hack-for-public-good-2023:
     output: true
-    order: []
+    order:
+      - 2023 Projects/.keep
+      - 2023 Projects/Exhibition Booths.md
+      - 2023 Projects/Stage presentations.md
+      - Demo Day.md
+      - Privacy statement.md
+      - T&Cs.md

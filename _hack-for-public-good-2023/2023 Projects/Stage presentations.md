@@ -2,8 +2,10 @@
 title: Stage presentations
 permalink: /beta/Prototypes/stage/
 description: ""
-third_nav_title: Prototypes
+third_nav_title: 2023 Projects
 ---
+
+
 ## Stage presentations
 
 * [Armoury](/2023-prototypes/armoury/)

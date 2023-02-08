@@ -353,14 +353,16 @@ These Terms of Use are dated 2 February 2022
 * CheckPoint
 * CheckWho V2
 * Citizen Engagement Directory
+* Claims Bot
 * CrackDown
+* ElderTech
 * Filtable
 * Folk
 * FreeStuffSG
 * Golden Path
+* GovLogin
 * Highway
 * IsoVault
-* Joshuabot V2
 * MediPay
 * OfficeSG
 * OGP Smart Gov
@@ -371,14 +373,14 @@ These Terms of Use are dated 2 February 2022
 * Plague
 * Plumber
 * Pouch
-* Procurement
+* ProcureGuide
 * Queue
 * SafeGuard
 * Signify
-* sortinghat
+* sortingcap
 * Sortof Logical Notifier
-* String for Teachers
-* Where's Wally
+* String
+* PinPoint
 
   
 

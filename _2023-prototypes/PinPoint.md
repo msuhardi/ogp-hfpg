@@ -1,6 +1,6 @@
 ---
-title: Where's Wally
-permalink: /2023-prototypes/wheres-wally/
+title: PinPoint
+permalink: /2023-prototypes/pinpoint/
 description: ""
 ---
 ### Problem
@@ -14,3 +14,5 @@ A platform for government agencies to:
 (b) **Label** photos and videos using AI-generated tags; and
 
 (c) **Find** specific photos and videos depending on agencies' needs – via easy-to-navigate ways such as gallery/thumbnail views
+
+[Find out more](https://docs.google.com/presentation/d/1v-lRFAAQLZcPWXOmLV5hfmVI9JHhBOZ-yEbrY6K9fc0/edit?usp=sharing)
