@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - Privacy statement.md
       - T&Cs.md
       - Exhibition Booths.md
       - Stage presentations.md
