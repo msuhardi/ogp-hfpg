@@ -77,44 +77,49 @@ This version of the Privacy Statement is dated \[2/2/2023\].
 **
 1.         Name of Service: 
 
-* Armoury
-* AttendGov
-* Backyard Heritage
-* Badges
-* Build Your Own Singaporean
-* CalSG
-* Cert.SG
-* CheckPoint
-* CheckWho V2
-* Citizen Engagement Directory
-* Claims Bot
-* CrackDown
-* ElderTech
-* Filtable
-* Folk
-* FreeStuffSG
-* Golden Path
-* GovLogin
-* Highway
-* IsoVault
-* MediPay
-* OfficeSG
-* OGP Widgets
-* Pair
-* Paws Together
-* PhishCake
-* Plague
-* Plumber
-* Pouch
-* ProcureGuide
-* Queue
-* SafeGuard
-* Signify
-* SmartGov
-* sortingcap
-* Sortof Logical Notifier
-* String
-* PinPoint
-* WizGov
+**
+
+*   Armoury
+*   AttendGov
+*   Backyard Heritage
+*   Badges
+*   Build Your Own Singaporean
+*   CalSG
+*   Cert.SG
+*   CheckPoint
+*   CheckWho V2
+*   Claims Bot
+*   CrackDown
+*   ElderTech
+*   EngageSG
+*   Filtable
+*   Folk
+*   FreestuffSG
+*   Golden Path
+*   GovLogin
+*   Highway
+*   IsoVault
+*   MediPay
+*   OfficeSG
+*   OGP Widgets
+*   Pair
+*   Paws Together
+*   PhishCake
+*   Plague
+*   Plumber
+*   Pouch
+*   ProcureGuide
+*   Queue
+*   SafeGuard
+*   Signify
+*   SmartGov
+*   sortingcap
+*   Sortof Logical Notifier 
+*   String  
+*   PinPoint 
+*   WizGov
+    
+
+**
 
 Please note that notwithstanding anything to the contrary, the data which is drawn from MyInfo is stored on your mobile device and not with GovTech.**
