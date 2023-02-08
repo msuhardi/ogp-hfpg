@@ -1,8 +1,9 @@
 ---
-title: Procurement
-permalink: /2023-prototypes/procurement/
+title: ProcureGuide
+permalink: /2023-prototypes/procureguide/
 description: ""
 ---
+
 ### Problem
 Procurement for anything >$6k is long and tedious, and despite safeguards and long processes, end up with less-than-ideal outcomes. This is because most buyers lack market knowledge, and prolonged procurement processes increase costs for all parties.
 
