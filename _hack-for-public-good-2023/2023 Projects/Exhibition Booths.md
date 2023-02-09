@@ -13,7 +13,6 @@ third_nav_title: 2023 Projects
 * [ElderTech](/2023-prototypes/eldertech/)
 * [EngageSG](/2023-prototypes/engagesg/)
 * [Filtable](/2023-prototypes/filtable/)
-* [Folk](/2023-prototypes/folk/)
 * [Golden Path](/2023-prototypes/golden-path/)
 * [GovLogin](/2023-prototypes/govlogin)
 * [IsoVault](/2023-prototypes/isovault/)
