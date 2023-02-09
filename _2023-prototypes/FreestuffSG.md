@@ -1,8 +1,9 @@
 ---
-title: FreeStuffSG
+title: FreestuffSG
 permalink: /2023-prototypes/freestuffsg/
 description: ""
 ---
+
 ### Problem
 Singapore generated 1.82 million tonnes of domestic waste in 2021, and is stuck in a 'buy-throw' rather than 'donate-reuse' cycle. This is partly due to high coordination overheads to donate/source good quality items.
 

@@ -1,6 +1,6 @@
 ---
 title: T&Cs
-permalink: /beta/HFPGTC/
+permalink: /2023/HFPGTC/
 description: ""
 ---
 ### **1. General**
@@ -343,44 +343,45 @@ These Terms of Use are dated 2 February 2022
 
 1. Names of Services: 
 
-* Armoury
-* AttendGov
-* Backyard Heritage
-* Badges
-* Build Your Own Singaporean
-* CalSG
-* Cert.SG
-* CheckPoint
-* CheckWho V2
-* Citizen Engagement Directory
-* Claims Bot
-* CrackDown
-* ElderTech
-* Filtable
-* Folk
-* FreeStuffSG
-* Golden Path
-* GovLogin
-* Highway
-* IsoVault
-* MediPay
-* OfficeSG
-* OGP Smart Gov
-* OGP Widgets
-* Pair
-* Paws Together
-* PhishCake
-* Plague
-* Plumber
-* Pouch
-* ProcureGuide
-* Queue
-* SafeGuard
-* Signify
-* sortingcap
-* Sortof Logical Notifier
-* String
-* PinPoint
+*   Armoury
+*   AttendGov
+*   Backyard Heritage
+*   Badges
+*   Build Your Own Singaporean
+*   CalSG
+*   Cert.SG
+*   CheckPoint
+*   CheckWho V2
+*   Claims Bot
+*   CrackDown
+*   ElderTech
+*   EngageSG
+*   Filtable
+*   Folk
+*   FreestuffSG
+*   Golden Path
+*   GovLogin
+*   Highway
+*   IsoVault
+*   MediPay
+*   OfficeSG
+*   OGP Widgets
+*   Pair
+*   Paws Together
+*   PhishCake
+*   Plague
+*   Plumber
+*   Pouch
+*   ProcureGuide
+*   Queue
+*   SafeGuard
+*   Signify
+*   SmartGov
+*   sortingcap
+*   Sortof Logical Notifier 
+*   String  
+*   PinPoint 
+*   WizGov
 
   
 
