@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - Folk.md
       - Armoury.md
       - AttendGov.md
       - Backyard Heritage.md
@@ -16,6 +15,7 @@ collections:
       - ElderTech.md
       - EngageSG.md
       - Filtable.md
+      - Folk.md
       - FreestuffSG.md
       - Golden Path.md
       - GovLogin.md
