@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - 2023 Projects/WizGov.md
       - 2023 Projects/CalSG.md
       - 2023 Projects/Build Your Own Singaporean.md
       - 2023 Projects/Badges.md
