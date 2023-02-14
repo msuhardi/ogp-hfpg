@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - 2023 Projects/SafeGuard.md
       - 2023 Projects/Signify.md
       - 2023 Projects/Sort of Logical Notifier.md
       - 2023 Projects/SmartGov.md
