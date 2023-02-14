@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - 2023 Projects/String.md
       - 2023 Projects/PinPoint.md
       - 2023 Projects/WizGov.md
       - 2023 Projects/CalSG.md
