@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
+      - 2023 Projects/Plague.md
       - 2023 Projects/Plumber.md
       - 2023 Projects/Pouch.md
       - 2023 Projects/ProcureGuide.md
