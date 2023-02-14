@@ -1,5 +1,4 @@
 collections:
   2023-prototypes:
     output: true
-    order:
-      - CertSG.md
+    order: []
