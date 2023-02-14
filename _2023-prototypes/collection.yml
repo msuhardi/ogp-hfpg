@@ -2,7 +2,6 @@ collections:
   2023-prototypes:
     output: true
     order:
-      - CalSG.md
       - CertSG.md
       - CheckPoint.md
       - CheckWho V2.md
