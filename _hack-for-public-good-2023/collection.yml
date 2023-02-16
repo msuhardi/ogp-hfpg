@@ -2,7 +2,6 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
-      - 2023 Projects/Folk.md
       - 2023 Projects/.keep
       - 2023 Projects/Armoury.md
       - 2023 Projects/AttendGov.md
@@ -17,6 +16,7 @@ collections:
       - 2023 Projects/ElderTech.md
       - 2023 Projects/EngageSG.md
       - 2023 Projects/Filtable.md
+      - 2023 Projects/Folk.md
       - 2023 Projects/FreestuffSG.md
       - 2023 Projects/Golden Path.md
       - 2023 Projects/GovLogin.md
