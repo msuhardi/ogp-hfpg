@@ -20,19 +20,12 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /hack-for-public-good-2023
-  - infopic:
-      title: Past Projects
-      description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
-        through Hack for Public Good, a month-long event held annually.
-      button: Learn more
-      alt: Image alt text
-      image: /images/header (320 × 200px) (1720 × 1050px) (810 × 490px).gif
-      url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
+      image: /images/pair.jpg
   - infopic:
       title: Citizen feedback
       description: Share with us some of the problems that you experience in Singapore.
       button: Submit
       url: https://go.gov.sg/ogp-citizens
       alt: Image alt text
-      image: /images/citizenfeedback.png
+      image: /images/eldertech.jpg
 ---
