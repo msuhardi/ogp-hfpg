@@ -15,6 +15,11 @@ sections:
       button: ABOUT HFPG
       url: /about-hfpg/hfpg/
   - infopic:
+      title: 2023 Projects
+      description: This year, over 30 prototypes were built for better work and living.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Past Projects
       description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
         through Hack for Public Good, a month-long event held annually.
