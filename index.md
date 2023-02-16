@@ -19,7 +19,7 @@ sections:
       description: This year, over 30 prototypes were built for better work and living.
       button: Find out more
       alt: Image alt text
-      url: /hack-for-public-good-2023
+      url: /2023-prototypes/armoury
       image: /images/pair.jpg
   - infopic:
       title: Citizen feedback
