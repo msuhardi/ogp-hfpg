@@ -17,8 +17,9 @@ sections:
   - infopic:
       title: 2023 Projects
       description: This year, over 30 prototypes were built for better work and living.
-      button: Button Text
+      button: Find out more
       alt: Image alt text
+      url: /hack-for-public-good-2023
   - infopic:
       title: Past Projects
       description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
