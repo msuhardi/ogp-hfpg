@@ -4,7 +4,7 @@ permalink: /2023-prototypes/string/
 description: ""
 third_nav_title: 2023 Projects
 ---
-https://docs.google.com/presentation/d/e/2PACX-1vRJP4nxz4OLLaeu3OWXcrocx9jkdZQXsSk2enSQkd9Bj8KOfRXEYgboamQkjSNzvIb1IX4mdWGsl36l/embed?start=false&loop=false&delayms=3000
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJP4nxz4OLLaeu3OWXcrocx9jkdZQXsSk2enSQkd9Bj8KOfRXEYgboamQkjSNzvIb1IX4mdWGsl36l/embed?start=false&loop=false&delayms=3000"></iframe>
 
 ### Problem
 There is no **_common_** platform to explore, discover, and adopt tech tools with clear use cases for **public officers**.
