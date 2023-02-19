@@ -1,39 +1,4 @@
 collections:
   2023-prototypes:
     output: true
-    order:
-      - Armoury.md
-      - AttendGov.md
-      - Backyard Heritage.md
-      - Badges.md
-      - Build Your Own Singaporean.md
-      - CalSG.md
-      - CertSG.md
-      - CheckPoint.md
-      - CheckWho V2.md
-      - Claims Bot.md
-      - ElderTech.md
-      - EngageSG.md
-      - Filtable.md
-      - FreestuffSG.md
-      - Golden Path.md
-      - GovLogin.md
-      - Highway.md
-      - IsoVault.md
-      - MediPay.md
-      - OfficeSG.md
-      - Pair.md
-      - Paws Together.md
-      - Plague.md
-      - Plumber.md
-      - Pouch.md
-      - ProcureGuide.md
-      - Queue.md
-      - SafeGuard.md
-      - Signify.md
-      - Sort of Logical Notifier.md
-      - SmartGov.md
-      - sortingcap.md
-      - String.md
-      - PinPoint.md
-      - WizGov.md
+    order: []

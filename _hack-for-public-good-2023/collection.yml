@@ -3,8 +3,42 @@ collections:
     output: true
     order:
       - 2023 Projects/.keep
-      - 2023 Projects/Exhibition Booths.md
-      - 2023 Projects/Stage presentations.md
+      - 2023 Projects/Armoury.md
+      - 2023 Projects/AttendGov.md
+      - 2023 Projects/Backyard Heritage.md
+      - 2023 Projects/Badges.md
+      - 2023 Projects/Build Your Own Singaporean.md
+      - 2023 Projects/CalSG.md
+      - 2023 Projects/CertSG.md
+      - 2023 Projects/CheckPoint.md
+      - 2023 Projects/CheckWho V2.md
+      - 2023 Projects/Claims Bot.md
+      - 2023 Projects/ElderTech.md
+      - 2023 Projects/EngageSG.md
+      - 2023 Projects/Filtable.md
+      - 2023 Projects/Folk.md
+      - 2023 Projects/FreestuffSG.md
+      - 2023 Projects/Golden Path.md
+      - 2023 Projects/GovLogin.md
+      - 2023 Projects/Highway.md
+      - 2023 Projects/IsoVault.md
+      - 2023 Projects/MediPay.md
+      - 2023 Projects/OfficeSG.md
+      - 2023 Projects/Paws Together.md
+      - 2023 Projects/Pair.md
+      - 2023 Projects/Plague.md
+      - 2023 Projects/Plumber.md
+      - 2023 Projects/Pouch.md
+      - 2023 Projects/ProcureGuide.md
+      - 2023 Projects/Queue.md
+      - 2023 Projects/SafeGuard.md
+      - 2023 Projects/Signify.md
+      - 2023 Projects/Sort of Logical Notifier.md
+      - 2023 Projects/SmartGov.md
+      - 2023 Projects/sortingcap.md
+      - 2023 Projects/String.md
+      - 2023 Projects/PinPoint.md
+      - 2023 Projects/WizGov.md
       - Demo Day.md
       - Privacy statement.md
       - T&Cs.md

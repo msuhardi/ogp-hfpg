@@ -15,18 +15,17 @@ sections:
       button: ABOUT HFPG
       url: /about-hfpg/hfpg/
   - infopic:
-      title: Past Projects
-      description: GoGovSG , FormSG, and RedeemSG were all ideas born and developed
-        through Hack for Public Good, a month-long event held annually.
-      button: Learn more
+      title: 2023 Projects
+      description: This year, over 30 prototypes were built for better work and living.
+      button: Find out more
       alt: Image alt text
-      image: /images/header (320 × 200px) (1720 × 1050px) (810 × 490px).gif
-      url: /past-hackathons/Hack-for-Public-Good-2022/about2022/
+      url: /2023-prototypes/armoury
+      image: /images/pair.jpg
   - infopic:
       title: Citizen feedback
       description: Share with us some of the problems that you experience in Singapore.
       button: Submit
       url: https://go.gov.sg/ogp-citizens
       alt: Image alt text
-      image: /images/citizenfeedback.png
+      image: /images/eldertech.jpg
 ---
