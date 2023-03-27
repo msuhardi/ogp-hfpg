@@ -9,7 +9,7 @@ third_nav_title: 2023 Projects
 Watch our presentation on [YouTube](https://www.youtube.com/live/mgxE3IPE4WY?feature=share&amp;t=559)!
 
 ### Problem
-Writing is how the government thinks about, communicates, and collaborates on important public sector issues. But officers often struggle with conducting research, brainstorming new ideas, and finding initial language for their drafts.
+Large language models have the potential to be powerful assistants for government officers, capable of helping with a broad range of writing, research and operational tasks. However, there are significant challenges in using them for government work today, including due to data security issues and a lack of government context.
 
 ### Solution
-Pair is a large language model-powered assistant for Microsoft Office that speeds up the research and drafting process for government officers.
+Pair is a large language model-powered assistant for government officers that allows safe and productive use of large language models within government systems.
