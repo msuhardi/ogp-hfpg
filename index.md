@@ -21,11 +21,4 @@ sections:
       alt: Image alt text
       url: /2023-prototypes/armoury
       image: /images/pair.jpg
-  - infopic:
-      title: Citizen feedback
-      description: Share with us some of the problems that you experience in Singapore.
-      button: Submit
-      url: https://go.gov.sg/ogp-citizens
-      alt: Image alt text
-      image: /images/eldertech.jpg
 ---
