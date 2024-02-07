@@ -55,4 +55,5 @@ to the case before forwarding to the relevant parties (also on Zendesk)
 for explicit approval. Upon approval / rejection on Zendesk, the Plumber
 workflow will update the case status to the tracking M365 sheet. The M365
 sheet can be used to chart data and draw insights to make better policies.</p>
+<p>Read more <a href="https://docs.google.com/presentation/d/1T5Crw7liZkdnR6Oa7U9365BV-I-66pstFv9g5xQz-zc/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
