@@ -37,4 +37,5 @@ incidents</p>
 <p>Faster claim processing and payment of claim</p>
 </li>
 </ul>
+<p>Check out the Telegram bot - Injured@Work</p>
 <p></p>
