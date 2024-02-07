@@ -15,5 +15,7 @@ to a full civil servant’s work day.</p>
 NomNoms draws from your meeting agendas, materials and recordings to create
 Government-style minutes, in <s>days/hours</s> minutes. Check out the prototype
 <a href="https://go.gov.sg/nomnoms" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nomnoms_a3.jpg">
+</div>
 <p></p>
