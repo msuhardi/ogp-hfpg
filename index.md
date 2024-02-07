@@ -17,8 +17,8 @@ sections:
   - infopic:
       title: 2024 Projects
       description: 37 prototypes were built this year, each addressing critical
-        challenges in various sectors, including health, education, transport
-        and the economy.
+        challenges in various sectors, including the economy, health, education,
+        transport and more.
       button: Find out more
       alt: Image alt text
       url: /2023-prototypes/armoury
