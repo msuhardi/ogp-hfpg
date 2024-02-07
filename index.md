@@ -20,7 +20,7 @@ sections:
         challenges in various sectors, including the economy, health, education,
         transport and more.
       button: Find out more
-      alt: Image alt text
+      alt: Team Grandfather Road
       url: /hack-for-public-good-2024/
       image: /images/Grandfather_road.jpeg
 ---
