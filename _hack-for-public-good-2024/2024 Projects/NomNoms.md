@@ -14,7 +14,7 @@ to a full civil servant’s work day.</p>
 <p>As part of the <a href="https://www.open.gov.sg/products/pair/" rel="noopener noreferrer nofollow" target="_blank">Pair</a> suite,
 NomNoms draws from your meeting agendas, materials and recordings to create
 Government-style minutes, in <s>days/hours</s> minutes. Check out the prototype
-<a href="https://go.gov.sg/nomnoms" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://go.gov.sg/nomnoms" rel="noopener noreferrer nofollow" target="_blank">here</a>and read more <a href="https://docs.google.com/presentation/d/1Y7h5IPQO99blnxVzbTbKZF24isrpA3bRC9_KnUyfvZk/edit#slide=id.g2b49383d68f_0_1" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nomnoms_a3.jpg">
 </div>
