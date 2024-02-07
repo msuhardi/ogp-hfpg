@@ -18,8 +18,7 @@ is currently difficult and unintuitive.</p>
 multi-vector representations and hybrid ranking, allows for a low latency
 yet high performing search in an easy to use interface with intelligent
 snippeting of results. Search smarter, not harder - try out Pair Search
-<a href="https://search.pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
+<a href="https://search.pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>and read more <a href="https://docs.google.com/presentation/d/1CX_0-W2JY0_HMLGGN1L0bzO5QTmV26LC4HEhJ4K-du4/edit#slide=id.g26732ea328f_0_5" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pair_Search_Poster.jpg">
 </div>
