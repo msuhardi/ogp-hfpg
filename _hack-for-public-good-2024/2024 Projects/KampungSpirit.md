@@ -16,4 +16,7 @@ an entire village (or 'kampung' in Malay) can chip in to buy things like
 rice cookers, washing machines, milk, diapers and more, for households
 who are in dire need of them. These are families under the care of social
 workers, who also vet each item that go on the platform.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kampung_Spirit_A3_Poster.png">
+</div>
 <p></p>
