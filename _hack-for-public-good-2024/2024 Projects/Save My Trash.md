@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h3>Save My Trash</h3>
 <h4>Problem</h4>
-<p>There are a myriad of possible reasons why the household recycling rate
+<p>There is a myriad of possible reasons why the household recycling rate
 in Singapore is low, but two reasons that stood out to us were the accessibility
 and findability of recycling points, as well as the lack of awareness on
 what can be recycled.</p>
