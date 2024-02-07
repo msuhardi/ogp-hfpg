@@ -10,8 +10,7 @@ third_nav_title: 2024 Projects
 standard operational metrics (DORA metrics for throughput and stability),
 which have been shown to be strongly correlated with high productive teams
 delivering high quality software.</p>
-<p>
-<br>Tracking DORA metrics can help drive conversations within teams, so they
+<p>Tracking DORA metrics can help drive conversations within teams, so they
 can decide what they should be focusing on next, and they can validate
 if improvements are as expected.
 <br>
