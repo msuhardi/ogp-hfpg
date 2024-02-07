@@ -18,4 +18,14 @@ officers can do other higher value-added work?</p>
 plate numbers and reduce the time taken for Traffic Police officers to
 confirm red light and speeding offences, making the roads safer for everyone.
 The prototype is a back-end admin interface and dashboard for officers
-to confirm licence plate details from traffic camera images.</p>
+to confirm licence plate details from traffic camera images. Read more
+<a href="https://docs.google.com/presentation/d/1QuaztOYKm976psqmEUWSpfSSmy3-KfH1pTixQ_ZbIXE/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roadbuster___A3___Front.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roadbuster___A3___Back.jpg">
+</div>
+<p></p>
+<p></p>
