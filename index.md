@@ -21,6 +21,6 @@ sections:
         transport and more.
       button: Find out more
       alt: Image alt text
-      url: /2023-prototypes/armoury
+      url: /hack-for-public-good-2024/aiid/
       image: /images/Grandfather_road.jpeg
 ---
