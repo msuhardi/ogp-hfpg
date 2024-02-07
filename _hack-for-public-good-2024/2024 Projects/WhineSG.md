@@ -14,7 +14,7 @@ lead to more effective solutioning?</p>
 <h4>Solution</h4>
 <p>WhineSG encourages public officers to surface problems so we can crowdsource
 issues and solutions while empowering admins to act on authentic concerns.
-Check out our prototype <a href="https://whinesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Check out our prototype <a href="https://whinesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a> and read more <a href="https://go.gov.sg/whineslides" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhineSG_Poster__1_.png">
 </div>
