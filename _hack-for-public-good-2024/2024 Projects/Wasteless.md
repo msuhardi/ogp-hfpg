@@ -16,4 +16,7 @@ food insecurity.</p>
 with features tackling the food waste problem at each stage of the food
 life cycle.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3_Poster__1_.jpg">
+</div>
 <p></p>
