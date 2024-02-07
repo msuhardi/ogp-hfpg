@@ -7,6 +7,8 @@ third_nav_title: 2024 Projects
 ---
 <h3>Singpay</h3>
 <h4>Problem</h4>
+<p>It is common for individuals to lose track of payments or forget to pay
+bills.</p>
 <h4>Solution</h4>
 <p>Singpay is a platform that enables individuals to view upcoming bills
 and payments made to government agencies, thereby improving their visibility
