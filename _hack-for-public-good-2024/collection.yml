@@ -2,8 +2,6 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
-      - 2024 Projects/Social Passport.md
-      - 2024 Projects/Tamagitchi.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
@@ -32,6 +30,8 @@ collections:
       - 2024 Projects/ServeSG.md
       - 2024 Projects/Simpler.md
       - 2024 Projects/Singpay.md
+      - 2024 Projects/Social Passport.md
+      - 2024 Projects/Tamagitchi.md
       - 2024 Projects/Telegov.md
       - 2024 Projects/Wasteless.md
       - 2024 Projects/Watson.md
