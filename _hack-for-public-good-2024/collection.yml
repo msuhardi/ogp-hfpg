@@ -2,7 +2,6 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
-      - 2024 Projects/Procurit.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
@@ -19,3 +18,4 @@ collections:
       - 2024 Projects/NomNoms.md
       - 2024 Projects/Pair Search.md
       - 2024 Projects/People Association CRM.md
+      - 2024 Projects/Procurit.md
