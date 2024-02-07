@@ -16,5 +16,7 @@ a centralised platform for discovering underfunded yet impactful charities.
 By offering detailed insights and information, this portal empowers individuals
 to make well-informed decisions when choosing charities to support through
 donations.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Charity_Insight_Poster__A3_.jpg">
+</div>
 <p></p>
