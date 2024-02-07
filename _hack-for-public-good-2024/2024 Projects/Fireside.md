@@ -29,8 +29,9 @@ among young working adults. It enables you to:</p>
 <p>Flamey, our bot mascot, is guided by the Cognitive Behavioural Therapy
 (CBT) framework, which aims to identify and challenge negative thought
 patterns and behaviour to promote healthier cognitive and emotional responses.</p>
-<p>Check out the prototype <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank">here</a>. For any queries
-or collaborations, email us at <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank"><u>fireside@open.gov.sg</u></a>
+<p>Click <a href="https://docs.google.com/presentation/d/17-gz1IcyiqpragT01X1Cqt8nacHjj0VcGZ9WSaUpXF0/edit#slide=id.g2672d810795_3_41" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read more and check out the prototype <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank">here</a>. For any queries or collaborations,
+email us at <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank"><u>fireside@open.gov.sg</u></a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
