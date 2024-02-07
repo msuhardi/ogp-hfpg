@@ -14,7 +14,8 @@ for patients.</p>
 <h4>Solution</h4>
 <p>Simplify healthcare scheduling with Roster Monster – a system that streamlines
 the roster planning process, enabling roster planners to configure rules
-flexibly and automatically generates rosters many times faster!</p>
+flexibly and automatically generates rosters many times faster! Click
+<a href="https://docs.google.com/presentation/d/1lX88YMYiAiPRamE4yOQ5nkXl5x1koPhd/edit#slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">here</a>to read more.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roster_Monster_Poster_2x.jpg">
