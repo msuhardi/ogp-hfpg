@@ -6,13 +6,15 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>ServeSG</h3>
-<p>ServeSG revolutionises volunteering in Singapore, aspiring to elevate
-citizen engagement from 22% in 2023 to 50% by 2025. For citizens, ServeSG
-facilitates a user-friendly and seamless volunteering journey, tailoring
-opportunity recommendations based on their interests, skills, availability,
-and location preferences. For organisations, ServeSG not only saves officers
-time by digitising manual processes, such as attendance taking, but also
-lowers volunteer attrition, by introducing volunteer suitability and behaviour
-scores during screening.</p>
-<p></p>
+<h4>Problem</h4>
+<p>ServeSG addresses the pressing challenge of dwindling volunteerism in
+Singapore, aiming to reverse the trend and elevate citizen engagement from
+22% in 2021 to an impactful 50% by 2025.</p>
+<h4>Solution</h4>
+<p>For citizens, ServeSG facilitates a user-friendly and seamless volunteering
+journey, tailoring opportunity recommendations based on their interests,
+skills, availability, and location preferences. For organisations, ServeSG
+not only saves officers time by digitising manual processes, such as attendance
+taking, but also lowers volunteer attrition, by introducing volunteer suitability
+and behaviour scores during screening.</p>
 <p></p>
