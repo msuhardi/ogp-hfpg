@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>Roster Monster</h3>
-<h4>Problem </h4>
+<h4>Problem</h4>
 <p>Overworked healthcare professionals like doctors, spend precious hours
 planning complex rosters on top of their core work. Addressing this issue
 is crucial to ensure they can devote more time to what they do best: caring
