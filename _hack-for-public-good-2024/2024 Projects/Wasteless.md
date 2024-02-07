@@ -14,8 +14,8 @@ food insecurity.</p>
 <h4>Solution</h4>
 <p>Our user-friendly web app aims to be a comprehensive one-stop platform
 with features tackling the food waste problem at each stage of the food
-life cycle.&nbsp;</p>
-<p></p>
+life cycle.&nbsp;Click <a href="https://docs.google.com/presentation/d/1-aaB-uSpFAuylA26buPiRJtUTa0dscMp/edit#slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3_Poster__1_.jpg">
 </div>
