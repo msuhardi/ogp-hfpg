@@ -21,6 +21,6 @@ sections:
         transport and more.
       button: Find out more
       alt: Team Grandfather Road
-      url: /hack-for-public-good-2024/
+      url: /hack-for-public-good-2024/aiid/
       image: /images/Grandfather_road.jpeg
 ---
