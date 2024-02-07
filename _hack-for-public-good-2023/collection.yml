@@ -2,7 +2,6 @@ collections:
   hack-for-public-good-2023:
     output: true
     order:
-      - 2024 Projects.md
       - 2023 Projects/.keep
       - 2023 Projects/Armoury.md
       - 2023 Projects/AttendGov.md
