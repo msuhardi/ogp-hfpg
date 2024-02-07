@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
-<h3>Tamagitchi </h3>
+<h3>Tamagitchi</h3>
 <h4>Problem</h4>
 <p>Our developers are generally biased towards certain activities over the
 others (i.e. writing code implementation over reviewing code) which causes
