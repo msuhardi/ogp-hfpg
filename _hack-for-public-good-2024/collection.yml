@@ -1,0 +1,39 @@
+collections:
+  hack-for-public-good-2024:
+    output: true
+    order:
+      - 2024 Projects/.keep
+      - 2024 Projects/AIID.md
+      - 2024 Projects/AskHer.md
+      - 2024 Projects/CareerSG.md
+      - 2024 Projects/Charity Insight.md
+      - 2024 Projects/Converse.md
+      - 2024 Projects/Crystal Ball.md
+      - 2024 Projects/eNotes.md
+      - 2024 Projects/ERP X.md
+      - 2024 Projects/Fireside.md
+      - 2024 Projects/Forge.md
+      - 2024 Projects/Fynder.md
+      - 2024 Projects/KampungSpirit.md
+      - 2024 Projects/Magic Form Builder.md
+      - 2024 Projects/NomNoms.md
+      - 2024 Projects/Pair Search.md
+      - 2024 Projects/People Association CRM.md
+      - 2024 Projects/Procurit.md
+      - 2024 Projects/ReadLiao.md
+      - 2024 Projects/Recipes.md
+      - 2024 Projects/RoadBuster.md
+      - 2024 Projects/Roster Monster.md
+      - 2024 Projects/Save My Trash.md
+      - 2024 Projects/Scribe.md
+      - 2024 Projects/Sentry.md
+      - 2024 Projects/ServeSG.md
+      - 2024 Projects/Simpler.md
+      - 2024 Projects/Singpay.md
+      - 2024 Projects/Social Passport.md
+      - 2024 Projects/Tamagitchi.md
+      - 2024 Projects/Telegov.md
+      - 2024 Projects/Wasteless.md
+      - 2024 Projects/Watson.md
+      - 2024 Projects/WhineSG.md
+      - 2024 Projects/Workers of Singapore.md
