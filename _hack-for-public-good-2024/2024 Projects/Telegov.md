@@ -6,6 +6,15 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>Telegov</h3>
+<h4>Problem</h4>
+<p>Telegram is a great platform for building applications in the form of
+bots, allowing developers to focus on business logic and not worry about
+ancillary matters, like frontend design. This makes it very useful for
+the rapid development of internal, non-sensitive applications for public
+officers. However, we do not have a way to authenticate Telegram users
+as public officers, which is important when controlling access to internal
+information and features.</p>
+<h4>Solution</h4>
 <p>Telegov provides a template codebase to build Telegram bots for internal
 non-sensitive use cases in government. It does this by integrating sgID
 to authenticate users as Singapore Government public officers. Examples
