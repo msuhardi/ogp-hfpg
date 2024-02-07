@@ -15,7 +15,7 @@ what can be recycled.</p>
 <p>Our solution points you to critical information when it comes to recycling
 - 1) can something be recycled, 2) what you need to do before throwing
 it, and 3) where can you throw it - in a simple way. Let Trashee help your
-recyclables find their homes! Check out our prototype <a href="https://savemytrash.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+recyclables find their homes! Check out our prototype <a href="https://www.recycle.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT_poster_1.png">
 </div>
