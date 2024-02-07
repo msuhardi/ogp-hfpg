@@ -17,4 +17,7 @@ skills, availability, and location preferences. For organisations, ServeSG
 not only saves officers time by digitising manual processes, such as attendance
 taking, but also lowers volunteer attrition, by introducing volunteer suitability
 and behaviour scores during screening.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster.png">
+</div>
 <p></p>
