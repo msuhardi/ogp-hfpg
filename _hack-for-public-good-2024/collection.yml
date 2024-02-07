@@ -2,7 +2,6 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
-      - 2024 Projects/Save My Trash.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
@@ -24,6 +23,7 @@ collections:
       - 2024 Projects/Recipes.md
       - 2024 Projects/RoadBuster.md
       - 2024 Projects/Roster Monster.md
+      - 2024 Projects/Save My Trash.md
       - 2024 Projects/Scribe.md
       - 2024 Projects/Sentry.md
       - 2024 Projects/ServeSG.md
