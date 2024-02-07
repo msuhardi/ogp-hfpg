@@ -4,10 +4,11 @@ permalink: /hack-for-public-good-2024/aiid/
 variant: tiptap
 description: ""
 ---
-<p><strong>AIID: AI-assisted Injury Descriptor</strong>
-</p>
+<h3><strong>AIID: AI-assisted Injury Descriptor</strong></h3>
+<h4>Problem</h4>
 <p>How might we fast-track the reporting of high volume, low severity workplace
 incidents?</p>
+<h4>Solution</h4>
 <p>Solution prototype includes:</p>
 <ul>
 <li>
@@ -35,7 +36,6 @@ incidents</p>
 <p>Faster claim processing and payment of claim</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_07_at_12_05_08_PM.png">
 </div>
