@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>KampungSpirit</h3>
-<h4>Problem </h4>
+<h4>Problem</h4>
 <p>Less fortunate families in Singapore need essential items, but they're
 very difficult for singular donors to help with. What if we could get 10,000
 donors to help?&nbsp;</p>
