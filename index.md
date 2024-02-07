@@ -15,10 +15,12 @@ sections:
       button: ABOUT HFPG
       url: /about-hfpg/hfpg/
   - infopic:
-      title: 2023 Projects
-      description: This year, over 30 prototypes were built for better work and living.
+      title: 2024 Projects
+      description: 37 prototypes were built this year, each addressing critical
+        challenges in various sectors, including health, education, transport
+        and the economy.
       button: Find out more
       alt: Image alt text
       url: /2023-prototypes/armoury
-      image: /images/pair.jpg
+      image: /images/Grandfather_road.jpeg
 ---
