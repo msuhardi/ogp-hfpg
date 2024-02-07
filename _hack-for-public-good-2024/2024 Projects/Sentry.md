@@ -14,5 +14,5 @@ a more effective way of tackling scams in the long run.</p>
 <p>Sentry is an exploratory product exploring whether scams can be tackled
 at the “top of the funnel” by informing and educating citizens on what
 to do should their personal data be leaked. operandi of such scams. Check
-out our prototype <a href="https://sentry.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+out our prototype <a href="https://sentry.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> and read more <a href="https://docs.google.com/presentation/d/1Cdpwdteq6qdkkPcqieO_XzsYO8RjB_PAEN_L8BDvz9U/edit#slide=id.g2b62d2d070e_0_9" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
