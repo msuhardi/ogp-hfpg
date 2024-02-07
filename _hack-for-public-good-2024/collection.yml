@@ -2,8 +2,6 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
-      - T&Cs.md
-      - Privacy statement.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
@@ -37,3 +35,5 @@ collections:
       - 2024 Projects/Watson.md
       - 2024 Projects/WhineSG.md
       - 2024 Projects/Workers of Singapore.md
+      - T&Cs.md
+      - Privacy statement.md
