@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - 2024 Projects/.keep
-      - AIID.md
       - AskHer.md
