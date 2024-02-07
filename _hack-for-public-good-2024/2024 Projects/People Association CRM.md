@@ -34,42 +34,25 @@ and possible analysis)</p>
 </li>
 <li>
 <p>In our design, we have 2 Plumber workflows:</p>
+</li>
+</ul>
 <ol data-tight="true" class="tight">
 <li>
 <p>Application creation workflow:</p>
-<ul>
-<li>
-<p>Starts with a FormSG that residents and COs use to raise a case</p>
-</li>
-<li>
-<p>The workflow, upon receiving the submission, will create a Zendesk ticket
-and assign it to the CO</p>
-</li>
-<li>
-<p>The workflow will also persist the case inside a shared M365 excel sheet
-for tracking</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Approval workflow:</p>
-<ul>
-<li>
-<p>CO will gather any extra information from resident (if needed) to add
-to the case before forwarding to the relevant parties (also on Zendesk)
-for explicit approval</p>
-</li>
-<li>
-<p>Upon approval / rejection on Zendesk, the Plumber workflow will update
-the case status to the tracking M365 sheet</p>
-</li>
-<li>
-<p>The M365 sheet can be used to chart data and draw insights to make better
-policies</p>
-</li>
-</ul>
 </li>
 </ol>
+<p>This starts with a FormSG that residents and COs use to raise a case.
+The workflow, upon receiving the submission, will create a Zendesk ticket
+and assign it to the CO. The workflow will also store the case inside a
+shared M365 excel sheet for tracking</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Approval workflow:</p>
 </li>
-</ul>
+</ol>
+<p>CO will gather any extra information from resident (if needed) to add
+to the case before forwarding to the relevant parties (also on Zendesk)
+for explicit approval. Upon approval / rejection on Zendesk, the Plumber
+workflow will update the case status to the tracking M365 sheet. The M365
+sheet can be used to chart data and draw insights to make better policies.</p>
 <p></p>
