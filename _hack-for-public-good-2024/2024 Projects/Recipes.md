@@ -13,7 +13,7 @@ solve.&nbsp;</p>
 <p>Recipes helps these public officers effortlessly get an end-to-end, customised
 solution configured auto-magically.</p>
 <p>How it works:</p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Browse through our list of templates that use OGP products to solve common
 use cases</p>
@@ -23,12 +23,11 @@ use cases</p>
 </li>
 <li>
 <p>Recipes sets up, configure, and gives you a customised, configured solution
-that you can instantly try out.
-<br>
-</p>
+that you can instantly try out.</p>
+</li>
+</ul>
+<p>Read more <a href="https://docs.google.com/presentation/d/1oa5JY9W9Dnfhhs6uoWjXyJ2UUzD4FhzVIu7sTXZilHc/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/recipes_A3.jpg">
 </div>
-</li>
-</ol>
 <p></p>
