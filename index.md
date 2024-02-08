@@ -18,7 +18,7 @@ sections:
       title: 2024 Projects
       description: 36 prototypes were built this year, each addressing critical
         challenges in various sectors, including the economy, health, education,
-        transport and more.
+        transport, and more.
       button: Find out more
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
