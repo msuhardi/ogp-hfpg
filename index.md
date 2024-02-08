@@ -16,7 +16,7 @@ sections:
       url: /about-hfpg/hfpg/
   - infopic:
       title: 2024 Projects
-      description: 37 prototypes were built this year, each addressing critical
+      description: 36 prototypes were built this year, each addressing critical
         challenges in various sectors, including the economy, health, education,
         transport and more.
       button: Find out more
