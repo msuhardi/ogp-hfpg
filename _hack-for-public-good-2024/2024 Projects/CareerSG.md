@@ -7,9 +7,10 @@ third_nav_title: 2024 Projects
 ---
 <h3>CareerSG</h3>
 <h4>Problem</h4>
-<p>The main job application portal, Careers@Gov today could use with improvements
-in its functionality, such as search accuracy, and overall user experience,
-where it currently takes 20 minutes to submit a job application.</p>
+<p>Today it takes at least 20 minutes to submit an application on the government's
+main job application portal, Careers@Gov. Improvements in areas such as
+search accuracy and overall user experience could help increase its functionality
+and reduce job application times.</p>
 <h4>Solution</h4>
 <p>We’ve built a portal for citizens to quickly and accurately search for
 roles and view all job information transparently, significantly enhancing
