@@ -1,6 +1,6 @@
 title: Hack for Public Good
 url: https://hack.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 colors:
   primary-color: "#2c70f1"
   secondary-color: "#443d3d"
@@ -56,3 +56,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

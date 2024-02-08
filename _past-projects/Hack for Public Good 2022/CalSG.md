@@ -1,6 +1,6 @@
 ---
 title: CalSG
-permalink: /example-folder/example-subfolder/calsg/
+permalink: /past-hackathons/Hack-for-Public-Good-2022/calsg/
 third_nav_title: Hack for Public Good 2022
 description: ""
 ---
