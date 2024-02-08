@@ -27,7 +27,7 @@ low severity incidents</p>
 <p>Benefits:&nbsp;</p>
 <ul>
 <li>
-<p>Accessible, guided and user-friendly reporting of injury for low severity
+<p>Accessible, guided, and user-friendly reporting of injury for low severity
 incidents</p>
 </li>
 <li>
