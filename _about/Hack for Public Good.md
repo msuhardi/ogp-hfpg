@@ -4,8 +4,9 @@ permalink: /about-hfpg/hfpg/
 description: ""
 variant: markdown
 ---
+**Hack for Public Good 2024 - Our Journey**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_b4DUiJc5TA?si=hdp5Bm9FU0NPXbx4" height="415" width="660"></iframe>
-*Hack for Public Good 2024 - Our Journey*
+
 
 #### What is Hack for Public Good?
 
