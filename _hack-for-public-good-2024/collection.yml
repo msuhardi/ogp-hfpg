@@ -2,6 +2,7 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
+      - 2024 Projects/Our Journey.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
