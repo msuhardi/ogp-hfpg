@@ -2,6 +2,7 @@ collections:
   past-projects:
     output: true
     order:
+      - Hack for Public Good 2023/About HFPG 2023.md
       - Hack for Public Good 2023/.keep
       - Hack for Public Good 2023/Armoury.md
       - Hack for Public Good 2023/AttendGov.md
