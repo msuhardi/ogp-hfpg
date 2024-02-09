@@ -13,6 +13,11 @@ a more effective way of tackling scams in the long run.</p>
 <h4>Solution</h4>
 <p>Sentry is an exploratory product exploring whether scams can be tackled
 at the “top of the funnel” by informing and educating citizens on what
-to do should their personal data be leaked. operandi of such scams. Check
-out our prototype <a href="https://sentry.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> and read more <a href="https://docs.google.com/presentation/d/1Cdpwdteq6qdkkPcqieO_XzsYO8RjB_PAEN_L8BDvz9U/edit#slide=id.g2b62d2d070e_0_9" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+to do should their personal data be leaked. Check out our prototype at
+<a href="https://sentry.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sentry.hack.gov.sg</a>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFtQeVcB7Fo1AsYkb2zRL8VR3YTJfHKRqLtPYozsoTZ1J3XHIKgHzfRq73bX8IEL0fN5qeSU3RbfGx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
