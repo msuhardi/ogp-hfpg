@@ -18,8 +18,7 @@ for Public Good strives to take a citizen-centric approach, empowering
 our tech teams to go into the community themselves to discover what public
 good problems there are in Singapore, and brainstorm and build ways to
 solve them.</p>
+<p>Click <a href="https://www.youtube.com/watch?v=_b4DUiJc5TA" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+watch this year's journey!</p>
 <p></p>
-<p><strong>Hack for Public Good 2024 - Our Journey</strong> 
-</p>
-<p>Watch the video <a href="https://www.youtube.com/watch?v=_b4DUiJc5TA" rel="noopener noreferrer nofollow" target="_blank">here!</a>
-</p>
+<p></p>
