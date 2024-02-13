@@ -14,7 +14,7 @@ to lack of practice and limited access to tutors.</p>
 partner. Converse actively engages students in verbal discussion, and instantly
 provides actionable feedback with clear examples and suggested improvements,
 ensuring a personalised learning experience. Check out the prototype
-<a href="go.gov.sg/conversesg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://go.gov.sg/conversesg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Converse_A3.png">
