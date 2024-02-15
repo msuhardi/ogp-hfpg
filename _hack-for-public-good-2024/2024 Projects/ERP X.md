@@ -21,10 +21,26 @@ immediately be told how much they’ve been charged when they drive through
 an ERP area. We could also use this to serve enforcement fines, such as
 speeding or red light tickets, or processing vehicles and monitoring wait
 times at border crossings.</p>
-<p>For more info about the ERP X prototype and the team’s findings, click
-<a href="https://www.notion.so/opengov/ERP-X-Road-charges-reimagined-82e5e3c4ddd14ce588f9fe7e92469a79" rel="noopener noreferrer nofollow" target="_blank">here</a>. For a slideshow presentation on the ERP X prototype, click
-<a href="https://www.figma.com/proto/B7Pf7TPYhEUfgDn82gY4Da/ERP-X?page-id=34%3A2354&amp;type=design&amp;node-id=34-2368&amp;viewport=290%2C487%2C0.04&amp;t=w6OqgcDDJ7NrpYc1-1&amp;scaling=contain&amp;starting-point-node-id=34%3A2368" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>How it works</h4>
+<h4>Impact</h4>
+<h4>Further reading</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.notion.so/opengov/ERP-X-Road-charges-reimagined-82e5e3c4ddd14ce588f9fe7e92469a79" rel="noopener noreferrer nofollow" target="_blank">Detailed report</a> -
+More info about the ERP X prototype and the team’s findings.</p>
+</li>
+<li>
+<p><a href="https://www.figma.com/proto/B7Pf7TPYhEUfgDn82gY4Da/ERP-X?page-id=34%3A2354&amp;type=design&amp;node-id=34-2368&amp;viewport=290%2C487%2C0.04&amp;t=w6OqgcDDJ7NrpYc1-1&amp;scaling=contain&amp;starting-point-node-id=34%3A2368" rel="noopener noreferrer nofollow" target="_blank">Slideshow</a> -
+Presentation on the ERP X prototype.</p>
+</li>
+</ul>
 <h4>Team</h4>
+<p>ERP X was made by a multi-disciplinary team of engineers, designers, product
+ops and policy officers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ERP X Team" src="/images/erp_x_team.jpeg">
+</div>
 <table>
 <tbody>
 <tr>
