@@ -23,6 +23,27 @@ speeding or red light tickets, or processing vehicles and monitoring wait
 times at border crossings.</p>
 <h4>How it works</h4>
 <h4>Impact</h4>
+<p>We believe this concept is a viable alternative to ERP 2.0.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">$540M+</div>
+<div class="isomer-card-description">in potential cost savings</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3 million man-hours</div>
+<div class="isomer-card-description">in potential labour savings</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">0 devices</div>
+<div class="isomer-card-description">installed in your car</div>
+</div>
+</div>
+</div>
 <h4>Further reading</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,43 +62,8 @@ ops and policy officers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ERP X Team" src="/images/erp_x_team.jpeg">
 </div>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stephanie Siow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Christabel Png</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blake Gong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Daryl Chan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Justyn Oh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mike Chen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Samuel Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p><em>Left to right: Daryl Chan, Justyn Oh, Stephanie Siow, Blake Gong, Christabel Png, Mike Chen, Samuel Koh (unpictured)</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERP_X___A3___Front.png">
 </div>
