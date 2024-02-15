@@ -24,6 +24,44 @@ times at border crossings.</p>
 <p>For more info about the ERP X prototype and the team’s findings, click
 <a href="https://www.notion.so/opengov/ERP-X-Road-charges-reimagined-82e5e3c4ddd14ce588f9fe7e92469a79" rel="noopener noreferrer nofollow" target="_blank">here</a>. For a slideshow presentation on the ERP X prototype, click
 <a href="https://www.figma.com/proto/B7Pf7TPYhEUfgDn82gY4Da/ERP-X?page-id=34%3A2354&amp;type=design&amp;node-id=34-2368&amp;viewport=290%2C487%2C0.04&amp;t=w6OqgcDDJ7NrpYc1-1&amp;scaling=contain&amp;starting-point-node-id=34%3A2368" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Team</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stephanie Siow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christabel Png</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blake Gong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daryl Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Justyn Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mike Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERP_X___A3___Front.png">
 </div>
