@@ -6,27 +6,21 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>ERP X</h3>
-<h4>Problem</h4>
-<p>ERP X is a conversation starter to explore one possible way in which ERP
-could be alternatively implemented. It is a reaction to the public reception
-of ERP 2.0, and an attempt to prototype a better and cheaper solution.</p>
-<p></p>
-<h4>Solution</h4>
-<p>In this example, we’ve used machine learning and optical character recognition
-to read license plates from video streams. We tested this with our mobile
-phones and regular webcams from our office, but in reality it should be
-implemented with proper traffic cameras.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LTLgmK-xdDg?si=BSIc3IRW8GRMOKFB"></iframe>
 </div>
-<p>We built a mobile app that allows drivers to register multiple vehicles
-and set up fully automated credit card payments. In this way, they can
-immediately be told how much they’ve been charged when they drive through
-an ERP area. We could also use this to serve enforcement fines, such as
-speeding or red light tickets, or processing vehicles and monitoring wait
-times at border crossings.</p>
+<h4>Problem</h4>
+<p>The Electronic Road Pricing (ERP) system plays a critical role in managing
+traffic congestion in Singapore. The current infrastructure has reached
+end-of-life and needs to be decommissioned soon. On the other hand, it's
+successor ERP 2.0 has been unpopular in the media and public eye due to
+alleged high costs and outdated hardware.</p>
+<p>ERP X is an attempt to prototype a better and cheaper solution, with the
+goal of starting a conversation around alternative implementations.</p>
 <p></p>
-<h4>How it works</h4>
+<h4>Solution</h4>
+<p>The ERP X concept is simple: Use existing traffic cameras to charge ERP
+tolls. Drivers are informed via their mobile phone.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -62,7 +56,17 @@ times at border crossings.</p>
 </div>
 </div>
 </div>
+<p>Our prototype uses a regular office webcam to stream video footage of
+cars driving past. The software reads the license plates using common machine
+learning and Optical Character Recognition (OCR) techniques. The ERP toll
+is charged to drivers' credit cards, and they are sent a mobile app notification.</p>
+<p>Instead of installing hardware into their vehicle, we also provide drivers
+with a mobile app where they can register multiple vehicles, set up automated
+credit card payments, and view their payment history.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="ERP X mobile screens" src="/images/erp_x_screens_2x.png">
+</div>
 <h4>Impact</h4>
 <p>We believe this concept is a potential alternative to the ERP system.</p>
 <div class="isomer-card-grid">
@@ -85,6 +89,21 @@ times at border crossings.</p>
 </div>
 </div>
 </div>
+<p>The technology also has other use cases, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Traffic enforcement</strong> - Serving enforcement fines, such
+as speeding or red light tickets.</p>
+</li>
+<li>
+<p><strong>Border crossing</strong> - Processing vehicles, monitoring wait
+times, and catching errant drivers who cut queues.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="ERP X notifications" src="/images/erp_x_not.png">
+</div>
 <h4>Further reading</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -106,16 +125,19 @@ ops and policy officers.</p>
 <p>Left to right: Daryl Chan, Justyn Oh, Stephanie Siow, Blake Gong, Christabel
 Png, Mike Chen, Samuel Koh (unpictured)</p>
 <p></p>
-<hr>
+<h4>Demo Day</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ERP X Demo Day pictures" src="/images/erp_demoday1.jpg">
+</div>
 <p></p>
-<p></p>
+<h4>Appendix</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERP_X___A3___Front.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERP_X___A3___Back.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
