@@ -78,7 +78,7 @@ credit card payments, and view their payment history.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">3 million man-hours</div>
-<div class="isomer-card-description">in potential labour savings</div>
+<div class="isomer-card-description">in potential labour savings from installation</div>
 </div>
 </div>
 <div class="isomer-card">
