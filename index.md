@@ -23,4 +23,14 @@ sections:
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
       image: /images/Grandfather_road.jpeg
+  - infobar:
+      title: What is Hack for Public Good?
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/_b4DUiJc5TA?si=7pvKF5g98iOYHdBS"
+        height="315" width="560"></iframe>
+      button: About HFPG
+      url: /about-hfpg/hfpg/
 ---
