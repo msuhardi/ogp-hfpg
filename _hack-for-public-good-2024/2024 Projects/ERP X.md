@@ -12,11 +12,10 @@ third_nav_title: 2024 Projects
 <h4>Problem</h4>
 <p>The Electronic Road Pricing (ERP) system plays a critical role in managing
 traffic congestion in Singapore. The current infrastructure has reached
-end-of-life and needs to be decommissioned soon. On the other hand, it's
-successor ERP 2.0 has been unpopular in the media and public eye due to
-alleged high costs and outdated hardware.</p>
-<p>ERP X is an attempt to prototype a better and cheaper solution, with the
-goal of starting a conversation around alternative implementations.</p>
+end-of-life and needs to be decommissioned soon. Its successor, ERP 2.0,
+has encountered significant headwinds in the public eye.</p>
+<p>ERP X is our attempt to prototype a possible way forward, with the goal
+of starting a conversation around alternative implementations.</p>
 <p></p>
 <h4>Solution</h4>
 <p>The ERP X concept is simple: Use existing traffic cameras to charge ERP
