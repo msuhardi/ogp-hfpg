@@ -47,17 +47,18 @@ can increase general public awareness of women’s health issues.</p>
 All reviews and summaries on the platform have been generated for illustrative
 purposes only and do not reflect any experiences at actual clinics.</p>
 <p><strong>Team members</strong> 
-<br>@Airika - Policy, user research
-<br>@Amit Samdarshi - PM
-<br>@Darren Ng - User research
-<br>@Edgar Ang - Product &amp; market research
-<br>@Euan Lim - Engineer
-<br>@Se Hyun - Design, user research
-<br>@Sarah Espaldon - User research
+<br>Airika - Policy, user research
+<br>Amit Samdarshi - PM
+<br>Darren Ng - User research
+<br>Edgar Ang - Product &amp; market research
+<br>Euan Lim - Engineer
+<br>Se Hyun - Design, user research
+<br>Sarah Espaldon - User research
+<br>
 <br><strong>Consultants</strong> 
-<br>@Kavya Joseph - External user research consultant
-<br>@Kenneth Sng - Health product consultant
-<br>@Praveen Raj Kumar - Health policy consultant</p>
+<br>Kavya Joseph - External user research consultant
+<br>Kenneth Sng - Health product consultant
+<br>Praveen Raj Kumar - Health policy consultant</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AskHerBrandingPoster4.png">
 </div>
