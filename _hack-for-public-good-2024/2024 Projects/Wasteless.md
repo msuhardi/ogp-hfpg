@@ -11,7 +11,6 @@ third_nav_title: 2024 Projects
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.jpg">
 </div>
 <h4>Problem</h4>
-<p></p>
 <p>Singapore trashes over 2 million kilograms of food daily <em>(equivalent to two million bags of rice)</em> and
 only recycles 18%. Essential food items like rice, noodles, and bread contribute
 significantly to this waste, further impacting the 10.4% of surveyed households
