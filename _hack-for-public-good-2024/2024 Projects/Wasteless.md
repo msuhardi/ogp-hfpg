@@ -19,7 +19,7 @@ experiencing food insecurity.</p>
 <h4>Solution</h4>
 <p>Our user-friendly web app aims to be a comprehensive one-stop platform
 with features tackling the food waste problem at each stage of the food
-life cycle.&nbsp;Click <a href="https://docs.google.com/presentation/d/1-aaB-uSpFAuylA26buPiRJtUTa0dscMp/edit#slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+life cycle.&nbsp;Click <a href="https://docs.google.com/presentation/d/1XJSoueVQlEF7P-2ZOZtrz9VlCYfYUnYWHbKprr9_-zA/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 read more.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Recipes &amp; Tips" src="/images/ezgif_4_40a48adf6b.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recipes &amp; Tips</div><div class="isomer-card-description">Discover storage hacks &amp; recipes. Cook sustainably for tasty, resourceful meals.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card">
