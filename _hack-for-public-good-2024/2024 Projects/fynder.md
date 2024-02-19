@@ -106,7 +106,7 @@ created is an MVP with barebones features.</p>
 Good 2024!</p>
 <p>Check out the Public Officer Borrowing flow here:</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6WHyMpdqL_A” title=“fynder public officer flow” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share” allowfullscreen></iframe>"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6WHyMpdqL_A?si=dNrxjDnDgAnFfvcc"></iframe>
 </div>
 <table>
 <tbody>
