@@ -51,4 +51,12 @@ sections:
         Public Sector Transformation themes this year, emulating your success."'
       button: Read more stories like this
       url: /hack-for-public-good-2024/aiid/
+  - infopic:
+      title: Past Hack for Public Good series
+      id: infopic
+      description: Infopic description
+      button: Find out more
+      url: /past-projects/hack-for-public-good-2023/ourjourney/
+      image: /images/about1.jpeg
+      alt: Image alt text
 ---
