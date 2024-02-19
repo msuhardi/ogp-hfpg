@@ -40,7 +40,7 @@ sections:
       button: Check out our projects
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
-      image: /images/2024_Projects_1.png
+      image: /images/2024_Projects.gif
   - infobar:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
