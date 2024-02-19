@@ -23,4 +23,3 @@ allows users to create Yes/No questions that other users can bet on. In
 parallel, we are also in talks with agencies to draft a list of policy-relevant
 questions that will be shared on an existing prediction market, in order
 to assess whether this could be a useful method of forecasting the future.</p>
-<p></p>
