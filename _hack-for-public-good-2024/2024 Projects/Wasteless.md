@@ -5,19 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wasteless_deck2.jpg">
-</div>
+<h1>Wasteless</h1>
 <h4>Problem</h4>
 <p>Singapore trashes over 2 million kilograms of food daily <em>(equivalent to two million bags of rice)</em> and
 only recycles 18%. Essential food items like rice, noodles, and bread contribute
 significantly to this waste, further impacting the 10.4% of surveyed households
 experiencing food insecurity.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3_Poster__1_.jpg">
-</div>
 <h4>Solution</h4>
 <p>Our user-friendly web app aims to be a comprehensive one-stop platform
 with features tackling the food waste problem at each stage of the food
@@ -49,8 +42,13 @@ banks.</div>
 </div>
 <p></p>
 <h4>Meet the Team</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wasteless_deck3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_19_at_5_48_47_PM.png">
+</div>
+<p></p>
+<p><strong>Poster</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3_Poster__1_.jpg">
 </div>
 <p></p>
