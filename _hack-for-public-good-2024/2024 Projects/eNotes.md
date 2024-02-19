@@ -17,7 +17,8 @@ of access.</p>
 for your loved ones in three simple steps: Log in using Singpass, write
 a note, and choose whom to send it to and when (either upon incapacitation/death
 or immediately). When triggered, your loved ones will simply need to verify
-their identity through Singpass to access the note.</p>
+their identity through Singpass to access the note. Explore our prototype
+<a href="https://enotes.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/enotes_A3.jpg">
 </div>
