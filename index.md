@@ -22,6 +22,22 @@ sections:
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_b4DUiJc5TA?si=7pvKF5g98iOYHdBS" height="315" width="100%"></iframe>
       button: About HFPG
       url: /about-hfpg/hfpg/
+  - textcards:
+      title: Title here
+      id: textcards
+      cards:
+        - title: 7th
+          description: Annual Hack for Public Good
+          linktext: Learn more
+          url: ""
+        - title: XXX
+          description: attendees and counting
+          linktext: Learn more
+          url: ""
+        - title: XXX
+          description: hackathon projects turned full products within OGP
+          linktext: Learn more
+          url: ""
   - infopic:
       title: 2024 Projects
       description: 36 prototypes were built this year, each addressing critical
