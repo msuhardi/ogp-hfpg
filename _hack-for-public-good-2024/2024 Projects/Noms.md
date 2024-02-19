@@ -67,7 +67,7 @@ is expanding its pilot to various other ministries and statutory agencies
 (e.g. MCI, TTSH, PSD).</p>
 <h4>Building the Noms</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buildingTheNoms.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/noms_replace.jpeg">
 </div>
 <p>Noms generates meeting minutes through multiple steps:&nbsp;</p>
 <ul data-tight="true" class="tight">
