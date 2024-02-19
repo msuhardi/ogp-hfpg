@@ -19,4 +19,7 @@ click on 'Apply with LinkedIn' to successfully apply for a role.</p>
 <p>Through removing barriers to application, we hope to hire more talents
 into Government &amp; through these talents, make Singapore better.</p>
 <p>Check out the prototype <a href="https://careers.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=Po3jodPdXDwUwvwD"></iframe>
+</div>
 <p></p>
