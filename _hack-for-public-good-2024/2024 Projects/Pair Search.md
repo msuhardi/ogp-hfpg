@@ -27,10 +27,15 @@ professionals and members of the public alike.</p>
 Results are poor due to being 100% keyword search based, meaning that the
 documents that frequently mention a single word in a query are often ranked
 more highly, when they should be taking the entire search phrase into account.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/info.jpg">
+</div>
 <p>For instance, look at this search for “covid 19 rapid testing” in the
-<a href="https://sprs.parl.gov.sg/search/#/home" rel="noopener noreferrer nofollow" target="_blank"><u>current Hansard search engine</u>
+<a href="https://sprs.parl.gov.sg/search/#/home" rel="noopener noreferrer nofollow" target="_blank"><u>current Hansard search engine</u> 
 </a>:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/covid_19_results_hansard.jpg">
+</div>
 <p></p>
 <p>Due to how frequently Covid is mentioned in Parliamentary debates, the
 actual results are flooded with reports that are only tangentially related
@@ -38,6 +43,9 @@ to the query, if at all. Additionally, only the titles are presented without
 any smart text snippets to help a user confirm whether a link is likely
 to be useful. Compare that to the results from <a href="https://search.pair.gov.sg/search?query=covid%2019%20rapid%20testing" rel="noopener noreferrer nofollow" target="_blank"><u>searching the same query in Pair Search</u></a>:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/covid_19_results_pair_search.jpg">
+</div>
 <h4>Search smarter, not harder</h4>
 <p>Current public and enterprise search experiences are generally low quality,
 expensive and slow. We believe that this does not have to be the case.
@@ -149,6 +157,6 @@ one we have been trialing with the Assistants feature in Pair Chat.</p>
 <p>We are also looking into building searches around other datasets beyond
 Hansard. We are in the midst of working with the Judiciary to incorporate
 the Singapore courts case judgements as an additional data source.&nbsp;</p>
-<p>Interested in collaborating? Reach out to us at&nbsp;</p>
+<p>Interested in collaborating? Reach out to us <a href="https://go.gov.sg/pair-search-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
