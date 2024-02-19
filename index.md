@@ -27,7 +27,7 @@ sections:
       description: 36 prototypes were built this year, each addressing critical
         challenges in various sectors, including the economy, health, education,
         transport, and more.
-      button: Find out more
+      button: Check out our projects
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
       image: /images/Grandfather_road.jpeg
