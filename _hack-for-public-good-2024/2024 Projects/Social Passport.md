@@ -37,7 +37,7 @@ care providers
 <li>
 <p>Care providers spend time on information-sourcing, which might result
 in delaying care for clients
-<br><strong>“Clients may not give accurate information, so a lot of work is spent on hunting... it’s like detective work…”</strong>
+<br><strong>“Clients may not give accurate information, so a lot of work is spent on hunting... it’s like detective work…”</strong> 
 <br><strong>“Intervention can be late. We can’t refer to other services because they say we never give them the info.”</strong>
 </p>
 </li>
