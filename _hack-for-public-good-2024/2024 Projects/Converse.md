@@ -56,7 +56,7 @@ topics.&nbsp;</p>
 <p>The feedback is informed by frameworks and “O”-Level rubrics that are
 provided through the LLM prompt, with the potential for further customisation
 depending on a teacher’s pedagogical style.</p>
-<p><strong>What users said</strong>
+<p><strong>What users said</strong> 
 <br>In user research and conversations during Demo Day, teachers we spoke
 to saw the potential of Converse immediately and had confidence in bringing
 it into their classrooms in its current state. One teacher expressed interest
