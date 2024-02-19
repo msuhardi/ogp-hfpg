@@ -14,13 +14,14 @@ young adults reporting that burnout affected their mental health.</p>
 <p>Fireside is a web app that tackles the growing problem of work burnout
 among young working adults.
 <br>
-<br>1. Assess your work stressors to find out your biggest occupational risk
-factors</p>
-<p>2. Chat with Flamey, our friendly chatbot, to share your work rants anonymously
-and securely</p>
-<p>3. Let Flamey convert work rants into constructive feedback for managers,
-teammates or HR</p>
-<p>4. Explore self-help resources to manage work burnout symptoms</p>
+<br>1. Assess your work stressors to find out your <strong>biggest occupational risk factors</strong>
+</p>
+<p>2. Chat with Flamey, our friendly chatbot, to <strong>share your work rants anonymously and securely</strong>
+</p>
+<p>3. Let Flamey convert work rants into <strong>constructive feedback</strong> for
+managers, teammates or HR</p>
+<p>4. Explore self-help resources to <strong>manage work burnout symptoms</strong>
+</p>
 <p>Flamey the chat bot is powered by ChatGPT 3.5, and has been engineered
 to follow a conversation flow that models after the Cognitive Behavioural
 Therapy framework. This framework aims to identify and challenge negative
