@@ -28,7 +28,7 @@ Results are poor due to being 100% keyword search based, meaning that the
 documents that frequently mention a single word in a query are often ranked
 more highly, when they should be taking the entire search phrase into account.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/info.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smaller_A4.jpeg">
 </div>
 <p>For instance, look at this search for “covid 19 rapid testing” in the
 <a href="https://sprs.parl.gov.sg/search/#/home" rel="noopener noreferrer nofollow" target="_blank"><u>current Hansard search engine</u> 
