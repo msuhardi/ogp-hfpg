@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_5.png
+      background: /images/Hero_Banner_Option_7.png
       key_highlights:
         - title: 7th Annual
           description: Hack for Public Good
