@@ -13,10 +13,10 @@ sections:
           description: Hack for Public Good
           url: ""
         - title: ~70%
-          description: of OGP products came from HFPG
+          description: of OGP products come from HFPG
           url: ""
         - title: ~55
-          description: Government agencies involved
+          description: government agency partners
           url: ""
   - infobar:
       title: What is Hack for Public Good?
@@ -46,19 +46,6 @@ sections:
       id: infobar
       description: '"PSD is inspired by your hackathons. We plan to host Ideathons on
         Public Sector Transformation themes this year, emulating your success."'
-      button: Read more stories like this
+      button: Check out our projects
       url: /hack-for-public-good-2024/aiid/
-  - infopic:
-      title: Previous Hack for Public Good series
-      id: infopic
-      description: 36 prototypes were built this year, each addressing critical
-        challenges in various sectors, including the economy, health, education,
-        transport, and more.
-      button: Find out more
-      url: /past-projects/hack-for-public-good-2023/ourjourney/
-      image: /images/about1.jpeg
-      alt: Image alt text
-  - resources:
-      subtitle: NEWSROOM
-      id: resources
 ---
