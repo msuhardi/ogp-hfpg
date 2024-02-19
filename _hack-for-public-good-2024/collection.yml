@@ -2,7 +2,6 @@ collections:
   hack-for-public-good-2024:
     output: true
     order:
-      - 2024 Projects/Grandfather Road.md
       - 2024 Projects/.keep
       - 2024 Projects/AIID.md
       - 2024 Projects/AskHer.md
@@ -15,6 +14,7 @@ collections:
       - 2024 Projects/Fireside.md
       - 2024 Projects/Forge.md
       - 2024 Projects/fynder.md
+      - 2024 Projects/Grandfather Road.md
       - 2024 Projects/KampungSpirit.md
       - 2024 Projects/Magic Form Builder.md
       - 2024 Projects/NomNoms.md
