@@ -8,6 +8,19 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_Banner_Option_5.png
+      key_highlights:
+        - title: 7th Annual
+          description: Hack for Public Good
+          url: ""
+        - title: XXX
+          description: HFPG projects now OGP products
+          url: ""
+        - title: XXX
+          description: Attendees and counting
+          url: ""
+        - title: XXX
+          description: Participants from XX agencies
+          url: ""
   - infobar:
       title: What is Hack for Public Good?
       id: infobar
@@ -22,22 +35,6 @@ sections:
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_b4DUiJc5TA?si=7pvKF5g98iOYHdBS" height="315" width="100%"></iframe>
       button: About HFPG
       url: /about-hfpg/hfpg/
-  - textcards:
-      title: Title here
-      id: textcards
-      cards:
-        - title: 7th
-          description: Annual Hack for Public Good
-          linktext: Learn more
-          url: ""
-        - title: XXX
-          description: attendees and counting
-          linktext: Learn more
-          url: ""
-        - title: XXX
-          description: hackathon projects turned full products within OGP
-          linktext: Learn more
-          url: ""
   - infopic:
       title: 2024 Projects
       description: 36 prototypes were built this year, each addressing critical
@@ -47,4 +44,11 @@ sections:
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
       image: /images/Grandfather_road.jpeg
+  - infobar:
+      subtitle: WHAT OTHERS HAVE SAID
+      id: infobar
+      description: '"Hack 2023 and OGP website was quite influential in my decision to
+        join the team :slightly_smiling_face:"'
+      button: Read more stories like this
+      url: /hack-for-public-good-2024/aiid/
 ---
