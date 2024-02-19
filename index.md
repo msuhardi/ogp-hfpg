@@ -56,4 +56,7 @@ sections:
       url: /past-projects/hack-for-public-good-2023/ourjourney/
       image: /images/about1.jpeg
       alt: Image alt text
+  - resources:
+      subtitle: NEWSROOM
+      id: resources
 ---
