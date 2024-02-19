@@ -34,7 +34,7 @@ key to unlocking a world of clarity for seniors, one letter at a time.</p>
 email us at <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank"><u>nicole@open.gov.sg</u></a>&nbsp;</p>
 <h4>Team Members</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/readliao_team.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/small_readliaoteam.jpeg">
 </div>
 <p><strong>Interested parties and/or agencies thus far:</strong>
 </p>
