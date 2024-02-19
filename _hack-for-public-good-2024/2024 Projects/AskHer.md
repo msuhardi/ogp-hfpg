@@ -46,7 +46,7 @@ can increase general public awareness of women’s health issues.</p>
 <p><a href="https://askher.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">Explore AskHer's prototype</a>.
 All reviews and summaries on the platform have been generated for illustrative
 purposes only and do not reflect any experiences at actual clinics.</p>
-<p><strong>Team members</strong>
+<p><strong>Team members</strong> 
 <br>@Airika - Policy, user research
 <br>@Amit Samdarshi - PM
 <br>@Darren Ng - User research
@@ -54,7 +54,7 @@ purposes only and do not reflect any experiences at actual clinics.</p>
 <br>@Euan Lim - Engineer
 <br>@Se Hyun - Design, user research
 <br>@Sarah Espaldon - User research
-<br><strong>Consultants</strong>
+<br><strong>Consultants</strong> 
 <br>@Kavya Joseph - External user research consultant
 <br>@Kenneth Sng - Health product consultant
 <br>@Praveen Raj Kumar - Health policy consultant</p>
