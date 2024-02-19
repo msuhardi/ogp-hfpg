@@ -16,7 +16,7 @@ about working in Singapore.</p>
 records for each company, with potential reviews and job listings in future.
 A “choose your story” game to educate players on the pitfalls and potential
 ways a worker can be exploited.&nbsp;Check out our prototype <a href="https://workersofsg-r889h7sec-workersofsg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Other materials</p>
+<p>Other materials:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://docs.google.com/presentation/d/1gOfnOCCa9Wr56vxXaRuqGMYhWTUx19lJ0tLkomJskKg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Slides</u></a>
