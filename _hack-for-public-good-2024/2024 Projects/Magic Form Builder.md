@@ -6,21 +6,102 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>Magic Form Builder</h3>
-<p>FormSG’s magic form builder feature allows you to choose between 2 modes:</p>
-<ul data-tight="true" class="tight">
+<h4>Problem</h4>
+<p>The People's Association (PA) is assisting a lot of residents with their
+financial difficulties through the use of multiple funds. Currently, the
+routing and approval seeking are manually done by the community officer
+(CO) at different community centers. The problems with the current approach
+are:</p>
+<ul>
 <li>
-<p>Upload a PDF form</p>
+<p>Arduous administrative process carried out by our COs using physical forms
+and manually carrying forms around for signatures. Right now it usually
+takes <strong>3 weeks</strong> for each approval, which induces a lot of
+unnecessary stress and anxiety for the family who might be living paycheck
+to paycheck</p>
 </li>
 <li>
-<p>Write a prompt&nbsp;</p>
+<p>No consistency between different community centers with regard to this
+process</p>
+</li>
+<li>
+<p>Data are not being digitally collected for better policy making</p>
 </li>
 </ul>
-<p>Powered by large language models, the magic form builder helps you create
-an entire form in less than a minute! We believe this is much quicker than
-creating every question from scratch, allowing you to focus your efforts
-on more important parts of form building!</p>
+<p><em>Side note: </em>PA is currently planning an external vendor contract
+to solve the above issues. The platform is projected to cost about 30 million
+SGD.</p>
+<h4>Solution</h4>
+<ul>
+<li>
+<p>We use our <a href="https://plumber.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Plumber</a> product
+(for workflow automation) in combination with Zendesk (for remote communication
+and approval seeking) and M365 (for data storage and possible analysis)</p>
+</li>
+<li>
+<p>In our design, we have 2 Plumber workflows:</p>
+<ul>
+<li>
+<p>Application creation workflow:</p>
+<ul>
+<li>
+<p>Starts with a FormSG that residents and COs and raise a case</p>
+</li>
+<li>
+<p>The workflow, upon receiving the submission, will create a Zendesk ticket
+and assign it to the CO</p>
+</li>
+<li>
+<p>The workflow will also persist the case inside a shared M365 excel sheet
+for tracking</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Approval workflow:</p>
+<ul>
+<li>
+<p>CO will gather any extra information from resident (if needed) to add
+to the case before forwarding to the relevant parties (also on Zendesk)
+for explicit approval</p>
+</li>
+<li>
+<p>Upon approval / rejection on Zendesk, the Plumber workflow will update
+the case status to the tracking M365 sheet</p>
+</li>
+<li>
+<p>The M365 sheet can be used to chart data and draw insights to make better
+policies</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Impact and Potential Growth</h4>
+<ul>
+<li>
+<p>With our automation, approval time can be cut down to within the one day</p>
+</li>
+<li>
+<p>PA is ready to bring in our solution, and looking to scale this beyond
+ComCare scheme to 100+ other schemes and ~250k citizens</p>
+</li>
+</ul>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSiMdKjm-tk?si=HSNy6-1_6CkaJrod"></iframe>
 </div>
+<h4>Team Members</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yuanruo</p>
+</li>
+<li>
+<p>Malcolm</p>
+</li>
+<li>
+<p>Stanley</p>
+</li>
+</ul>
 <p>Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
