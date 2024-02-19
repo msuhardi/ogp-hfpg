@@ -12,14 +12,11 @@ sections:
         - title: 7th Annual
           description: Hack for Public Good
           url: ""
-        - title: XXX
-          description: HFPG projects now OGP products
+        - title: ~70%
+          description: of OGP products came from HFPG
           url: ""
-        - title: XXX
-          description: Attendees and counting
-          url: ""
-        - title: XXX
-          description: Participants from XX agencies
+        - title: ~55
+          description: Government agencies involved
           url: ""
   - infobar:
       title: What is Hack for Public Good?
