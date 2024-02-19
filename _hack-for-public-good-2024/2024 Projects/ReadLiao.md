@@ -30,8 +30,38 @@ only enhances comprehension for seniors but also ensures inclusivity across
 languages and literacy abilities.&nbsp;</p>
 <p>We believe in making information accessible to all, and ReadLiao is the
 key to unlocking a world of clarity for seniors, one letter at a time.</p>
-<p>Check out the prototype <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank">here</a> and click <a href="https://docs.google.com/presentation/d/1vJ0jRTAeLU29JRoIYjZugifjScnMed4s1b2R7GKG-u8/edit#slide=id.g2672abe915c_0_163" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read more. For any queries or collaborations, email us at <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank"><u>nicole@open.gov.sg</u></a>&nbsp;</p>
+<p>Try out our webapp <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank">here</a>. For any queries or collaborations,
+email us at <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank"><u>nicole@open.gov.sg</u></a>&nbsp;</p>
+<p><strong>Interested parties and/or agencies thus far:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGH medical social worker dept - sharing with their patients</p>
+</li>
+<li>
+<p>Fei Yue - in charge of AACs, sharing with their seniors</p>
+</li>
+<li>
+<p>EmpowerSG - they conduct digital training for seniors as part of the silversurfer
+program</p>
+</li>
+<li>
+<p>People's Association - want to roll this out at their customer help desks</p>
+</li>
+<li>
+<p>Care Corner - in charge of care corner centers, sharing with their seniors</p>
+</li>
+<li>
+<p>Enterprise SG - helpful for their communications to older business owners</p>
+</li>
+<li>
+<p>TTSH</p>
+</li>
+<li>
+<p>Tan Ken Hwee - Chief Transformation &amp; Innovation Officer (Judiciary)
+at Supreme Court of Singapore</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/readliao_info_poster_copy.jpg">
 </div>
