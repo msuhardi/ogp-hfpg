@@ -22,6 +22,9 @@ to a given task, as there is a lack of input-labeled output pairs or a
 concrete set of metrics for a given specific domain.That being said, there
 is one specific use-case we found in the government that fulfills this
 use case - Government Meeting Minutes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.jpeg">
+</div>
 <h4>But really, why Meeting Minutes?</h4>
 <p>Meetings are an interesting paradox - on one hand they are crucial to
 an organization. On the other hand, they are painful, tedious, and frustratingly
@@ -53,7 +56,7 @@ A states … Deputy Director B to follow up with action …)</p>
 </ul>
 <p>When done right, this will not only save the government hundreds of man-hours
 every week, but allow meetings to be more focused and organized.&nbsp;</p>
-<h4>Opportunity and Impact </h4>
+<h4>Opportunity and Impact</h4>
 <p>Noms was prototyped during OGP’s Hack for Public Good 2024 Hackathon.
 The team has piloted it in meetings within government agencies, and has
 drastically reduced the time taken to generate minutes by up to 80%. The
@@ -107,6 +110,9 @@ specific contexts and use cases. In the next few weeks, the team will be
 looking into better improving the personalisation for Noms, to get your
 meeting minutes<em> in your style.</em>
 </p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KQUqp37Xz-I?si=skoBbFUEtHgDz2k8"></iframe>
+</div>
 <h4>Meet the Nomies</h4>
 <p>The prototype was developed by the following team.</p>
 <div class="isomer-image-wrapper">
