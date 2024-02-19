@@ -7,7 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_5.png
+      background: /images/Hero_Banner_Option_6.png
+      key_highlights:
+        - title: 7th Annual
+          description: Hack for Public Good
+          url: ""
+        - title: ~70%
+          description: of OGP products come from HFPG
+          url: ""
+        - title: ~55
+          description: government agency partners
+          url: ""
   - infobar:
       title: What is Hack for Public Good?
       id: infobar
@@ -27,8 +37,15 @@ sections:
       description: 36 prototypes were built this year, each addressing critical
         challenges in various sectors, including the economy, health, education,
         transport, and more.
-      button: Find out more
+      button: Check out our projects
       alt: Team Grandfather Road
       url: /hack-for-public-good-2024/aiid/
-      image: /images/Grandfather_road.jpeg
+      image: /images/2024_Projects.gif
+  - infobar:
+      subtitle: WHAT OTHERS HAVE SAID
+      id: infobar
+      description: '"PSD is inspired by your hackathons. We plan to host Ideathons on
+        Public Sector Transformation themes this year, emulating your success."'
+      button: Check out our projects
+      url: /hack-for-public-good-2024/aiid/
 ---
