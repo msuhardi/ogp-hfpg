@@ -47,8 +47,8 @@ sections:
   - infobar:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
-      description: '"Hack 2023 and OGP website was quite influential in my decision to
-        join the team :slightly_smiling_face:"'
+      description: '"PSD is inspired by your hackathons. We plan to host Ideathons on
+        Public Sector Transformation themes this year, emulating your success."'
       button: Read more stories like this
       url: /hack-for-public-good-2024/aiid/
 ---
