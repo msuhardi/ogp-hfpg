@@ -32,6 +32,10 @@ languages and literacy abilities.&nbsp;</p>
 key to unlocking a world of clarity for seniors, one letter at a time.</p>
 <p>Try out our webapp <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank">here</a>. For any queries or collaborations,
 email us at <a href="https://go.gov.sg/readliao" rel="noopener noreferrer nofollow" target="_blank"><u>nicole@open.gov.sg</u></a>&nbsp;</p>
+<h4>Team Members</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/readliao_team.jpeg">
+</div>
 <p><strong>Interested parties and/or agencies thus far:</strong>
 </p>
 <ul data-tight="true" class="tight">
