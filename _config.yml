@@ -3,7 +3,7 @@ url: https://hack.gov.sg
 favicon: /images/favicon.png
 colors:
   primary-color: "#2c70f1"
-  secondary-color: "#443d3d"
+  secondary-color: "#2c70f1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
