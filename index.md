@@ -45,8 +45,8 @@ sections:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
       description: “KampungSpirit has proven to be an invaluable platform to
-        crowdsource for our clients’ needs. The coordination is seamless!” -
-        Social Worker, Ko Wei Lin
+        crowdsource for our clients’ needs. The coordination is seamless!” — Ko
+        Wei Lin, Social worker
       button: See how demo day went
       url: /hack-for-public-good-2024/aiid/
 ---
