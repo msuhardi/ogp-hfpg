@@ -5,17 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
-<h1>Wasteless</h1>
+<p></p>
 <h4>Problem</h4>
 <p>Singapore trashes over 2 million kilograms of food daily <em>(equivalent to two million bags of rice)</em> and
-only recycles 18%. Essential food items like rice, noodles, and bread contribute
-significantly to this waste, further impacting the 10.4% of surveyed households
-experiencing food insecurity.</p>
+only recycles 18%. A significant contributing source is eEssential food
+items like rice, noodles, and bread, contribute significantly to this waste,
+further impacting which could have been re-channeled to the 10.4% of surveyed
+households that experiencing food insecurity in Singapore today instead.</p>
 <h4>Solution</h4>
 <p>Our user-friendly web app aims to be a comprehensive one-stop platform
 with features tackling the food waste problem at each stage of the food
-life cycle.&nbsp;Click <a href="https://docs.google.com/presentation/d/1XJSoueVQlEF7P-2ZOZtrz9VlCYfYUnYWHbKprr9_-zA/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read more.</p>
+life cycle.&nbsp;Click <a href="http://waste-less.info/" rel="noopener noreferrer nofollow" target="_blank">here to</a>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Recipes &amp; Tips" src="/images/ezgif_4_40a48adf6b.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recipes &amp; Tips</div><div class="isomer-card-description">Discover storage hacks &amp; recipes. Cook sustainably for tasty, resourceful meals.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card">
 <div class="isomer-card-image">
