@@ -28,4 +28,11 @@ fields, eg, using addresses for a residents-only Telegram bot.</p>
 users who may want to build their own Telegram bots for Government use.
 We would like to encourage those with potential use cases for Telegov to
 get in touch with us.</p>
+<h4>Team</h4>
+<p>Alwyn Tan</p>
+<p>Cheri Ong</p>
+<p>Alexander Lee</p>
+<p>Kathleen Koh</p>
+<p>Koh Jia Cheng</p>
+<p></p>
 <p></p>
