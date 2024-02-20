@@ -11,16 +11,16 @@ third_nav_title: 2024 Projects
 to 22% in 2021, largely due 3 key factors:</p>
 <ul>
 <li>
-<p><strong>Today’s citizens</strong> have more requirements when to comes
-to volunteering,</p>
+<p><strong>Existing platforms </strong>are not volunteer-centric with zero
+volunteer profiling nor retention</p>
 </li>
 <li>
-<p><strong>Opportunity organisers</strong> don’t have time to improve volunteer
-engagement,</p>
+<p><strong>Today’s citizens</strong> are purpose &amp; goal-oriented, with
+strong “What’s in it for me” mindsets</p>
 </li>
 <li>
-<p>And <strong>existing solutions</strong> neither facilitate matching nor
-save time.</p>
+<p><strong>Opportunity organisers </strong>lack resources and knowledge to
+better engage volunteers</p>
 </li>
 </ul>
 <h4>Solution</h4>
@@ -32,10 +32,11 @@ cause interest, skill set utilised, availability, and location preferences.</p>
 processes, such as attendance taking, by allowing them to assign a representative
 to do so, and volunteer screening, by introducing volunteer suitability
 and behaviour scores during screening.&nbsp;</p>
-<p>To check out our prototype, click <a href="https://servesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. To understand more
-about ServeSG with slides, click <a href="https://docs.google.com/presentation/d/1G120kQzczzb3pUgWp_VRps2mwNT4VzgO8nNSdqgmTJg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
+<p>To read more about ServeSG’s vision, product roadmap, and prototype, click
+<a href="https://docs.google.com/presentation/d/1G120kQzczzb3pUgWp_VRps2mwNT4VzgO8nNSdqgmTJg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+</a>. To check out our prototype, click <a href="https://servesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>If you have any feedback, suggestions or would like to trial the product,
-please reach out to <a href="https://servesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank"><u>amelia@open.gov.sg</u></a>!</p>
+please reach out to <a href="https://docs.google.com/presentation/d/1G120kQzczzb3pUgWp_VRps2mwNT4VzgO8nNSdqgmTJg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>amelia@open.gov.sg</u></a>!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster.png">
 </div>
