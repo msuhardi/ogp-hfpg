@@ -24,3 +24,8 @@ or resources.</p>
 Telegram bot that gatekeeps Telegram groups can be found <a href="https://github.com/opengovsg/telegovsg-bouncer" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The codebase could be modified to control access based on other sgID profile
 fields, eg, using addresses for a residents-only Telegram bot.</p>
+<p>Given that Telegov is a developer kit, we have yet to test this with potential
+users who may want to build their own Telegram bots for Government use.
+We would like to encourage those with potential use cases for Telegov to
+get in touch with us.</p>
+<p></p>
