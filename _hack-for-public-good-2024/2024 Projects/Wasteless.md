@@ -19,9 +19,6 @@ households that experiencing food insecurity in Singapore today instead.</p>
 <p>Our user-friendly web app aims to be a comprehensive one-stop platform
 with features tackling the food waste problem at each stage of the food
 life cycle.</p>
-<p>Try out our webapp <a href="http://waste-less.info/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. For any queries or collaborations,
-email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yunxi@open.gov.sg</u></a>
-</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Portion Calculator</div><div class="isomer-card-description">Get what you need: right food, right amounts. Double the impact when you sSave youron grocery bills and, waste less, double the impact.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card">
 <div class="isomer-card-body">
@@ -33,7 +30,8 @@ experiencing food insecurity.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Recipes &amp; Tips</div><div class="isomer-card-description">Discover storage hacks &amp; recipes to make the most of your food. Cook sustainably for tasty, resourceful meals.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
-<p></p>
+<p>Try out our webapp <a href="http://waste-less.info/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. For any queries or collaborations,
+email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yunxi@open.gov.sg</u></a>.</p>
 <h4>Future of Wasteless</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Future of Wasteless" src="/images/Future_of_Wasteless.jpg">
