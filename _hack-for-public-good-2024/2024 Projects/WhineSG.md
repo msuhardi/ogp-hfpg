@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
-<h3>WhineSG</h3>
+<h3>Whine</h3>
 <h4>Problem</h4>
 <p>The typical public officer fears speaking up, is siloed in an agency,
 and is content with the status quo. As a result, inefficient systems, duplicated
@@ -14,9 +14,10 @@ solutions, and suboptimal practices proliferate.&nbsp;</p>
 public officers to surface problems so we can crowdsource issues and solutions
 (tech and/ or otherwise) while empowering admins to act on authentic concerns.&nbsp;</p>
 <h4>Solution</h4>
-<p><em>Whine</em> operates on the premise of complaining collectively (to
-better identify issues that matter) and crowdsolving (no reason whatsoever
-to reinvent the wheel):</p>
+<p><em>Whine</em> operates on the premise of <strong>problem validation</strong> ('whining'
+to better identify issues that matter) and <strong>crowdsolving</strong> (admins
+typically have no reason whatsoever to reinvent the wheel):</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><em>Data and knowledge sharing</em></strong>: <em>Whine</em> loads
@@ -47,8 +48,14 @@ additional perks such as additional in-app and offline privileges to affirm
 constructive participation.&nbsp;</p>
 </li>
 </ul>
-<p>Check out our prototype <a href="https://whinesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a> and read more <a href="https://go.gov.sg/whineslides" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Check out our prototype <a href="https://whinesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank">here</a> and see slides <a href="https://go.gov.sg/whineslides" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhineSG_Poster__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="What is Whine? A public officer-driven approach to problem validation and solutioning" src="/images/image1_whatiswhine.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Key metric of whine: solutions paired with problems" src="/images/image2_keyMetric.png">
 </div>
 <p></p>
+<p>Created by Kok Seng and Kahhow</p>
