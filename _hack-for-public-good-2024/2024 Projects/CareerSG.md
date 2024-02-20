@@ -106,7 +106,7 @@ processes onto the new platform.
 <br>
 <br>The goal is to A/B pilot trial with these agencies to list their roles
 onto our new platform whilst keeping their current postings on Careers@Gov
-and to compare key metrics
+and to compare key metrics:
 <br>- Application rates
 <br>- Application conversion rates
 <br>- Application drop off rates
