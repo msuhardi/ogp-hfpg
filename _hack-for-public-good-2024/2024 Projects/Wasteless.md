@@ -35,7 +35,13 @@ experiencing food insecurity.</div>
 </div>
 <p></p>
 <h4>Future of Wasteless</h4>
-<p>North star metric</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Future of Wasteless" src="/images/Future_of_Wasteless.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Future_of_Wasteless_2.jpg">
+</div>
 <h4>Meet the Team</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_19_at_5_48_47_PM.png">
