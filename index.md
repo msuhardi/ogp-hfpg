@@ -44,8 +44,9 @@ sections:
   - infobar:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
-      description: '"PSD is inspired by your hackathons. We plan to host Ideathons on
-        Public Sector Transformation themes this year, emulating your success."'
-      button: Check out our projects
+      description: “KampungSpirit has proven to be an invaluable platform to
+        crowdsource for our clients’ needs. The coordination is seamless!” -
+        Social Worker, Ko Wei Lin
+      button: See how demo day went
       url: /hack-for-public-good-2024/aiid/
 ---
