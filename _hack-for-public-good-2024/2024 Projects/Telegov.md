@@ -29,10 +29,10 @@ users who may want to build their own Telegram bots for Government use.
 We would like to encourage those with potential use cases for Telegov to
 get in touch with us.</p>
 <h4>Team</h4>
-<p>Alwyn Tan</p>
-<p>Cheri Ong</p>
-<p>Alexander Lee</p>
-<p>Kathleen Koh</p>
-<p>Koh Jia Cheng</p>
+<p>Alwyn Tan
+<br>Cheri Ong
+<br>Alexander Lee
+<br>Kathleen Koh
+<br>Koh Jia Cheng</p>
 <p></p>
 <p></p>
