@@ -22,6 +22,8 @@ for 1 role.</p>
 to navigate through the 2k+ roles posted. Improvements in search accuracy
 and overall user experience are needed to help increase its functionality
 and reduce job application times.</p>
+<p>In short, the main hiring channel is not able to extract it's maximum
+yield due to barriers to apply.</p>
 <h4>Product Goals</h4>
 <p>We wanted to create an improved job application portal that focuses on
 the 3 key attributes:</p>
