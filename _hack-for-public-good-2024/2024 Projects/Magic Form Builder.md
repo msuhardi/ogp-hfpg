@@ -74,3 +74,19 @@ Magic form builder that day.</p>
 <p>
 <br>Like what you see? Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
+<h4>Team members</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kenneth Chang</p>
+</li>
+<li>
+<p>Stacey Tan</p>
+</li>
+<li>
+<p>Sebastian Wong</p>
+</li>
+<li>
+<p>Shu Li Teo</p>
+</li>
+</ul>
+<p></p>
