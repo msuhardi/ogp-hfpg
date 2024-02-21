@@ -20,7 +20,7 @@ We reward more for activities that we want to promote. The cherry-on-top
 for this extension is the chat room ability where engineers using the extensions
 can see each other's pet and do real-time chatting.</p>
 <div class="iframe-wrapper">
-<iframe height="365" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YA-i5QS88s0?si=xZPgjvtM_CxOrnVn&amp;controls=0"></iframe>
+<iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YA-i5QS88s0?si=xZPgjvtM_CxOrnVn&amp;controls=0"></iframe>
 </div>
 <h4>Team Members</h4>
 <ul data-tight="true" class="tight">

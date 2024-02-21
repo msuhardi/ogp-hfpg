@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h3>ERP X</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LTLgmK-xdDg?si=BSIc3IRW8GRMOKFB"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LTLgmK-xdDg?si=BSIc3IRW8GRMOKFB"></iframe>
 </div>
 <h4>Problem</h4>
 <p>The Electronic Road Pricing (ERP) system plays a critical role in managing

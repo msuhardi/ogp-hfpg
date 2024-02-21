@@ -106,7 +106,7 @@ created is an MVP with barebones features.</p>
 Good 2024!</p>
 <p>Check out the Public Officer Borrowing flow here:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6WHyMpdqL_A?si=dNrxjDnDgAnFfvcc"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6WHyMpdqL_A?si=dNrxjDnDgAnFfvcc"></iframe>
 </div>
 <table>
 <tbody>

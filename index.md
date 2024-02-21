@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Banner_Option_6.png
+      background: /images/Hero_Banner_Option_8.png
       key_highlights:
         - title: 7th Annual
           description: Hack for Public Good
@@ -44,8 +44,9 @@ sections:
   - infobar:
       subtitle: WHAT OTHERS HAVE SAID
       id: infobar
-      description: '"PSD is inspired by your hackathons. We plan to host Ideathons on
-        Public Sector Transformation themes this year, emulating your success."'
-      button: Check out our projects
+      description: “KampungSpirit has proven to be an invaluable platform to
+        crowdsource for our clients’ needs. The coordination is seamless!” — Ko
+        Wei Lin, Social worker
+      button: See how demo day went
       url: /hack-for-public-good-2024/aiid/
 ---
