@@ -15,15 +15,17 @@ that significantly delay project timelines and decision-making. The absence
 of a unified system means&nbsp;</p>
 <ul>
 <li>
-<p>There's no clear guidance on the steps required for procurement</p>
+<p>There's no clear guidance on the steps required for procurement. Buyers
+find it difficult to understand what are the next steps while procurement
+managers spend significant time in education.</p>
 </li>
 <li>
-<p>Audit-ready trails, leading to repetitive efforts and confusion over who's
-done what.&nbsp;</p>
+<p>Lack of audit-ready trails, leading to repetitive efforts and confusion
+over who's done what.&nbsp;</p>
 </li>
 <li>
-<p>Heavy reliance on email and Excel for tracking, creating a breeding ground
-for human errors and compliance rework.&nbsp;</p>
+<p>Heavy reliance on email and spreadsheets for tracking, creating a breeding
+ground for human errors and compliance rework.&nbsp;</p>
 </li>
 <li>
 <p>The emphasis on adhering strictly to process compliance, often exceeds
@@ -38,7 +40,7 @@ each step of the process. Here’s how we’re addressing the core challenges.</
 that's as straightforward as following instructions, ensuring anyone can
 manage procurement tasks without prior knowledge.</p>
 <p><strong>For Procurement Teams</strong>: Procurit is designed to drastically
-reduce the time spent on manual guidance and minimize human errors.&nbsp;</p>
+reduce the time spent on manual guidance and minimise human errors.&nbsp;</p>
 <ul>
 <li>
 <p>We aim to streamline operations and ensure compliance while reducing the
@@ -64,8 +66,8 @@ requirements at each step, including necessary approvals and document submission
 <p><strong>Timely Reminders</strong>: Our bork proactively sends reminders
 for requests that have been pending for too long, ensuring no task falls
 through the cracks.</p>
-<p><strong>Customizable Agency Workflows</strong>: While maintaining a foundation
-based on MOF guidelines, we offer agencies the ability to customize workflows
+<p><strong>Customisable Agency Workflows</strong>: While maintaining a foundation
+based on MOF guidelines, we offer agencies the ability to customise workflows
 to better fit their needs.</p>
 <p><strong>Activity and Audit Records</strong>: We provide a clear overview
 of financial expenditure, procurement activities, and the status of requests,
