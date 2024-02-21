@@ -19,7 +19,7 @@ The prototype is a back-end admin interface and dashboard for officers
 to confirm licence plate details from traffic camera images.</p>
 <p>See our slides here:</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFjDb-beWq-QoSzIO3eKmCJ5obusLwkT0ShwWRpvd4S_cTyXkiu_2uI3vg0mMZ_kGOLtshUv9qxDGj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFjDb-beWq-QoSzIO3eKmCJ5obusLwkT0ShwWRpvd4S_cTyXkiu_2uI3vg0mMZ_kGOLtshUv9qxDGj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>User Research</h4>
 <p>We have done a preliminary check with Traffic Police, and have gotten
