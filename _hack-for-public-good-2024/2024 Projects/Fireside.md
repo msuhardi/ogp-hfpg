@@ -29,7 +29,7 @@ among young working adults.</p>
 </p>
 <p>3. Let Flamey convert work rants into <strong>constructive feedback</strong> for
 managers, teammates or HR</p>
-<p>4. Explore self-help resources to <strong>manage work burnout symptoms</strong>
+<p>4. Explore self-help resources to <strong>manage work burnout symptoms</strong> 
 <br>
 </p>
 <p>Flamey the chat bot is powered by <strong>ChatGPT 3.5</strong>, and has
