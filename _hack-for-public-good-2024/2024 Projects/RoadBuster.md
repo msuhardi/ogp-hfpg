@@ -51,10 +51,8 @@ takes weeks</p>
 <li>
 <p>Streamlining the appeals process&nbsp;</p>
 </li>
-<li>
-<p>We’re in talks with Traffic Police to develop these ideas further.&nbsp;</p>
-</li>
 </ol>
+<p>We’re in talks with Traffic Police to develop these ideas further.&nbsp;</p>
 <h4>Team</h4>
 <p>Roadbuster was brought to you by the ERP X team, a multi-disciplinary
 team of engineers, designers, product ops and policy officers.</p>
