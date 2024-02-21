@@ -83,7 +83,7 @@ over 30,000 reports. Already we are seeing dramatic improvements in search
 results using Pair Search.</p>
 <h4>Search that actually works</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Eal6EvYeXUk?si=rMXQDT37wqVAtnOc"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Eal6EvYeXUk?si=rMXQDT37wqVAtnOc"></iframe>
 </div>
 <p>Pair Search leverages <a href="http://Vespa.ai" rel="noopener noreferrer nofollow" target="_blank">Vespa.ai</a>, a highly versatile and scalable open-source
 big data serving engine, to offer state-of-the-art search capabilities.
