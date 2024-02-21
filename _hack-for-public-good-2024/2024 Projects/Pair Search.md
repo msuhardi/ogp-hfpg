@@ -161,13 +161,13 @@ which tend to be overly biased towards one dimension of result quality</p>
 selection of users who frequently utilize Hansard Search, including Ministry
 of Law legal policy officers, Comm Ops officers at MCI and PMO, COS coordinators
 among others. Initial user feedback has been positive:</p>
-<blockquote>
-<p>This will improve productivity by a few folds. Hansard search was the
-most painful thing previously</p>
-</blockquote>
-<blockquote>
-<p>Wah useful. Returns results much faster than the current one</p>
-</blockquote>
+<p><strong><em>"This will improve productivity by a few folds. Hansard search was the most painful thing previously"</em></strong><em> - MCI Policy Officer</em>
+</p>
+<p><strong><em>"Wah useful. Returns results much faster than the current one"</em></strong><em> - MHA Policy Officer #1</em>
+<br>
+<br><strong><em>"Wow this is really impressive!"</em></strong><em> - MHA Policer Officer #2</em>
+</p>
+<p></p>
 <h4>What's next</h4>
 <p><strong>Expanding our Data Sources</strong>
 </p>
