@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
-<h3>Magic Form Builder  </h3>
+<h3>Magic Form Builder</h3>
 <div class="iframe-wrapper">
 <iframe style="width: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0BZCaN0-7m9Qb4Dy4SUNP2mWM3MzxaH3uYdO7OjXufh9Rs9ddD-mXkSUYfEJGwFyawzuMSJCQHLoN/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
 </div>
@@ -73,20 +73,8 @@ it?” A total of 30+ public officers have expressed interest to use the
 Magic form builder that day.</p>
 <p>
 <br>Like what you see? Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
-<p></p>
 <h4>Team members</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kenneth Chang</p>
-</li>
-<li>
-<p>Stacey Tan</p>
-</li>
-<li>
-<p>Sebastian Wong</p>
-</li>
-<li>
-<p>Shu Li Teo</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_21_at_9_36_14_PM.png">
+</div>
 <p></p>
