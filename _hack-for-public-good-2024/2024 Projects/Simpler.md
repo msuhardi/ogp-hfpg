@@ -26,6 +26,6 @@ A student browsing information online can select content from the site,
 and the simpler content, according to a selected Lexile level, will be
 displayed on the side panel.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ov3Rljcrujs?si=q4X31GWt9iiSIMg6"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ov3Rljcrujs?si=q4X31GWt9iiSIMg6"></iframe>
 </div>
 <p></p>
