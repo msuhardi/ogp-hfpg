@@ -163,11 +163,15 @@ of Law legal policy officers, Comm Ops officers at MCI and PMO, COS coordinators
 among others. Initial user feedback has been positive:</p>
 <p><strong><em>"This will improve productivity by a few folds. Hansard search was the most painful thing previously"</em></strong><em> - MCI Policy Officer</em>
 </p>
-<p><strong><em>"Wah useful. Returns results much faster than the current one"</em></strong><em> - MHA Policy Officer #1</em>
+<p><strong><em>"Wah useful. Returns results much faster than the current one"</em></strong><em> - MHA Policy Officer #1</em> 
 <br>
 <br><strong><em>"Wow this is really impressive!"</em></strong><em> - MHA Policer Officer #2</em>
 </p>
-<p></p>
+<p>The product was also mentioned in <a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=motion-2318#" rel="noopener noreferrer nofollow" target="_blank">Parliament</a>:</p>
+<p><strong><em>"The Hansard is an open book. We can all refer to it readily, and soon, we will be able to do a generative AI search on it."</em></strong><em> - Prime Minister Lee Hsien Loong</em>
+</p>
+<p>We have seen interest from multiple agencies as well looking to leverage
+our core Search Engine on their own data.</p>
 <h4>What's next</h4>
 <p><strong>Expanding our Data Sources</strong>
 </p>
