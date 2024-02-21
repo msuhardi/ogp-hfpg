@@ -16,12 +16,12 @@ minutes, in <s>days/hours</s> minutes.</p>
 <p>With the launching of products such as Pair Chat and Pair Intern, we see
 a big uptake in LLM-centric products amongst civil servants.</p>
 <p>While these products are good for creative and rudimentary tasks such
-as drafting an initial policy paper or summarizing information, there are <strong>limitations with addressing tasks with a defined expected output</strong>.
+as drafting an initial policy paper or summarising information, there are <strong>limitations with addressing tasks with a defined expected output</strong>.
 Part of the problem is that we could not fine-tune the model according
 to a given task, as there is a lack of input-labeled output pairs or a
-concrete set of metrics for a given specific domain.That being said, there
-is one specific use-case we found in the government that fulfills this
-use case - Government Meeting Minutes.</p>
+concrete set of metrics for a given specific domain. That being said, there
+is one specific use-case we found in the government that fulfils this use
+case - Government Meeting Minutes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.jpeg">
 </div>
@@ -62,6 +62,12 @@ The team has piloted it in meetings within government agencies, and has
 drastically reduced the time taken to generate minutes by up to 80%. The
 team has since been asked to provide further use of Noms to support upcoming
 meetings.</p>
+<p>"<strong><em>We would really like to continue using it for our subsequent meetings!</em></strong>" <em>- Public Officer from Ministry</em>
+</p>
+<p>"<strong><em>The generated draft is good and managed to capture specific terminologies used.</em></strong>"<em> - Officer from Government Statutory Board</em>
+</p>
+<p>"<strong><em>My sense is that the draft is almost there and that the minutes generated has a good accuracy of what was captured during the meeting!</em></strong>" <em>- Officer from Government Statutory Board</em>
+</p>
 <p>With a high demand from multiple agencies across the government, Noms
 is expanding its pilot to various other ministries and statutory agencies
 (e.g. MCI, TTSH, PSD).</p>
@@ -134,5 +140,6 @@ with previous tech. Work could get simpler, and higher quality. We are
 doing Pair Noms to build capability to do that – taking in finished work
 product and input materials, and learning how to tune underlying models
 to produce the high-quality work we expect to depend on.</p>
-<p>Interested? Check out Noms <a href="https://go.gov.sg/nomnoms" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
+<p>If you're currently a secretariat, or have a meeting in mind to try out
+Noms, sign up for our pilot <a href="https://go.gov.sg/nomnoms" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
