@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h3>Magic Form Builder</h3>
 <div class="iframe-wrapper">
-<iframe style="width: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0BZCaN0-7m9Qb4Dy4SUNP2mWM3MzxaH3uYdO7OjXufh9Rs9ddD-mXkSUYfEJGwFyawzuMSJCQHLoN/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe style="width: 100%;" height="315" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0BZCaN0-7m9Qb4Dy4SUNP2mWM3MzxaH3uYdO7OjXufh9Rs9ddD-mXkSUYfEJGwFyawzuMSJCQHLoN/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
 </div>
 <h4>Problem</h4>
 <p>How do we convince officers to reduce paper forms in government? The inspiration
