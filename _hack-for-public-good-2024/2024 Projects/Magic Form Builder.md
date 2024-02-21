@@ -68,7 +68,7 @@ of digitalising paper forms.</p>
 in production?" Over 30 public officers across different agencies have
 also registered their interest in using the new feature.
 <br>
-<br>Like what you see? Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<br>Like what you see? Have a <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank">chat</a> with us!</p>
 <h4>Team members</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_21_at_9_36_14_PM.png">
