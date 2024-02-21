@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h2>Fireside</h2>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvRdjnri6QUMGvfIYP7NGg0BJUuOD3OUgkOGz7mATwm4rB0cqdNxt3qkX3z5cqRUYHuq3lJq9cs7pH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvRdjnri6QUMGvfIYP7NGg0BJUuOD3OUgkOGz7mATwm4rB0cqdNxt3qkX3z5cqRUYHuq3lJq9cs7pH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Problem</h3>
 <p>Work burnout is associated with a higher likelihood of physical and psychological
