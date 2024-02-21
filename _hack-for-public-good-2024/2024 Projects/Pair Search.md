@@ -150,12 +150,6 @@ top results from all content nodes, creating a hybrid score that integrates
 semantic, keyword-based, and ColbertV2 scores. Utilizing a hybrid score
 gives us significantly better performance than relying on just one metric,
 which tend to be overly biased towards one dimension of result quality</p>
-<h4>Meet the team</h4>
-<p>The prototype was developed by the following team.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pairSearchTeamPhoto.jpg">
-</div>
 <h4>What's happening</h4>
 <p>We have currently soft-launched Pair Search (Hansard) with AGC, and a
 selection of users who frequently utilize Hansard Search, including Ministry
@@ -221,5 +215,11 @@ functionality, we hope to have our base engine serving multiple applications
 and use-cases.</p>
 <p></p>
 <p>Interested in collaborating? Reach out to us <a href="https://go.gov.sg/pair-search-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Meet the team</h4>
+<p>The prototype was developed by the following team.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pairSearchTeamPhoto.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
