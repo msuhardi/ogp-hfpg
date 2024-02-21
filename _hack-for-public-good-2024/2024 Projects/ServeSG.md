@@ -27,14 +27,86 @@ better engage volunteers</p>
 </li>
 </ul>
 <h4>Solution</h4>
-<p>For citizens, ServeSG is a user-friendly, skill-focused, and interest-based
-platform that facilitates a seamless volunteering journey by introducing
-opportunity recommendations based on what is important to them - Social
-cause interest, skill set utilised, availability, and location preferences.</p>
+<p>For citizens, ServeSG eliminates the usual barriers to volunteering, such
+as unreliable account creation, lengthy registration forms, and most importantly,
+the difficulty in finding opportunities that align with your numerous requirements.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1 - Browse" src="/images/Screenshot_2024_02_21_at_2_24_52_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 1 - Browse</div>
+<div class="isomer-card-description">Search for opportunities with recommendation scores, social cause filters,
+and interactive maps</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2 - Register" src="/images/Screenshot_2024_02_21_at_2_25_09_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 2 - Register</div>
+<div class="isomer-card-description">Sign up within one-click, fuss-free, with Singpass login</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3 - Attend" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 3 - Attend</div>
+<div class="isomer-card-description">Get reliable updates on the opportunity via email or through your dashboard</div>
+</div>
+</div>
+</div>
 <p>For organisers, ServeSG saves officers time by digitising the most time-consuming
-processes, such as attendance taking, by allowing them to assign a representative
-to do so, and volunteer screening, by introducing volunteer suitability
-and behaviour scores during screening.&nbsp;</p>
+processes and improving volunteer fit to ultimately free them up for more
+value-adding tasks that raise volunteerism rates.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1 - Create" src="/images/Screenshot_2024_02_21_at_2_35_22_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 1 - Create</div>
+<div class="isomer-card-description">Create opportunities with multiple locations, time slots, and roles within
+5 minutes</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2 - Recruit" src="/images/Screenshot_2024_02_21_at_2_38_58_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 2 - Recruit</div>
+<div class="isomer-card-description">Screen applicants with the aid of data-driven suitability and behavioural
+scores</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3 - Track" src="/images/Screenshot_2024_02_21_at_3_19_27_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 3 - Track</div>
+<div class="isomer-card-description">Offload attendance taking to a trusted representative and monitor from
+your dashbaord</div>
+</div>
+</div>
+</div>
 <p>To read more about ServeSG’s vision, product roadmap, and user feedback,
 click <a href="https://docs.google.com/presentation/d/1G120kQzczzb3pUgWp_VRps2mwNT4VzgO8nNSdqgmTJg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 To check out our prototype, click <a href="https://servesg.vercel.app/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
@@ -42,29 +114,36 @@ To check out our prototype, click <a href="https://servesg.vercel.app/" rel="noo
 <p>The end goal for ServeSG is to nurture a Singapore where every citizen
 is a volunteer. We believe ServeSG, in doing so, will elevate the lives
 of those living in Singapore, beneficiary and benefactor alike.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>For Singapore,</strong> we build stronger communities that connect
+to care</p>
+</li>
+<li>
+<p><strong>For beneficiaries,</strong> get the help you need to live better</p>
+</li>
+<li>
+<p><strong>For individuals,</strong> achieve your personal goals, be it skill
+development, improved well-being, sharpened social skills, etc</p>
+</li>
+</ul>
+<p>In doing so, ServeSG simultaneously supports opportunity organisers by
+streamlining end-to-end volunteer management processes, allowing you to
+save time, money, and manpower.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">For Singapore</div>
-<div class="isomer-card-description">Stronger communities that connect to care</div>
+<div class="isomer-card-title">1.6 million man-hours</div>
+<div class="isomer-card-description">in potential labour savings for opportunity organisers</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">For beneficiaries</div>
-<div class="isomer-card-description">Get the help they need to live better</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">For individuals</div>
-<div class="isomer-card-description">Personal development, improved well-being, sharpened social skills, and
-more</div>
+<div class="isomer-card-title">1 central source</div>
+<div class="isomer-card-description">of verified volunteer data for improved outreach and analysis</div>
 </div>
 </div>
 </div>
-<p>For opportunity organisers, ServeSG simultaneously streamlines end-to-end
-volunteer management processes, allowing you to save time, money, and manpower.</p>
 <h4>Connect with us!</h4>
 <p>ServeSG was developed by a holistic team of engineers and designers:</p>
 <ul data-tight="true" class="tight">
