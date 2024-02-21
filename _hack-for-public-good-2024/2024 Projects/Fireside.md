@@ -30,21 +30,17 @@ among young working adults.</p>
 <p>3. Let Flamey convert work rants into <strong>constructive feedback</strong> for
 managers, teammates or HR</p>
 <p>4. Explore self-help resources to <strong>manage work burnout symptoms</strong> 
-<br>
 </p>
 <p>Flamey the chat bot is powered by <strong>ChatGPT 3.5</strong>, and has
 been engineered to follow a conversation flow that models after the <strong>Cognitive Behavioural Therapy</strong> framework.
 This framework aims to identify and challenge negative thought patterns
-and behaviours to promote healthier cognitive and emotional responses.
-<br>
-</p>
+and behaviours to promote healthier cognitive and emotional responses.</p>
 <p>Work stressors are assessed using the UK HSE Management Standards quiz,
-a <strong>psychometrically verified measure of work-related stress³</strong>,
+a <strong>psychometrically verified measure of work-related stress</strong>³,
 to inform the user of their main risk factors for burnout. The user can
 then bring these results to Flamey to address them, or find out more.</p>
 <p>
 <br>Try out the prototype <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
-<p></p>
 <h2>Webapp Features</h2>
 <h3>Chat Bot</h3>
 <p>The key feature of Fireside is a chatbot. The chatbot is built on ChatGPT
@@ -64,34 +60,29 @@ as to provide some practical aid to the user.
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fireside_Chat.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fireside_Chat.jpeg">
 </div>
 <p>At the beginning of the chat, the chatbot will ask the user which of the
 following flows they would like to enter, after which it will use the respective
-flow. Both flows will use distinct ChatGPT prompts.&nbsp;
-<br>
-</p>
+flow. Both flows will use distinct ChatGPT prompts.&nbsp;</p>
 <p>The listening ear flow is guided with a prompt that attempts to follow
 cognitive behavioural therapy, empathizing but questioning the user’s negative
-views.
-<br>
-</p>
+views.</p>
 <p>The rant to constructive feedback flow is guided by a prompt that gets
 details from the user about their work difficulties, and then turns them
 into e.g. a message or email, which you can iterate on and eventually send
 to your colleagues.</p>
-<p></p>
 <p>For more details, please refer to the slides above.</p>
 <h3>Anonymous Login</h3>
 <p>We found that one of the major asks from users was anonymity. Mental health
-is a sensitive topic, and users want to know that their privacy is protected.</p>
-<p></p>
+is a sensitive topic, and users want to know that their privacy is protected.
+<br>
+</p>
 <p>For Fireside, we opted for the approach that we never ask for any of the
 user’s personal information that could identify them. When the user first
 enters the site, we generate a secret key for them, which they can use
 to come back to their chats in the future. This way, the user can keep
 their chat and quiz history, while their identity is never revealed.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fireside___anonymous_login.png">
 </div>
@@ -102,14 +93,14 @@ Standards Indicator tool. It is a psychometrically verified measure of
 work-related stress² that users can use to assess their main stressors.
 After they are done, they can bring their results to the chat bot, and
 the chat bot will have the user’s result as a context for their conversation.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fireside___quiz.png">
 </div>
 <h3>User feedback</h3>
 <p>Through user testing with young working adults, we found the following
-aspects of Fireside that worked well for users:</p>
-<p></p>
+aspects of Fireside that worked well for users:
+<br>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>It makes users feel heard</strong>: "I think Flamey’s responses
@@ -188,13 +179,16 @@ Ang (Engineering), Lynette Lee (Design), Shannen Ho (Marketing)</p>
 <h3>Contact Us</h3>
 <p>For any queries or collaborations, email us at <a href="https://go.gov.sg/hfpg-fireside" rel="noopener noreferrer nofollow" target="_blank"><u>fireside@open.gov.sg</u></a>.</p>
 <h3>References</h3>
-<p></p>
 <p>¹ Nadon L, De Beer LT, Morin AJS. Should Burnout Be Conceptualized as
 a Mental Disorder? Behav Sci (Basel). 2022 Mar 17;12(3):82. doi: 10.3390/bs12030082.
-PMID: 35323401; PMCID: PMC8945132. (Link)</p>
-<p>² K. Brookes, C. Limbert, C. Deacy, A. O’Reilly, S. Scott, K. Thirlaway,
+PMID: 35323401; PMCID: PMC8945132. (Link)
+<br>
+<br>² Tham, D. (2022, October 8). Burnout, not COVID-19 restrictions, most
+affected mental health in Singapore during the pandemic. Channel News Asia.
+Retrieved from <a href="https://www.channelnewsasia.com/singapore/burnout-mental-health-workers-employees-pandemic-2972961" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/singapore/burnout-mental-health-workers-employees-pandemic-2972961</a>
+</p>
+<p>³ K. Brookes, C. Limbert, C. Deacy, A. O’Reilly, S. Scott, K. Thirlaway,
 Systematic review: Work-related stress and the HSE Management Standards,
 Occupational Medicine, Volume 63, Issue 7, October 2013, Pages 463–472,
-https://doi.org/10.1093/occmed/kqt078(Link)</p>
-<p><u>.</u>
+<a href="https://doi.org/10.1093/occmed/kqt078(Link)" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1093/occmed/kqt078(Link)</a>
 </p>
