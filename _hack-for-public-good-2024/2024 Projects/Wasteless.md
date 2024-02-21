@@ -76,7 +76,6 @@ helping the community achieve more a sustainable lifestyle and support
 each other through Waste<strong>less</strong>, all of these are prime examples
 of how our officers [you] are making a difference to the community through
 your efforts in Hack for Public Good...'</p>
-<p>– Minister Josephine Teo</p>
 </blockquote>
 <p></p>
 <p><strong>Poster</strong>
