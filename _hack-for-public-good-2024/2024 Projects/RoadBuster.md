@@ -21,7 +21,13 @@ to confirm licence plate details from traffic camera images.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFjDb-beWq-QoSzIO3eKmCJ5obusLwkT0ShwWRpvd4S_cTyXkiu_2uI3vg0mMZ_kGOLtshUv9qxDGj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+<h4>User Research</h4>
+<p>We have done a preliminary check with Traffic Police, and have gotten
+their feedback that the prototype, if it works as intended, will allow
+them to save time and manpower. We are pending a wider trial with Traffic
+Police.&nbsp;</p>
+<p>Roadbuster was also shared at Demo Day during Hackathon 2024, and another
+agency has expressed interest in collaborating with us.</p>
 <h4>Further Collaborations</h4>
 <p>Further potential developments on Roadbuster include:</p>
 <ol data-tight="true" class="tight">
