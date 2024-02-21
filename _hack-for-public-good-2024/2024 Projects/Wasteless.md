@@ -5,22 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
+<h3>Wasteless</h3>
+<p></p>
 <blockquote>
 <p>Is there a way to help other people in the community who may benefit from
 our extra groceries and allow them to be able to donate it in a very convenient
 manner?</p>
-<p></p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.jpg">
-</div>
 <h4>Problem</h4>
 <p>Singapore trashes over 2 million kilograms of food daily (<em>roughly equivalent to two million bags of rice</em>)
 and only recycles 18% of this food waste. A significant contributing source
 is essential food items like rice, noodles and bread, which could have
 been re-channelled to the 10.4% of surveyed households that experience
 food insecurity in Singapore today instead.</p>
-<p>If you'd like to download a copy of our deck, you may do so <a href="https://docs.google.com/presentation/d/1XJSoueVQlEF7P-2ZOZtrz9VlCYfYUnYWHbKprr9_-zA/edit#slide=id.g264a7a38d6d_0_4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>(See more details <a href="https://docs.google.com/presentation/d/1XJSoueVQlEF7P-2ZOZtrz9VlCYfYUnYWHbKprr9_-zA/edit#slide=id.g264a7a38d6d_0_4" class="c-link c-link--focus-visible" rel="noopener noreferrer" target="_blank">here</a>.)</p>
 <h4>Solution</h4>
 <p>We have built a no-code web app in lieu of having no engineers on our
 team that targets the food waste problem at various stage of the food life
@@ -49,7 +47,7 @@ before it turns bad</p>
 <p></p>
 </li>
 <li>
-<p><strong>AI-powered recipe generator</strong>
+<p><strong>AI-powered recipe generator</strong> 
 <br>To help people find creative ways to use their leftover ingredients instead
 of trashing it.
 <br><em>Note: This was sourced from an existing open-source product but would be the closest to what we have in mind, but adapted to the local food context</em>
@@ -72,14 +70,13 @@ email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" targe
 </div>
 <p></p>
 <blockquote>
-<p>"...it sounds like a simple idea, but being able to execute it well, think
+<p>'...it sounds like a simple idea, but being able to execute it well, think
 through the whole process, that's what tech for public good is about [...]
 helping the community achieve more a sustainable lifestyle and support
-each other through Waste<em>less</em>, all of these are prime examples
-of how our officers are making a difference to the community through your
-efforts in Hack for Public Good..."
-<br>
-<br>– Minister Josephine Teo</p>
+each other through Waste<strong>less</strong>, all of these are prime examples
+of how our officers [you] are making a difference to the community through
+your efforts in Hack for Public Good...'</p>
+<p>– Minister Josephine Teo</p>
 </blockquote>
 <p></p>
 <p><strong>Poster</strong>
