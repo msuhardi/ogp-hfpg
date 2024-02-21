@@ -6,10 +6,14 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h2>Fireside</h2>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvRdjnri6QUMGvfIYP7NGg0BJUuOD3OUgkOGz7mATwm4rB0cqdNxt3qkX3z5cqRUYHuq3lJq9cs7pH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Problem</h4>
 <p>Work burnout is associated with a higher likelihood of physical and psychological
-health problems.1 More young adults are facing work burnout, with 57% of
-young adults reporting that burnout affected their mental health.</p>
+health problems^1^. More young adults are facing work burnout, with 57%
+of Singaporeans reporting that burnout was the leading factor affecting
+their mental health2.</p>
 <h4>Solution</h4>
 <p>Fireside is a web app that tackles the growing problem of work burnout
 among young working adults.
