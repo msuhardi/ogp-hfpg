@@ -23,7 +23,7 @@ Through AskHer, we want to make information on women’s health and women’s
 healthcare providers more accessible, transparent, and useful for women
 in Singapore.&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VLWCFKXHdQg?si=xnlfwIv77_yaTBqg&amp;controls=0"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VLWCFKXHdQg?si=xnlfwIv77_yaTBqg&amp;controls=0"></iframe>
 </div>
 <p>What makes AskHer different from existing solutions?</p>
 <ul>
