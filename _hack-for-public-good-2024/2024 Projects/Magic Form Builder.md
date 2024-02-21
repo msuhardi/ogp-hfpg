@@ -59,8 +59,8 @@ GIF to show that “your form is building”. <em>It is also a play on the words
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_1215.png">
 </div>
-<p>Public officers tried out prototype on demo day. The initial feedback
-was extremely positive. Users agreed that the prompt-based approach of
+<p>Public officers tried out the prototype on demo day. The initial feedback
+was extremely positive! Users agreed that the prompt-based approach of
 creating forms would save them time by providing a "template" to edit.
 At the same time, the PDF conversion mode drastically simplifies the process
 of digitalising paper forms.</p>
