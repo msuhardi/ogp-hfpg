@@ -36,6 +36,13 @@ intention.</p>
 </li>
 </ul>
 <p>Check out our prototype <a href="https://www.recycle.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Built by</h4>
+<p>Si Han - Engineering
+<br>Jessendra - PM, Research, Engineering
+<br>Jia Ling - PM, Research, Engineering
+<br>Evangelyn - Design
+<br>Se Hyun - Design</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT_poster_1.png">
 </div>
@@ -43,6 +50,6 @@ intention.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT_poster_2.png">
 </div>
-<p>Built by Si Han, Se Hyun, Jia Ling, Evangelyn, and Jessendra</p>
+<p></p>
 <p></p>
 <p></p>
