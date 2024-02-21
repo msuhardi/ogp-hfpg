@@ -22,6 +22,14 @@ to confirm licence plate details from traffic camera images.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFjDb-beWq-QoSzIO3eKmCJ5obusLwkT0ShwWRpvd4S_cTyXkiu_2uI3vg0mMZ_kGOLtshUv9qxDGj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<h4>Team</h4>
+<p>Roadbuster was brought to you by the ERP X team, a multi-disciplinary
+team of engineers, designers, product ops and policy officers.</p>
+<p></p>
+<p>Left to right: Daryl Chan, Justyn Oh, Stephanie Siow, Blake Gong, Christabel
+Png, Mike Chen, Samuel Koh (not in picture)</p>
+<p></p>
+<h4>Posters</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roadbuster___A3___Front.png">
 </div>
