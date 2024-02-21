@@ -37,22 +37,18 @@ to confirm licence plate details from traffic camera images.</p>
 </ol>
 <p>Other than Roadbuster, Traffic Police is keen to work with us on two further
 areas:</p>
-<p>
-<br>
-</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Shortening the current waiting time to send out notices, which currently
 takes weeks</p>
 </li>
 <li>
-<p>Streamlining the appeals process, which&nbsp;</p>
+<p>Streamlining the appeals process&nbsp;</p>
+</li>
+<li>
+<p>We’re in talks with Traffic Police to develop these ideas further.&nbsp;</p>
 </li>
 </ol>
-<p>
-<br>
-</p>
-<p>We’re in talks with Traffic Police to develop these ideas further.&nbsp;</p>
 <h4>Team</h4>
 <p>Roadbuster was brought to you by the ERP X team, a multi-disciplinary
 team of engineers, designers, product ops and policy officers.</p>
