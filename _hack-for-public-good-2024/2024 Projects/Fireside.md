@@ -107,7 +107,48 @@ the chat bot will have the user’s result as a context for their conversation.<
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fireside___quiz.png">
 </div>
 <h3>User feedback</h3>
+<p>Through user testing with young working adults, we found the following
+aspects of Fireside that worked well for users:</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>It makes users feel heard</strong>: "I think Flamey’s responses
+are pretty validating and they make me feel heard.”</p>
+</li>
+<li>
+<p><strong>It is like chatting with real person: </strong>"It's pretty smart
+and compares well with chatting with a real person."</p>
+</li>
+<li>
+<p><strong>Reflective prompts were good:</strong> “When chatting with the
+bot I like that it prompts me to elaborate. Interesting. Also tries to
+CBT me as well. I have no issues with the bot responses.”</p>
+</li>
+<li>
+<p><strong>Diversity of Resources: </strong>“I appreciate how the resources
+<br>are very diverse.”</p>
+<p></p>
+</li>
+</ul>
+<p>We also learned about the following areas that we should improve on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Improve conversation dynamics and moderation</strong>
+</p>
+</li>
+<li>
+<p><strong>Improve user assurance</strong>
+</p>
+</li>
+<li>
+<p><strong>Expand therapeutic repertoire</strong>
+</p>
+</li>
+<li>
+<p><strong>Provide personalised responses and user journey</strong>
+</p>
+</li>
+</ul>
 <h3>Potential Impact</h3>
 <p>The potential impact of a mental health intervention which will be freely
 accessible to the community include:
