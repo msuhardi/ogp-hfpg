@@ -61,7 +61,6 @@ team of engineers, designers, product ops and policy officers.</p>
 </div>
 <p>Left to right: Daryl Chan, Justyn Oh, Stephanie Siow, Blake Gong, Christabel
 Png, Mike Chen, Samuel Koh (not in picture)</p>
-<p></p>
 <h4>Posters</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roadbuster___A3___Front.png">
