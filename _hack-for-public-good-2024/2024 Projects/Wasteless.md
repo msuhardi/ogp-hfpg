@@ -73,7 +73,7 @@ email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" targe
 <p>'...it sounds like a simple idea, but being able to execute it well, think
 through the whole process, that's what tech for public good is about [...]
 helping the community achieve more a sustainable lifestyle and support
-each other through Waste<strong>less</strong>, all of these are prime examples
+each other through Waste<em>less</em>, all of these are prime examples
 of how our officers [you] are making a difference to the community through
 your efforts in Hack for Public Good...'</p>
 </blockquote>
