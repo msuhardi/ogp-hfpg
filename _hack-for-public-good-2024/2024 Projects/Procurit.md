@@ -70,7 +70,7 @@ to better fit their needs.</p>
 <p><strong>Activity and Audit Records</strong>: We provide a clear overview
 of financial expenditure, procurement activities, and the status of requests,
 making it easier to track and manage contracts and renewals.</p>
-<p><strong>Timelines</strong>
+<p><strong>Rollout plan</strong>
 </p>
 <ul>
 <li>
@@ -83,7 +83,23 @@ making it easier to track and manage contracts and renewals.</p>
 <p>Q3 - ITQ full launch. ITT prototype</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Select_Procurement_Type.png">
+<p><strong>User Feedback</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Presented procurit to buyers/requestors and procurement managers.</p>
+</li>
+<li>
+<p>Feedback from buyers have been positive as it now gives them clarity on
+what stage the request is in and what are the next steps.</p>
+</li>
+<li>
+<p>Procurement managers find the single source of truth to be useful instead
+of relying on emails and spreadsheets.</p>
+</li>
+</ul>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9gH4Isu5mmjEIhqfptkUHwQ5zsTnsojuN9LcXl7godHkp8odDtVAVghsKXYIAcZ-7yEl7LYvVhQon/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
