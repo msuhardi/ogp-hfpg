@@ -32,7 +32,7 @@ much quicker than creating every question from scratch, allowing public
 officers to focus their efforts on more important parts of form building
 (such as data collection and processing)!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSiMdKjm-tk?si=HSNy6-1_6CkaJrod"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSiMdKjm-tk?si=HSNy6-1_6CkaJrod"></iframe>
 </div>
 <p>Read our <a href="https://docs.google.com/presentation/d/1H3bCCBLm4aKME3xz4zmvFnuimJC7A3YBhS5vXPfdhzQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>deck</u></a> within
 a minute and chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
