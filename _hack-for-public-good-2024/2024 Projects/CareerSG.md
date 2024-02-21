@@ -86,18 +86,31 @@ i.e changing colour themes, search bar behaviour, information displayed,
 ‘apply button design’, placement of ‘agency &amp; department’ categories
 before our final solution (below)</p>
 <h4>Our Final Solution</h4>
-<p>We’ve built a job portal for citizens to quickly and accurately search
-for roles and view all job information transparently, significantly enhancing
-the applicant experience. It will take you just two minutes and a single
-click on 'Apply with LinkedIn' to successfully apply for a role with a
-maximum of 5 application fields needed. Role information is transparent
-&amp; you can easily filter by department &amp; agency types to find your
-desired role. All this is linked to a Recruitment applicant tracking system
-(Greenhouse) on the backend which Recruiters will then use to process the
-candidates &amp; take them through the hiring journey.
+<p>We’ve built a job portal <a href="https://careers.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for citizens to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quickly and accurately search for roles and view all job information transparently,
+significantly enhancing the applicant experience.</p>
+</li>
+<li>
+<p>It takes you just two minutes and a single click on 'Apply with LinkedIn'
+to successfully apply for a role with a maximum of 5 application fields
+needed.</p>
+</li>
+<li>
+<p>Role information is transparent &amp; you can easily filter by department
+&amp; agency types to find your desired role.</p>
+</li>
+<li>
+<p>All this is linked to a Recruitment applicant tracking system (Greenhouse)
+on the backend which Recruiters will then use to process the candidates
+&amp; take them through the hiring journey.
 <br>
-<br>Through removing barriers to application, we hope to hire more talents
+</p>
+<p>Through removing barriers to application, we hope to hire more talents
 into Government &amp; through these talents, make Singapore better.</p>
+</li>
+</ul>
 <p>Check out the prototype <a href="https://careers.hack.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4>3 Key Features of our Job Portal</h4>
 <ul data-tight="true" class="tight">
@@ -139,7 +152,7 @@ into Government &amp; through these talents, make Singapore better.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=4YbvHec8Yiwc8jl8&amp;start=132"></iframe>
 </div>
 <h4>User Feedback</h4>
-<p>Categorized feedback from users are that:</p>
+<p>Categorized feedback from users:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The new visual design &amp; layout is clean and easy to read</p>
@@ -180,7 +193,7 @@ NCSS &amp; GovTech) to join the pilot program.</p>
 <p>For the next phase, we will be expanding the pilot to these 5 agencies
 + exploring onboarding MOE &amp; MHA, who have legacy based Recruiting
 processes onto the new platform.</p>
-<p><strong>Future planned features of the website includes: </strong>
+<p><strong>Future planned features of the website includes:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
