@@ -271,5 +271,3 @@ team helped to execute.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roster_Monster_Poster1.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
