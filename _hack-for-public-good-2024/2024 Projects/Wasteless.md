@@ -5,31 +5,57 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Projects
 ---
+<blockquote>
+<p>Is there a way to help other people in the community who may benefit from
+our extra groceries and allow them to be able to donate it in a very convenient
+manner?</p>
+<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.jpg">
 </div>
 <h4>Problem</h4>
-<p>Singapore trashes over 2 million kilograms of food daily <em>(equivalent to two million bags of rice)</em> and
-only recycles 18%. A significant contributing source is eEssential food
-items like rice, noodles, and bread, contribute significantly to this waste,
-further impacting which could have been re-channeled to the 10.4% of surveyed
-households that experiencing food insecurity in Singapore today instead.</p>
+<p>Singapore trashes over 2 million kilograms of food daily (<em>roughly equivalent to two million bags of rice</em>)
+and only recycles 18% of this food waste. A significant contributing source
+is essential food items like rice, noodles and bread, which could have
+been re-channelled to the 10.4% of surveyed households that experience
+food insecurity in Singapore today instead.</p>
 <p>If you'd like to download a copy of our deck, you may do so <a href="https://docs.google.com/presentation/d/1XJSoueVQlEF7P-2ZOZtrz9VlCYfYUnYWHbKprr9_-zA/edit#slide=id.g264a7a38d6d_0_4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Solution</h4>
-<p>Our user-friendly web app aims to be a comprehensive one-stop platform
-with features tackling the food waste problem at each stage of the food
-life cycle.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Portion Calculator</div><div class="isomer-card-description">Get what you need: right food, right amounts. Double the impact when you sSave youron grocery bills and, waste less, double the impact.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Locate &amp; Impact</div>
-<div class="isomer-card-description">Small steps, big impact. Use our map to find your nearest community fridges
-and food banks, which are important sources of food aid for your neighbours
-experiencing food insecurity.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="http://waste-less.info/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Recipes &amp; Tips</div><div class="isomer-card-description">Discover storage hacks &amp; recipes to make the most of your food. Cook sustainably for tasty, resourceful meals.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
+<p>We have built a no-code web app in lieu of having no engineers on our
+team that targets the food waste problem at various stage of the food life
+cycle with the following envisioned features:</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>A portion calculator</strong> 
+<br>Reduces excess food being generated at top of the funnel.
+<br><em>Note: This was sourced from an existing open-source product but would be the closest to what we have in mind, but adapted to the local food context</em>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>A map of food donation avenues</strong> (food bank, food donation
+boxes, community fridges etc.)
+<br>Gives people more information on where they can donate their food before
+it expires / turns bad. This aims to decrease food waste by increasing
+food donation rates.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Food storage tips</strong> 
+<br>To arm people with the knowledge to extend the shelf life of their food
+before it turns bad</p>
+<p></p>
+</li>
+<li>
+<p><strong>AI-powered recipe generator</strong>
+<br>To help people find creative ways to use their leftover ingredients instead
+of trashing it.
+<br><em>Note: This was sourced from an existing open-source product but would be the closest to what we have in mind, but adapted to the local food context</em>
+</p>
+</li>
+</ol>
 <p>Try out our webapp <a href="http://waste-less.info/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. For any queries or collaborations,
 email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yunxi@open.gov.sg</u></a>.</p>
 <h4>Future of Wasteless</h4>
@@ -44,6 +70,17 @@ email us at <a href="yunxi@open.gov.sg" rel="noopener noreferrer nofollow" targe
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_19_at_5_48_47_PM.png">
 </div>
+<p></p>
+<blockquote>
+<p>"...it sounds like a simple idea, but being able to execute it well, think
+through the whole process, that's what tech for public good is about [...]
+helping the community achieve more a sustainable lifestyle and support
+each other through Waste<em>less</em>, all of these are prime examples
+of how our officers are making a difference to the community through your
+efforts in Hack for Public Good..."
+<br>
+<br>– Minister Josephine Teo</p>
+</blockquote>
 <p></p>
 <p><strong>Poster</strong>
 </p>
