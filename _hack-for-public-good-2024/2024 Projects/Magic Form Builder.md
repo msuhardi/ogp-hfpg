@@ -72,6 +72,5 @@ they were very impressed!&nbsp;</p>
 it?” A total of 30+ public officers have expressed interest to use the
 Magic form builder that day.</p>
 <p>
-<br>Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> if
-you would like to find out more.</p>
+<br>Like what you see? Chat with us <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
 <p></p>
