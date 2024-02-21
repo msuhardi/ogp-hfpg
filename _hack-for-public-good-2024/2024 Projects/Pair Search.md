@@ -154,7 +154,9 @@ which tend to be overly biased towards one dimension of result quality</p>
 <p>We have currently soft-launched Pair Search (Hansard) with AGC, and a
 selection of users who frequently utilize Hansard Search, including Ministry
 of Law legal policy officers, Comm Ops officers at MCI and PMO, COS coordinators
-among others. Initial user feedback has been positive:</p>
+among others. We are averaging ~150 daily users and ~200 daily searches
+in the early days of our soft launch, and initial user feedback has been
+positive:</p>
 <p><strong><em>"This will improve productivity by a few folds. Hansard search was the most painful thing previously"</em></strong><em> - MCI Policy Officer</em>
 </p>
 <p><strong><em>"Wah useful. Returns results much faster than the current one"</em></strong><em> - MHA Policy Officer #1</em> 
