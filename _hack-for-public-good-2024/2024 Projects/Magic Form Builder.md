@@ -66,7 +66,7 @@ At the same time, the PDF conversion mode drastically simplifies the process
 of digitalising paper forms.</p>
 <p>The most common question on demo day was, "When would this be available
 for us to use?" Over 30 public officers across different agencies have
-also registered their interest in using the new feature.
+also registered their interest in using the Magic Form Builder.
 <br>
 <br>Like what you see? Have a <a href="https://go.gov.sg/formsg-support" rel="noopener noreferrer nofollow" target="_blank">chat</a> with us!</p>
 <h4>Team members</h4>
