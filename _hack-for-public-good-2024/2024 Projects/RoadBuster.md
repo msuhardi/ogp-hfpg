@@ -17,9 +17,10 @@ plate numbers and reduce the time taken for Traffic Police officers to
 confirm red light and speeding offences, making the roads safer for everyone.
 The prototype is a back-end admin interface and dashboard for officers
 to confirm licence plate details from traffic camera images.</p>
-<p><a href="/files/RoadBuster_Public.pdf" rel="noopener noreferrer nofollow" target="_blank">Roadbuster Runthrough</a>
-</p>
-<p></p>
+<p>See our slides here:</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFjDb-beWq-QoSzIO3eKmCJ5obusLwkT0ShwWRpvd4S_cTyXkiu_2uI3vg0mMZ_kGOLtshUv9qxDGj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roadbuster___A3___Front.png">
