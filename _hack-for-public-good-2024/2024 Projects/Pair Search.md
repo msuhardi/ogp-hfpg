@@ -218,7 +218,7 @@ and use-cases.</p>
 <h4>Meet the team</h4>
 <p>The prototype was developed by the following team.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pairSearchTeamPhoto.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pairSearchTeamPhoto.jpg">
 </div>
 <p></p>
 <p></p>
