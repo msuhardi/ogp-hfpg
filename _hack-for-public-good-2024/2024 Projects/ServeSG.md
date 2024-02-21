@@ -57,7 +57,7 @@ and interactive maps</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 3 - Attend" src="/images/Screenshot_2024_02_21_at_3_19_27_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3 - Attend" src="/images/Screenshot_2024_02_21_at_2_26_00_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
