@@ -182,19 +182,19 @@ CSP constraints by splitting rules into 4 categories</p>
 </li>
 <li>
 <p>Soft rules: Whether to minimise/maximise number of shifts</p>
-</li>
-</ul>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rules.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rule_selection.png">
 </div>
+</li>
+</ul>
+</li>
+</ul>
 <ul>
 <li>
 <p>Within each category, configuration is done by constructing a sentence
 that describes what the rule is enforcing</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rule_example.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rule_ex.png">
 </div>
 </li>
 </ul>
@@ -205,7 +205,7 @@ that describes what the rule is enforcing</p>
 <p>See all staff’s blocked out dates for scheduling and preferred shift slots
 all in one view, during the entire roster period</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff_schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff.png">
 </div>
 </li>
 <li>
@@ -213,7 +213,7 @@ all in one view, during the entire roster period</p>
 be used during rule creation to make the rule target only specific staff
 groups</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_example.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_ex.png">
 </div>
 </li>
 </ul>
