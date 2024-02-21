@@ -185,11 +185,11 @@ Court of Appeal (to go hand-in-hand with the current Hansard dataset for
 any legal research use-cases).</p>
 <p><strong>Going from Search to Recommendations</strong>
 </p>
-<p>The next goal for our search engine is to fully leverage our control over
-the entire search system by utilizing the search index not just for direct
-queries but also for enhancing discovery and recommendations. By analyzing
-search patterns, user interactions, and content relationships within our
-index, we can proactively surface relevant content and personalized suggestions.</p>
+<p>The next goal for our search engine is to fully leverage the search index
+we've built for not just direct queries, but also for enhancing discovery
+and recommendations. By analyzing search patterns, user interactions, and
+content relationships within our index, we can proactively surface relevant
+content and personalized suggestions.</p>
 <p>This approach will transform the search experience from being purely query-driven
 to becoming a dynamic platform for content discovery, tailored to meet
 individual user needs and preferences, thereby enriching user engagement
