@@ -217,6 +217,8 @@ groups</p>
 </div>
 </li>
 </ul>
+<p>To access the prototype, click <a href="https://go.gov.sg/romo-trial-h4pg" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
+</p>
 <h4>Traction</h4>
 <p>As of 20 Feb 2024, we have received 70 sign-ups from interested partners
 from H4PG and two email blasts.</p>
