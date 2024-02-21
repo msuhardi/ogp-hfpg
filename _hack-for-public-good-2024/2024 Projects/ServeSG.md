@@ -133,8 +133,8 @@ save time, money, and manpower.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">1.6 million man-hours</div>
-<div class="isomer-card-description">in potential labour savings for opportunity organisers</div>
+<div class="isomer-card-title">1.1 million man-hours</div>
+<div class="isomer-card-description">in potential labour savings for opportunity organisers per annum</div>
 </div>
 </div>
 <div class="isomer-card">
