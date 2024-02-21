@@ -6,6 +6,10 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h4>Pair Search</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A4_truncated.jpg">
+</div>
+<p>Try it out <a href="https://search.pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> today!</p>
 <h4>The bigger picture - Search for Humans and Machines alike</h4>
 <p>A good decision is an informed one. Policy officers and a civic society
 need information to make decisions and learn about areas of public interest,
@@ -27,9 +31,7 @@ professionals and members of the public alike.</p>
 Results are poor due to being 100% keyword search based, meaning that the
 documents that frequently mention a single word in a query are often ranked
 more highly, when they should be taking the entire search phrase into account.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smaller_A4.jpeg">
-</div>
+<p></p>
 <p>For instance, look at this search for “covid 19 rapid testing” in the
 <a href="https://sprs.parl.gov.sg/search/#/home" rel="noopener noreferrer nofollow" target="_blank"><u>current Hansard search engine</u> 
 </a>:</p>
@@ -88,14 +90,17 @@ big data serving engine, to offer state-of-the-art search capabilities.
 We leverage on their extensive text-search capabilities, as well as continuous
 integration of state of the art techniques and models (e.g. the e5/m3 models
 and ColbertV2 reranking)</p>
+<p>*Note, the above video showcases a "Magic Summary" feature that automatically
+generates a summary of the best results in a chronological timeline. However,
+we are rolling Pair Search out without it first to focus on the core search
+experience.</p>
 <h4>The Data</h4>
-<p>For our data source, we selected the Singapore Hansard, and undertook
-the challenging task of scraping and parsing the extensive Hansard database.
-This site contains over 30,000 reports starting from 1955. Given the evolving
-data formats over the decades, standardizing this diverse information for
-search purposes presented significant hurdles. Nonetheless, these were
-successfully navigated to create a uniform format conducive to efficient
-search operations.</p>
+<p>We undertook the challenging task of scraping and parsing the extensive
+Hansard database. This site contains over 30,000 reports starting from
+1955. Given the evolving data formats over the decades, standardizing this
+diverse information for search purposes presented significant hurdles.
+Nonetheless, these were successfully navigated to create a uniform format
+conducive to efficient search operations.</p>
 <h4>The Engine</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pair_search_tech.png">
@@ -124,9 +129,9 @@ and BM25 text matching algorithms to efficiently sift through vast amounts
 of data.&nbsp;</p>
 <p>On the semantic front, Pair Search incorporates e5 embeddings, which offer
 a balance of speed, cost-effectiveness, and enhanced performance compared
-to alternatives like OpenAI's ada embeddings model. This dual approach
-ensures a robust and nuanced search process that captures both the intent
-behind user queries as well as the actual textual content.</p>
+to alternatives like OpenAI's ada embeddings model.</p>
+<p>This dual approach ensures a robust and nuanced search process that captures
+both the intent behind user queries as well as the actual textual content.</p>
 <ol start="3">
 <li>
 <p><strong>Re-ranking:&nbsp;</strong>
@@ -145,18 +150,72 @@ top results from all content nodes, creating a hybrid score that integrates
 semantic, keyword-based, and ColbertV2 scores. Utilizing a hybrid score
 gives us significantly better performance than relying on just one metric,
 which tend to be overly biased towards one dimension of result quality</p>
+<h4>Meet the team</h4>
+<p>The prototype was developed by the following team.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pairSearchTeamPhoto.jpg">
+</div>
+<h4>What's happening</h4>
+<p>We have currently soft-launched Pair Search (Hansard) with AGC, and a
+selection of users who frequently utilize Hansard Search, including Ministry
+of Law legal policy officers, Comm Ops officers at MCI and PMO, COS coordinators
+among others. Initial user feedback has been positive:</p>
+<blockquote>
+<p>This will improve productivity by a few folds. Hansard search was the
+most painful thing previously</p>
+</blockquote>
+<blockquote>
+<p>Wah useful. Returns results much faster than the current one</p>
+</blockquote>
 <h4>What's next</h4>
-<p>Pair Search is constantly being enhanced. Some features include building
-searches customized to the different needs of each dataset and target user
-base, learning from existing search results to iteratively tune our search
-performance, and integration of LLMs to transform user search queries and
-augment them with additional data.</p>
+<p><strong>Expanding our Data Sources</strong>
+</p>
+<p>Hansard is not the only useful public corpus of data with a less-than-ideal
+search experience. For instance, even the search for a simple query such
+as "Covid 19" on the <a href="https://www.sgpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SG Press Centre page</a> yields zero results
+(you have to search for "covid-19" with a dash for it to return some documents.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/singapore_press_center_search_covid.jpg">
+</div>
+<p>One of our immediate goals is hence to expand the number of data corpuses
+we make available for search. We are currently in the midst of working
+with Judiciary to incorporate the case judgements from the High Court and
+Court of Appeal (to go hand-in-hand with the current Hansard dataset for
+any legal research use-cases).</p>
+<p><strong>Going from Search to Recommendations</strong>
+</p>
+<p>The next goal for our search engine is to fully leverage our control over
+the entire search system by utilizing the search index not just for direct
+queries but also for enhancing discovery and recommendations. By analyzing
+search patterns, user interactions, and content relationships within our
+index, we can proactively surface relevant content and personalized suggestions.</p>
+<p>This approach will transform the search experience from being purely query-driven
+to becoming a dynamic platform for content discovery, tailored to meet
+individual user needs and preferences, thereby enriching user engagement
+and satisfaction.</p>
+<p><strong>Increasing the Search Performance</strong>
+</p>
+<p>We also constantly aim to better our search performance, which we chart
+through metrics such as the average rank of results that are clicked, or
+the number of pages a user has to go through before finding results they
+want. These metrics can be used to tune our hybrid algorithm and/or weights
+to improve both the accuracy and relevance of the results generated.</p>
+<p>Another thing we are exploring now is the integration of LLMs to augment
+the search performance via i) enriching the search index, via automated
+tagging and potential-question generation and ii) enhancing the retrieval
+/ ranking process through query expansion (appending additional related
+terms and phrases to a query to increase the chance of retrieving a relevant
+hit)</p>
+<p><strong>Broadening the Applications of Our Search Engine</strong>
+</p>
 <p>As a search engine, we’ve designed it to work out of the box as the retrieval
 stack for a Retrieval Augmented Generation system as well, such as the
-one we have been trialing with the Assistants feature in Pair Chat.</p>
-<p>We are also looking into building searches around other datasets beyond
-Hansard. We are in the midst of working with the Judiciary to incorporate
-the Singapore courts case judgements as an additional data source.&nbsp;</p>
+one we have been trialing with the Assistants feature in Pair Chat. By
+providing an API to both the base search functionality and the RAG retrieval
+functionality, we hope to have our base engine serving multiple applications
+and use-cases.</p>
+<p></p>
 <p>Interested in collaborating? Reach out to us <a href="https://go.gov.sg/pair-search-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
