@@ -14,10 +14,11 @@ and is content with the status quo. As a result, inefficient systems, duplicated
 solutions, and suboptimal practices proliferate.&nbsp;</p>
 <p>Modeled after community platforms like Kaggle and Stackoverflow, <em>Whine</em> encourages
 public officers to surface problems so we can crowdsource issues and solutions
-(tech and/ or otherwise) while empowering admins to act on authentic concerns.&nbsp;</p>
+(tech and/ or otherwise) while also empowering admins to act on authentic
+concerns.&nbsp;</p>
 <h4>Solution</h4>
 <p><em>Whine</em> operates on the premise of <strong>problem validation</strong> ('whining'
-to better identify issues that matter) and <strong>crowdsolving</strong> (admins
++ upvoting to better identify issues that matter) and <strong>crowdsolving</strong> (admins
 typically have no reason whatsoever to reinvent the wheel):</p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -29,7 +30,7 @@ points of reference for other hackathon organizers and participants in
 public service. Beyond OGP-related content, we are also working with Centre
 for Healthcare Innovation (CHI) as well as Institute of Public Administration
 &amp; Management of Civil Service College (CSC) to import domain-specific
-knowledge into our database.</p>
+problems/ solutions into our database.</p>
 </li>
 <li>
 <p><strong><em>Semantic search</em></strong><em>:</em> As the number of problem
@@ -59,5 +60,18 @@ constructive participation.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key metric of whine: solutions paired with problems" src="/images/image2_keyMetric.png">
 </div>
+<h4>Usage</h4>
+<p>We are working on pilots with teams in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Civil Service College (CSC)</strong>, specifically Institute of
+Public Administration and Management</p>
+</li>
+<li>
+<p><strong>SGHackitRx'24</strong> - a hackathon involving healthcare professionals
+across all 3 healthcare clusters</p>
+</li>
+</ul>
 <p></p>
-<p>Created by Kok Seng and Kahhow</p>
+<p>Created by <strong>Kok Seng</strong> and <strong>Kahhow</strong>
+</p>
