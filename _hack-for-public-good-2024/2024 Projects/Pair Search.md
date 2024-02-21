@@ -215,8 +215,8 @@ one we have been trialing with the Assistants feature in Pair Chat. By
 providing an API to both the base search functionality and the RAG retrieval
 functionality, we hope to have our base engine serving multiple applications
 and use-cases.</p>
-<p></p>
-<p>Interested in collaborating? Reach out to us <a href="https://go.gov.sg/pair-search-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>If you're currently using a search that doesn't quite work, or are interested
+in collaborating, reach out to us <a href="https://go.gov.sg/pair-search-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <h4>Meet the team</h4>
 <p>The prototype was developed by the following team.</p>
 <div class="isomer-image-wrapper">
