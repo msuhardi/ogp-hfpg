@@ -87,12 +87,12 @@ into Government &amp; through these talents, make Singapore better.</p>
 <br><strong>Current Careers @ Gov job portal</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=jWgXABghkxT-Iri6"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=jWgXABghkxT-Iri6"></iframe>
 </div>
 <p><strong>Our CareerSG Prototype</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=4YbvHec8Yiwc8jl8&amp;start=132"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQVfwz7Q9XE?si=4YbvHec8Yiwc8jl8&amp;start=132"></iframe>
 </div>
 <h4>Our Rollout Plan</h4>
 <p>We’ve sought approval from the Public Service Division (PSD) to trial
