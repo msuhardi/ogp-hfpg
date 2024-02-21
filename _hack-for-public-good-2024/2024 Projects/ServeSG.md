@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h3>ServeSG</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_0nZS3WFKu-0Aie8YMViN8ASaf4CBGIurrGIO5YyOL_NJQ8PrtWAJpLeSKYML350J0oE9VioG8m6t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_0nZS3WFKu-0Aie8YMViN8ASaf4CBGIurrGIO5YyOL_NJQ8PrtWAJpLeSKYML350J0oE9VioG8m6t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Problem</h4>
 <p>Singapore has been facing dwindling volunteerism rates, from 35% in 2016
