@@ -79,9 +79,15 @@ and product managers.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="183" width="624" src="https://lh7-us.googleusercontent.com/Vs-tRj595CbBe3yo4l9MEHhIRS1qLj_Aq8hCw-PyL4CexuyHo6ESEV3jiX3o8hLQGBjRfs16Lvzg8uHwhO-CqgDMASsHUk7Dpm3rx1_Ok3hRcMRRTt_pmHKYVHxk6nKI2JSOt0OJaQ4C0OATkpkjFhE">
 </div>
+<hr>
 <p>For more details on the Scribe prototype and the team behind it, please
 refer to our deck below.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-TrTHwUCHwbeBttNu-UOthOhYMDbmINuHIKV7DL8sTvPW3LeU8M7neSBv7HCMn9_cWSEc6YyFf3S1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2_Poster_page_0001.jpeg">
 </div>
+<p></p>
 <p></p>
