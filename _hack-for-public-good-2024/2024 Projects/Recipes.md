@@ -70,12 +70,15 @@ after completing a few steps.</p>
 <h4>Team</h4>
 <p>Recipes was developed by a multidisciplinary team including from left
 to right below, Zul Icksan (Design), Wee Loong Kuan (Engineering), and
-Adan Vielma (Product).</p>
+Adan Vielma (Produc</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/recipes_teams.png">
 </div>
 <h4>Demo Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Demo Day Recipes" src="/images/recipes_demo_day.png">
+</div>
+<div class="iframe-wrapper">
+<iframe height="310" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFjlbGYlHb-5FgMw69u3_fMqiVSIecxPUCyjAByPldHwbHxxCplm8yHv19KK6GPG9PQXO7J23SZOQ6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
