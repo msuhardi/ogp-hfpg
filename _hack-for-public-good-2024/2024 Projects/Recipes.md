@@ -41,17 +41,6 @@ sector inspiration.</p>
 <p>Enforcement of fines with mailing payment links</p>
 </li>
 </ul>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Recipes" src="/images/recipes_A3.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4>How It Works</h4>
 <p>Public officers can browse Recipes for one of our templates that solve
 a problem they have, test it out with a demo, and continue to customize
@@ -64,20 +53,40 @@ a template manually and share the API key.</p>
 could develop a prototype to solve their problem in a matter of minutes
 after completing a few steps.</p>
 <p>After that point, users can test or customize further using OGP's products.</p>
-<p><strong>The purpose of Recipes is to lower the bar to solving common problems that require the use of multiple OGP products. While we created a proof-of-concept for the Hackathon, please connect with OGP if you would like to share your use case.</strong>
+<h4>Potential Impact</h4>
+<p><strong>The purpose of Recipes is to lower the bar to solving common problems that require the use of multiple OGP products and pass on the existing benefits of these products to more users.</strong>
 </p>
-<p></p>
+<p><strong>Unlock Significant Cost Savings:</strong> Recipes empowers government
+agencies to significantly reduce costs by minimizing reliance on expensive
+professional services, potentially saving thousands of dollars per solution.</p>
+<p><strong>Boost Productivity with Time Savings:</strong> Save up to 2-3 hours
+per solution by utilizing Recipes, enabling public officers to focus on
+essential tasks and enhancing overall productivity.</p>
+<p><strong>Drive Operational Efficiency:</strong> Facilitates the digitization
+of workflows to streamline processes, resulting in improved citizen services.</p>
 <h4>Team</h4>
-<p>Recipes was developed by a multidisciplinary team including from left
-to right below, Zul Icksan (Design), Wee Loong Kuan (Engineering), and
-Adan Vielma (Produc</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/recipes_teams.png">
 </div>
+<p>Recipes was developed by a multidisciplinary team including from left
+to right below, Zul Icksan (Design), Wee Loong Kuan (Engineering), and
+Adan Vielma (Product)</p>
 <h4>Demo Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Demo Day Recipes" src="/images/recipes_demo_day.png">
 </div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recipes" src="/images/recipes_A3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>More use cases</h4>
 <div class="iframe-wrapper">
 <iframe height="310" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFjlbGYlHb-5FgMw69u3_fMqiVSIecxPUCyjAByPldHwbHxxCplm8yHv19KK6GPG9PQXO7J23SZOQ6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
