@@ -75,5 +75,6 @@ from users.&nbsp;
 <br>For any queries or collaborations, email us at <a href="mailto:kyiyeung@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kyiyeung@open.gov.sg</u></a> and
 <a href="mailto:shazli@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shazli@open.gov.sg</a>.</p>
 <p></p>
-<p>Check out our prototype <a href="https://sentry.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Check out our prototype at <a href="https://sentry.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sentry.hack.gov.sg</a>
+</p>
 <p></p>
