@@ -47,12 +47,11 @@ from NUS.&nbsp;</p>
 <img style="margin-left:0px;margin-top:0px;" height="231" width="308" src="https://lh7-us.googleusercontent.com/nAeX2utYsRH8V__blPPK2XvztNADm0HMCR2hgU9akHE7w3Nc1DjrkX3su2tfegvhI9qcyHmgwlLUii--1Oa_89-iMomTIvqs2LIC0LtJPDUFQqoqAbng5INgiQtVtI03HhZJZWqqj02BeolzfQYjPUI">
 </div>
 <p>For the transcription, it was suggested dialect support be added given
-that many needy patients are elderly. The transcription also did not distinguish
-between speakers when the transcription included non-English segments,
-which made it less readable. However, all participants agreed the lack
-of readability of the transcription was not a concern as long as the quality
-of the generated summary was high. As one remarked, “If summarised well,
-I won’t even refer to the transcript”.</p>
+that many needy patients are elderly. The transcription also did not always
+indicate which speaker made which utterance, which made it less readable.
+However, all participants agreed the lack of readability of the transcription
+was not a concern as long as the quality of the generated summary was high.
+As one remarked, “If summarised well, I won’t even refer to the transcript”.</p>
 <p>Most MSWs were impressed by the quality of the summaries. One MSW remarked
 that they were “quite close to what we would write”, and another wondered
 if automatically generated summaries might result in MSWs not thinking
