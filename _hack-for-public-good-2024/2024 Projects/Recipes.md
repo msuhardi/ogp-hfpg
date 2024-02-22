@@ -41,7 +41,11 @@ sector inspiration.</p>
 <p>Enforcement of fines with mailing payment links</p>
 </li>
 </ul>
+<p></p>
 <h4>How It Works</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Steps" src="/images/steps.png">
+</div>
 <p>Public officers can browse Recipes for one of our templates that solve
 a problem they have, test it out with a demo, and continue to customize
 it for their own use.</p>
