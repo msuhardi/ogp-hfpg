@@ -30,7 +30,7 @@ and <strong>Joanna Lo</strong>
 </p>
 <p></p>
 <h4>Further Reading</h4>
-<p><strong>Backstory</strong>
+<p><strong>Backstory</strong> 
 <br>When the team was first formed, we wanted to solve a totally different
 problem: noise conflicts. This was our initial problem statement: In the
 heart of our bustling city, HDB flats are not just structures; they are
@@ -59,7 +59,7 @@ and we were unable to find a business champion on the agency side - which
 was critical to the product’s success.</p>
 <p>As such, the team decided to pivot to another problem space.</p>
 <p></p>
-<p><strong><s>Death Note </s>Emergency Note</strong>
+<p><strong><s>Death Note </s>Emergency Note</strong> 
 <br>The team went back to the drawing block and pitched multiple ideas. The
 problem space that all of us resonated with was around how might we easily
 and securely leave important notes to our loved ones. There are many related
