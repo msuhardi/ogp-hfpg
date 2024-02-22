@@ -54,7 +54,7 @@ could develop a prototype to solve their problem in a matter of minutes
 after completing a few steps.</p>
 <p>After that point, users can test or customize further using OGP's products.</p>
 <h4>Potential Impact</h4>
-<p><strong>The purpose of Recipes is to lower the bar to solving common problems that require the use of multiple OGP products and pass on the existing benefits of these products to more users.</strong>
+<p><strong>The purpose of Recipes is to lower the bar to solving common problems that require the use of multiple OGP products. Benefits from adopting OGP products to solve your workflow issues include:</strong>
 </p>
 <p><strong>Unlock Significant Cost Savings:</strong> Recipes empowers government
 agencies to significantly reduce costs by minimizing reliance on expensive
