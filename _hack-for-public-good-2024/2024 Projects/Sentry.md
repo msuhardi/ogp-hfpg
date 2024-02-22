@@ -19,13 +19,10 @@ of personal information just from data leaked about you online. How might
 we help the public increase their ability to be more conscious about their
 data breaches and the scam attempts they will be subject to?</p>
 <p></p>
-<h4>Solution</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="342" width="242" src="https://lh7-us.googleusercontent.com/6ufKssrd64-vAa3CvVdpmjTf78YVoUNHa8mdjoNF2ic4oyODN07M9Aarxu9bOXbEd2jzSuBVvZC3H6zxJMHljHVXhckra25sgMIWea7LNc_rOcZ9yNQliKbiD9wBFtEfb8boJkHQUb6Jw0A2S45VQik">
-</div>
-<p>Sentry seeks to help the public level the playing field by allowing them
-to see which of their personal information has been leaked online and by
-who.</p>
+<h4>Solution</h4><a class="isomer-image-wrapper" href="https://sentry.hack.gov.sg"><img style="width: 50%;" height="342" width="242" src="https://lh7-us.googleusercontent.com/6ufKssrd64-vAa3CvVdpmjTf78YVoUNHa8mdjoNF2ic4oyODN07M9Aarxu9bOXbEd2jzSuBVvZC3H6zxJMHljHVXhckra25sgMIWea7LNc_rOcZ9yNQliKbiD9wBFtEfb8boJkHQUb6Jw0A2S45VQik"></a>
+<p><a href="https://sentry.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sentry</a> seeks
+to help the public level the playing field by allowing them to see which
+of their personal information has been leaked online and by who.</p>
 <p></p>
 <p>With this information, Sentry will then provide greater information on
 the kinds of scam attempts that they are most likely to be subject to and
@@ -75,7 +72,8 @@ our existing features and focus on refining our user interface and experience.
 The next phase would focus on running pilots and getting more feedback
 from users.&nbsp;
 <br>
-<br>For any queries or collaborations, email us at <a href="http://sentry.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kyiyeung@open.gov.sg</u></a> and <a href="mailto:shazli@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shazli@open.gov.sg</a>.</p>
+<br>For any queries or collaborations, email us at <a href="mailto:kyiyeung@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kyiyeung@open.gov.sg</u></a> and
+<a href="mailto:shazli@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shazli@open.gov.sg</a>.</p>
 <p></p>
 <p>Check out our prototype <a href="https://sentry.hack.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
