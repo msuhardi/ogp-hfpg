@@ -48,5 +48,5 @@ sections:
         crowdsource for our clients’ needs. The coordination is seamless!” — Ko
         Wei Lin, Social worker
       button: See how demo day went
-      url: /hack-for-public-good-2024/aiid/
+      url: https://www.youtube.com/watch?v=tG3IpEdZK88
 ---
