@@ -67,5 +67,15 @@ after completing a few steps.</p>
 <p><strong>The purpose of Recipes is to lower the bar to solving common problems that require the use of multiple OGP products. While we created a proof-of-concept for the Hackathon, please connect with OGP if you would like to share your use case.</strong>
 </p>
 <p></p>
-<p></p>
+<h4>Team</h4>
+<p>Recipes was developed by a multidisciplinary team including from left
+to right below, Zul Icksan (Design), Wee Loong Kuan (Engineering), and
+Adan Vielma (Product).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/recipes_teams.png">
+</div>
+<h4>Demo Day</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Demo Day Recipes" src="/images/recipes_demo_day.png">
+</div>
 <p></p>
