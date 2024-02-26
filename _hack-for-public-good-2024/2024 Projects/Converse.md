@@ -71,4 +71,4 @@ right before oral exams.&nbsp;</p>
 to support teachers’ ability to assign homework, track students’ progress
 and identify who needs additional guidance the most.</p>
 <p>Check out the prototype <a href="http://go.gov.sg/conversesg" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p></p>
+<p>Team members: Arshad Ali, Antariksh Mahajan, Rachel Tan, Darren Ng</p>
