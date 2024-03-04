@@ -41,9 +41,10 @@ users to zoom into text) and ability to convert speech-to-text.&nbsp;</p>
 (LLM), ReadLiao transforms the reading experience for senior citizens.
 Our product deciphers long-form letters and documents, to provide clear
 and contextualized content that is easy for seniors to understand.&nbsp;</p>
-<p>With integrated language translations and audio prompts, ReadLiao not
-only enhances comprehension for seniors but also ensures inclusivity across
-languages and literacy abilities.&nbsp;<a href="https://drive.google.com/file/d/1P8XFRx0YzKz17a15tNmrAoJ9eAn3ohFT/view" rel="noopener noreferrer nofollow" target="_blank">You can view the walkthrough of the product here.</a>
+<p>With integrated language translations and audio prompts in all four official
+national languages, ReadLiao not only enhances comprehension for seniors
+but also ensures inclusivity across languages and literacy abilities.&nbsp;
+<a href="https://drive.google.com/file/d/1nCe3MEDUHyDuhMd562YJR6hQ_U4Yi-Kn/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">You can view the walkthrough of the product here.</a>
 </p>
 <p>We believe in making information accessible to all, and ReadLiao is the
 key to unlocking a world of clarity for seniors, one letter at a time.</p>
