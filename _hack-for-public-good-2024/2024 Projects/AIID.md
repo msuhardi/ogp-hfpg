@@ -6,6 +6,9 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3><strong>AIID: AI-assisted Injury Descriptor</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1f_n9uCsbCwDwkeUtFCTv04Gi2lv6ElI9dOj3nNPNDBY/embed?start=false&amp;amp;loop=false&amp;amp;delayms=10000"></iframe>
+</div>
 <h4>Problem</h4>
 <p>How might we fast-track the reporting of high volume, low severity workplace
 incidents?</p>
@@ -37,6 +40,5 @@ incidents</p>
 <p>Faster claim processing and payment of claim</p>
 </li>
 </ul>
-<p>Read our <a href="https://docs.google.com/presentation/d/1f_n9uCsbCwDwkeUtFCTv04Gi2lv6ElI9dOj3nNPNDBY/edit#slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">deck</a> for
-more information and check out the Telegram bot - Injured@Work</p>
+<p>Check out the Telegram bot - Injured@Work</p>
 <p></p>
