@@ -111,10 +111,13 @@ For more details, feel free to reach out to us.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Exploring potential collaborations with ministries to share pertinent
-data.</p>
+data</p>
 </li>
 <li>
 <p>Investigating partnerships with related projects initiated by ministries.</p>
+</li>
+<li>
+<p>Developing walk-through experience of "Journey to Singapore"</p>
 </li>
 </ul>
 <h4><strong>Project Team</strong></h4>
