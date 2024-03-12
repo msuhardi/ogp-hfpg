@@ -7,7 +7,7 @@ third_nav_title: 2024 Projects
 ---
 <h3><strong>AIID: AI-assisted Injury Descriptor</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1f_n9uCsbCwDwkeUtFCTv04Gi2lv6ElI9dOj3nNPNDBY/embed?start=false&amp;amp;loop=false&amp;amp;delayms=10000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1f_n9uCsbCwDwkeUtFCTv04Gi2lv6ElI9dOj3nNPNDBY/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4>Problem</h4>
 <p>How might we fast-track the reporting of high volume, low severity workplace
