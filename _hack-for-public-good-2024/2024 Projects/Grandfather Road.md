@@ -147,10 +147,10 @@ failing, and 29 people (that we’re very proud of) scoring an A+.</p>
 </div>
 <p>Lennard Lim - Product Manager
 <br>Pearly Ong - Product Designer
-<br>Khaleedah Sari - Product Designer
+<br>Khaleedah Sairi - Product Designer
 <br>Thoo Wan Ling - Software Engineer
 <br>Siddarth Suresh - Software Engineer</p>
-<p><strong>Special Mention Contributors</strong>
+<p><strong>Special Mention Contributors</strong> 
 <br>Shanty Basrur
 <br>Russell Chan</p>
 <p></p>
