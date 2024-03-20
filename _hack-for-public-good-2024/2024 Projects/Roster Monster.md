@@ -30,6 +30,16 @@ rosters due to existing system constraints, despite the availability of
 automatic solutions.</p>
 </li>
 </ol>
+<p>Interviews with TTSH and SGH users of such commercial solutions like
+<a href="https://workforceoptimizer.com/" rel="nofollow" target="_blank"><u>Workforce Optimizer (WFO)</u>
+</a>revealed dissatisfaction with the system-generated rosters due to existing
+system constraints (e.g. inability to change existing constraints, weightage
+of existing constraints, accommodate colleagues’ requests). Majority of
+the roster planners were not the contract owner. Deviation from the contractual
+agreed constraints often require time-consuming change requests and budget
+approvals, leading to delays of up to several months.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p>Interviews with users of commercial solutions revealed dissatisfaction
 with the system-generated rosters due to existing system constraints (e.g.
 inability to change existing constraints, weightage of existing constraints,
@@ -37,6 +47,8 @@ accommodate colleagues’ requests). Majority of the roster planners were
 not the contract owner. Deviation from the contractual agreed constraints
 often require time-consuming change requests and budget approvals, leading
 to delays of up to several months.</p>
+</li>
+</ol>
 <ol start="3">
 <li>
 <p>Roster planning demands mental agility as planners balance numerous constraints
